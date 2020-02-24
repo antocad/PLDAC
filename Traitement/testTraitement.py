@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from TraitementSimple import TraitementSimple
+from TraitementNGrams import TraitementNGrams
 
-trait = TraitementSimple('French')
+trait = TraitementNGrams(3,'French')
 words = trait.preprocessing('Je fais une Phrase pour tester le prétraitement. == .')
 print(words)

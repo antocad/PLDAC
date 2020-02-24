@@ -24,7 +24,7 @@ class TraitementNGrams(Traitement):
         if (self.n == 1):
             t = TraitementSimple(self.lang)
             return t.preprocessing(texte)
-        
+
         texte = texte.replace("\xa0", " ").replace("\u2009", " ").replace("\u202f", " ").replace("\xad", " ")
         texte = texte.replace("\n--", " ").replace("\n-", " ").replace("\n", " ").replace("--", " ").replace("––", "")
         texte = texte.replace(".", " ").replace(",", " ").replace(";", " ").replace(")", " ").replace("(", " ")
@@ -33,5 +33,7 @@ class TraitementNGrams(Traitement):
         txt = texte.lower()
         #retire les mots vides
         #words = utils.removeStopWords(words, self.lang)
-        words = ngrams(txt.split(), self.n)
+        words = []
+        for k in range(1,self.n+1):
+            words += ngrams(txt.split(), k)
         return [gram for gram in words]
