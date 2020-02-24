@@ -2,12 +2,12 @@
 import sys
 sys.path.append("../Parser")
 sys.path.append("../Traitement")
-from ParserArticle import ParserArticle
+from ParserCorpus import ParserCorpus
 from Indexation import Indexation
 from TraitementSimple import TraitementSimple
 from utils import traiteCorpus
 
-corpus = ParserArticle.parse("../corpus_short.fr")
+corpus = ParserCorpus.parse("../corpus_short.fr")
 trait = TraitementSimple('French')
 corpusTraite = traiteCorpus(corpus,trait)
 ind = Indexation(corpusTraite)

@@ -1,5 +1,5 @@
-from ParserArticle import ParserArticle
+from ParserCorpus import ParserCorpus
 
-corpus = ParserArticle.parse("../corpus_short.fr")
+corpus = ParserCorpus.parse("../corpus_short.fr")
 for doc in corpus :
     print(doc.getId(),doc.getTitle())
