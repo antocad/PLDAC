@@ -3,11 +3,13 @@ from Traitement import Traitement
 from TraitementSimple import TraitementSimple
 import re
 from nltk import ngrams
+from nltk.corpus import stopwords
 
 class TraitementNGrams(Traitement):
     def __init__(self, n, lang):
         self.n = n
         self.lang=lang
+        self.stop_words = set(stopwords.words(self.lang))
 
     def preprocessing(self,texte):
         """
@@ -24,16 +26,23 @@ class TraitementNGrams(Traitement):
         if (self.n == 1):
             t = TraitementSimple(self.lang)
             return t.preprocessing(texte)
-
+        
+        #on retire les caractères non-reconnus
         texte = texte.replace("\xa0", " ").replace("\u2009", " ").replace("\u202f", " ").replace("\xad", " ")
         texte = texte.replace("\n--", " ").replace("\n-", " ").replace("\n", " ").replace("--", " ").replace("––", "")
         texte = texte.replace(".", " ").replace(",", " ").replace(";", " ").replace(")", " ").replace("(", " ")
         texte = re.sub(r"\s+"," ",texte)
+        
         #on met tout en minuscule
         txt = texte.lower()
-        #retire les mots vides
-        #words = utils.removeStopWords(words, self.lang)
+        
+        
         words = []
+        res = []
         for k in range(1,self.n+1):
             words += ngrams(txt.split(), k)
-        return [gram for gram in words]
+        for gram in words:
+            if(gram[0] in self.stop_words or gram[-1] in self.stop_words):
+                continue
+            res.append(gram)
+        return res
