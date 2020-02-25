@@ -21,7 +21,11 @@ class TfIdfStrategy(Strategy):
         nbdoc = len(self.index)
         tfDoc = dict(Counter(self.doc.content))
         for mot,tf in tfDoc.items():
+            if (mot not in self.indexInv.keys()):
+                val = 0
+            else:
+                val = len(self.indexInv[mot])
             #calcul tfidf
-            idf = math.log((1+nbdoc)/(1+len(self.indexInv[mot])))
+            idf = math.log((1+nbdoc)/(1+val))
             listTermeScore.append( (mot, tf*idf) )
         return sorted(listTermeScore, key=lambda t: t[1], reverse=True)
