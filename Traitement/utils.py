@@ -59,6 +59,6 @@ def noWord(word):
     d'aucune lettre
     """
     for l in word:
-        if(l>='a' and l<='z'):
+        if(l>='a' and l<='z' or l=='à'):
             return False
     return True

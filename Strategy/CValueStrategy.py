@@ -1,8 +1,10 @@
 import sys
 import math
+sys.path.append("../Document")
 
 from Strategy import Strategy
 from collections import Counter
+from Document import Document
 
 class CValueStrategy(Strategy):
     def __init__(self,indexation):
@@ -10,9 +12,12 @@ class CValueStrategy(Strategy):
         self.indexInv = indexation.getIndexInv()
         self.index = indexation.getIndex()
 
-    def execute(self,docTraite):
+    def execute(self,corpusTraite):
+        docTraite = Document('',[])
+        for doc in corpusTraite:
+            docTraite.content += doc.content
         freq = dict(Counter(docTraite.content))
-        listTermeScore = []
+        dictTermeScore = dict()
         termesImb = self.calculTermesImbriques(docTraite)
         for terme,ensTermes in termesImb.items():
             nbmot = len(terme)
@@ -23,11 +28,11 @@ class CValueStrategy(Strategy):
                 for t in ensTermes:
                     somme += freq[t]
                 score = (freq[terme] - (1/len(ensTermes)) * somme )
-            score *=  math.log(nbmot+1)
-            idf = self.indexation.getIDFTerme(terme)
-            score*=idf
-            listTermeScore.append((terme,score))
-        return sorted(listTermeScore, key=lambda t: t[1], reverse=True)
+            score *=  math.log(nbmot+0.5)#+1 pour les single-word
+            #idf = self.indexation.getIDFTerme(terme)
+            #score*=idf
+            dictTermeScore[terme] = score
+        return dictTermeScore
 
     def calculTermesImbriques(self,docTraite):
         ensTermes = set(docTraite.content)

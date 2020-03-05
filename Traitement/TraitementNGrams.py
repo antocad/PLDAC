@@ -4,6 +4,7 @@ from TraitementSimple import TraitementSimple
 from nltk.corpus import stopwords
 import re
 from nltk import ngrams
+import utils
 
 class TraitementNGrams(Traitement):
     def __init__(self, n, lang):
@@ -34,8 +35,10 @@ class TraitementNGrams(Traitement):
         txt = texte.lower()
         #retire les mots vides
         #words = utils.removeStopWords(words, self.lang)
+        txtsplit = txt.split()
+        txtsplit=utils.removeNoWord(txtsplit)
         words = []
         stop_words = set(stopwords.words(self.lang))
         for k in range(1,self.n+1):
-            words += ngrams(txt.split(), k)
+            words += ngrams(txtsplit, k)
         return [gram for gram in words if gram[0] not in stop_words and gram[-1] not in stop_words]#on retire les ngram qui commence ou fini par un stop words

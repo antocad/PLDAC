@@ -11,16 +11,17 @@ import utils
 import math
 from TfIdfStrategy import TfIdfStrategy
 from CValueStrategy import CValueStrategy
+from CValueTfidfStrategy import CValueTfidfStrategy
 from TraitementSimple import TraitementSimple
 from TraitementNGrams import TraitementNGrams
 import Extractor
 from ParserItem import ParserItem
 from statistics import mean
 
-nomfichierPickle = "indexationSimple_wikimed"
-fichierExtration = "LivrePret.txt"
-fichierres = 'res/restfidfsimple_newavg.csv'
-trait = TraitementSimple('French')
+nomfichierPickle = "indexation3Grams_wikimed"
+fichierExtration = "livrePret.txt"
+fichierres = 'res/rescvaluetfidf3gramssmooth.csv'
+trait = TraitementNGrams(3,'French')
 
 #recup l'indexation
 with open(nomfichierPickle, 'rb') as fichier:
@@ -31,6 +32,7 @@ with open(nomfichierPickle, 'rb') as fichier:
 corpus = ParserItem.parse(fichierExtration)
 corpusTraite = utils.traiteCorpus(corpus,trait)
 
-
-strat = TfIdfStrategy(ind,  lambda tf,idf : tf*idf,  lambda iter : mean(iter))
+#strat = CValueStrategy(ind)
+strat = CValueTfidfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter))
+#strat = TfIdfStrategy(ind,  lambda tf,idf : tf*idf,  lambda iter : max(iter))
 Extractor.Extractor.extract(corpusTraite,strat,-1,fichierres)

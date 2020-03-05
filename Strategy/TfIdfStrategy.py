@@ -35,7 +35,7 @@ class TfIdfStrategy(Strategy):
         tfidfindexinv = inverseIndex(tfidfindex)
         for term,doc_tfidf in tfidfindexinv.items():
             dictTermeScore[term] = self.formuleAgregation(doc_tfidf.values())
-        return sorted(dictTermeScore.items(), key=lambda t: t[1], reverse=True)
+        return dictTermeScore
 
 def normaliseIndex(index):
     for doc,term_tfidf in index.items():
