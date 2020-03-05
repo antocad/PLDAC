@@ -21,7 +21,7 @@ from statistics import mean
 nomfichierPickle = "indexation3Grams_wikimed"
 fichierExtration = "livrePret.txt"
 fichierres = 'res/rescvaluetfidf3gramssmooth.csv'
-trait = TraitementNGrams(3,'French')
+trait = TraitementNGrams(1,3,'French')
 
 #recup l'indexation
 with open(nomfichierPickle, 'rb') as fichier:

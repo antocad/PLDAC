@@ -7,7 +7,8 @@ from nltk import ngrams
 import utils
 
 class TraitementNGrams(Traitement):
-    def __init__(self, n, lang):
+    def __init__(self, k,n, lang):
+        self.k = k 
         self.n = n
         self.lang=lang
 
@@ -39,6 +40,6 @@ class TraitementNGrams(Traitement):
         txtsplit=utils.removeNoWord(txtsplit)
         words = []
         stop_words = set(stopwords.words(self.lang))
-        for k in range(1,self.n+1):
+        for k in range(self.k,self.n+1):
             words += ngrams(txtsplit, k)
         return [gram for gram in words if gram[0] not in stop_words and gram[-1] not in stop_words]#on retire les ngram qui commence ou fini par un stop words
