@@ -28,7 +28,7 @@ class CValueStrategy(Strategy):
                 for t in ensTermes:
                     somme += freq[t]
                 score = (freq[terme] - (1/len(ensTermes)) * somme )
-            score *=  math.log(nbmot+0.5)#+1 pour les single-word
+            score *=  math.log(nbmot+1)#+1 pour les single-word
             #idf = self.indexation.getIDFTerme(terme)
             #score*=idf
             dictTermeScore[terme] = score
