@@ -9,7 +9,7 @@ def removeStopWords(words, lang='French'):
     Renvoie une liste de mots sans les mots vides.
     """
     res = []
-    stop_words = set(stopwords.words(lang))
+    stop_words = stopwordsSet
     for w in words:
         if(w not in stop_words):
             res.append(w)
@@ -59,6 +59,10 @@ def noWord(word):
     d'aucune lettre
     """
     for l in word:
-        if(l>='a' and l<='z'):
+        if(l>='a' and l<='z' or l=='à'):
             return False
     return True
+
+def stopwordsSet():
+    with open('stopwords.fr','r', encoding='utf-8') as f:
+        return set(f.read().split('\n'))

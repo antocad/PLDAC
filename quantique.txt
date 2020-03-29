@@ -1,0 +1,565 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/282813677
+
+Physique Quantique ou la perte d'une certaine réalité
+Research · October 2015
+DOI: 10.13140/RG.2.1.2529.3529
+
+CITATIONS
+
+READS
+
+0
+
+239
+
+1 author:
+Laurent Daniel Koch
+Retiree
+2 PUBLICATIONS 0 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Laurent Daniel Koch on 13 October 2015.
+The user has requested enhancement of the downloaded file.
+
+Physique quantique
+ou la perte d’une certaine réalité
+Laurent Koch, Pékin, octobre 2015
+laurent.koch@alumni.insead.edu
+
+Sommaire
+"Un monde étrange, indescriptible avec nos concepts mentaux usuels," c’est ainsi qu’ont
+souvent été perçues les grandes avancées de la physique. Mais cette fois ci, en physique
+quantique, c’est plus grave, il s’agit tout simplement d’une limite posée à notre connaissance.
+L’objet de ce document est de présenter aux chercheurs, qui ne maitrisent pas le puissant outil
+mathématique de la physique quantique, la récente révolution conceptuelle opérée au sein de
+cette discipline fondamentale. Fondamentale car toutes les sciences de la nature s’y rapportent
+“en droit”, par exemple la biologie se rapporte à la chimie qui elle-même se rapporte à la
+physique quantique. Cette révolution majeure aboutit au rejet de la notion même d’existence de
+propriétés physiques des objets quantiques indépendamment de nos moyens d’investigation et
+de l’acte d’observation. Après une mise en perspective historique, cet article développe en détail
+dans un langage dénué de formules mathématiques le cheminement qui a permis d’aboutir à ce
+résultat. Cette mise à jour culturelle peut d’ailleurs tout aussi bien s’adresser aux patrons
+d’entreprises, managers et autres professions libérales car après avoir évacué l’homme du
+centre du monde, il y a un demi millénaire, la science l’y replace à nouveau.
+
+1. Une mise en perspective historique
+1.1. Un premier saut conceptuel : l’héliocentrisme
+En 1633, un certain Galileo Galilei frôle le bucher lors d’un procès conduit par l’Inquisition pour
+cause de vision copernicienne du monde. Copernic, un siècle plus tôt, proposait un modèle
+astronomique d’explication du monde au centre duquel le soleil restait immobile et autour duquel
+la terre et les autres planètes tournaient, une théorie héliocentrique en opposition au
+géocentrisme millénaire qui situait la terre immobile au centre du monde. À l’époque, non
+seulement le géocentrisme correspondait à l’absence de mouvement ressenti ou encore à
+l’expérience quotidienne du lever et du coucher du soleil, mais il correspondait aussi à
+l’enseignement de l’église alors toute puissante. L’avantage du nouveau modèle de
+représentation par rapport au géocentrisme résidait surtout dans sa plus grande simplicité
+d’explication des observations astronomiques. Un défaut majeur de ce modèle restait toutefois
+
+1
+
+l’absence d’observation de la parallaxe stellaire qu’il prédisait. Ce phénomène, spécifiant que la
+position observée des étoiles dans le ciel dépend de la position de la Terre sur son orbite, n’a pu
+être mis en évidence qu’au milieu du XIXe siècle en raison de la précision de mesure requise.
+Bien qu’en contradiction flagrante avec les saintes écritures, cette vision du monde n’avait pas
+attiré les foudres du Saint Siège à l’époque de Copernic. À l’époque de Galilée, on est en pleine
+contre-réforme, et les théories de Copernic sont maintenant jugées séditieuses. Non seulement
+Galilée les véhicule, mais il prétend aussi que tout un chacun, suffisamment instruit en
+mathématiques, peut lire le grand livre de la Nature. C’est du blasphème ! Trente ans
+auparavant, le frère Giordano Bruno, un autre copernicien, fut brulé vif au Campo dei Fiori en
+face du Palais Farnèse, l’actuelle ambassade de France a Rome. Il était connu pour ses
+propositions astronomiques audacieuses, les étoiles seraient autant de systèmes solaires, mais
+aussi pour ses doutes théologiques concernant la virginité de Marie ou la transsubstantiation.
+Galilée, par son acte de contrition, échappe finalement au bucher. Il est seulement assigné à
+résidence. La tradition rapporte qu’il aurait murmuré en quittant le tribunal « et pourtant elle
+tourne ».
+À la fin du XVIIe siècle, le modèle héliocentrique fut complété par Isaac Newton qui introduisit la
+force de gravitation en tant qu’élément explicatif de la chute des corps et du mouvement des
+planètes. On peut dire aujourd’hui que la révolution héliocentrique est totalement achevée et
+qu’elle imprègne tous les esprits. Plus personne n’imagine un monde où le soleil tournerait
+autour de la terre. Le modèle newtonien (celui de la physique classique) est totalement validé
+par les mesures expérimentales. Il est toujours d’actualité et sert par exemple à calculer les
+trajectoires pour les rendez-vous orbitaux en astronautique. L’apparition d’autres modèles, dont
+les domaines de validité sont éloignés de notre expérience sensorielle, n’a pas réussi à détrôner
+le modèle newtonien qui reste toujours aussi prégnant.
+
+1.2. Le saut relativiste
+A la fin du XIXe siècle l’expérience de Michelson et Morley met en défaut le modèle newtonien.
+Dans le modèle newtonien, la loi de composition des vitesses établit que ma vitesse absolue de
+déplacement (telle que mesurée par un observateur fixe) est égale a la vitesse de déplacement
+du train dans lequel je me trouve, augmentée (ou diminuée si le train et moi-même ne nous
+déplaçons pas dans le même sens) de ma vitesse de déplacement relative dans le train (telle
+que mesurée par un observateur se trouvant aussi dans le train). Ma vitesse absolue de
+déplacement dépend donc du sens de mon déplacement dans le train. A l’inverse, l’expérience
+de Michelson et Morley, qui est reproductible comme toute bonne expérience scientifique,
+montre que la vitesse absolue de la lumière par rapport à un repère stellaire fixe est invariante
+quelque soit son sens de déplacement relatif sur terre, qui elle-même est en mouvement.
+Albert Einstein, quant à lui, publie en 1905 à Berlin un premier article [2] traitant de
+l’électrodynamique des corps en mouvement, prenant en compte l’expérience d’invariance de la
+vitesse de la lumière. C’est dans cet article qu’il fonde ce qu’on appellera la relativité restreinte.
+Puis, de 1907 à 1915, il étend son domaine d’application en y incluant la gravitation pour aboutir
+
+2
+
+à la relativité générale [3]. En relativité restreinte, les notions sensorielles d’espace et
+d’écoulement du temps sont intrinsèquement associées et intégrées dans un espace-temps
+mathématique à quatre dimensions. Ce faisant, elles perdent leur caractère absolu. D’une part,
+le temps ne s’écoule plus de manière identique pour deux observateurs en mouvement l’un par
+rapport à l’autre, ce qui oblige d’ailleurs la synchronisation des horloges des satellites en orbite
+géostationnaire. En particulier, la notion de simultanéité de deux événements n’a plus de sens,
+car ce qui est simultané pour un observateur ne l’est pas pour l’autre. D’autre part, la distance
+mesurée entre deux points de l’espace n’est pas la même pour deux observateurs en
+mouvement l’un par rapport a l’autre.
+En relativité générale, la gravitation s’exprime par la courbure de l’espace-temps et non par une
+force. Cette gravitation, contrairement à celle de la théorie de Newton, permet de dévier des
+particules réputées sans masse comme les photons, les constituants de la lumière. Une
+expérience menée des 1919 au Chili, lors d’une éclipse totale du soleil, a confirmé cette
+prédiction inattendue de la théorie, et a fait entrer Einstein dans l’Histoire. Il obtint le prix Nobel
+de physique en 1921 et il est considéré aujourd’hui comme le plus grand physicien de tous les
+temps. Dans ce paradigme scientifique relativiste, d’autres concepts étrangers au bon sens
+apparaissent comme par exemple :
+-
+
+les jumeaux de Langevin qui n’auraient plus le même âge après le voyage de l’un d’eux
+à une vitesse proche de celle de la lumière,
+les trous noirs qui ne laissent s’échapper aucune lumière, etc.
+
+Toutefois dans un modèle de représentation où les vitesses sont d’un ordre de grandeur très
+inférieur à la vitesse de la lumière dans le vide – 300.000 km par seconde – le modèle
+newtonien reste valable, comme par exemple en astronautique où les vitesses sont de l’ordre de
+10 km par seconde.
+Le domaine d’application essentiel de la relativité générale est la cosmologie, ou science de
+l’univers. Elle permet de mieux rendre compte de la représentation du monde à cette échelle. Le
+modèle relativiste n’a jamais été invalidé par l’expérience malgré les très nombreux tests subis
+et, si ce modèle proposé par Einstein est parfaitement compris et accepté par la communauté
+des physiciens, on ne peut pas dire que le public se l’est approprié. Dans le cadre de la vie
+quotidienne, l’espace et le temps absolu restent la référence, et penser en terme d’espacetemps est contraire à notre expérience sensorielle.
+Enfin, il faut noter que les deux modèles, newtonien et einsteinien, sont des modèles
+déterministes. Si on connait à l’instant t les valeurs des variables d’un système et les conditions
+dans lesquelles se trouve ce système (par exemples, présence d’un champ gravitationnel,
+magnétique ou autres), on peut toujours prédire la valeur de ces variables à tout instant ultérieur
+t’ dans la limite des erreurs de mesure initiales et de la forme des équations d’évolution. Ce ne
+sera plus toujours le cas en physique quantique.
+
+3
+
+1.3. La méthode scientifique et le cadre philosophique de la physique
+Avant d’aborder celle-ci, il me faut préciser deux ingrédients majeurs de la recherche en
+physique. D’abord la méthode scientifique, fondée sur la reproductibilité des expériences et la
+falsifiabilité des modèles théoriques proposés. Cette falsifiabilité, au sens de Popper, exige que
+toute nouvelle théorie puisse fournir des prédictions pouvant être confirmées ou infirmées par
+l’expérience. Un grand nombre de prédictions confirmées ne fait que conforter le statut de la
+nouvelle théorie, mais une seule prédiction invalidée suffit à détruire tout l’édifice théorique.
+Cette méthode stricte et rigoureuse, qui a fait ses preuves depuis des générations, est la
+garante de la solidité des connaissances acquises. C’est un bonheur pour les économistes,
+sociologues et autres spécialistes des sciences dites “molles” de ne pas être juges à l’aune d’un
+critère aussi impitoyable.
+Ensuite le cadre “philosophique” fondé sur le postulat du réalisme, j’emprunte sa définition au
+célèbre ouvrage d’Albert Messiah [9], mon livre de cours en physique quantique lorsque j’étais
+étudiant :
+“Au départ de toute entreprise scientifique on pose comme postulat fondamental que la nature
+possède une réalité objective, indépendante de nos perceptions sensorielles ou de nos moyens
+d’investigation ; l’objet de la théorie physique est de faire un compte rendu intelligible de cette
+réalité objective.”
+Ce concept d’ “objectivité”, toujours associé au concept de “réalité” dans notre postulat, fait
+débat. Pour la majorité des physiciens, appartenant à la mouvance dominante, est objective
+toute affirmation qui est valable pour tout observateur en possession de son bon sens. On
+notera au passage le flou de cette définition de la part de scientifiques qui se considèrent
+experts en rigueur et précision. Pour les autres, adeptes du réalisme tel que défini ci-dessus,
+cette définition qu’ils désignent par “intersubjectivité” ne saurait suffire. Faire un compte-rendu
+de la réalité objective, indépendamment de nos perceptions sensorielles et de nos moyens
+d’investigation, ne peut faire référence à la communauté des observateurs. Le concept d’
+“objectivité” que les adeptes du réalisme veulent voir adopté est celui désigné par “objectivité
+forte” qui ne fait aucunement référence aux observateurs mais bien à une réalité physique,
+ontologique diraient les philosophes.
+Ce débat parait certainement hallucinant à tout scientifique opérant hors du champ de la
+physique quantique, pour qui la question ne se pose même pas : le postulat du réalisme est
+tellement évident qu’il n’est pas besoin de le mentionner.
+
+1.4. Le saut … quantique
+Le 5ème congrès Solvay réunissait en 1927 à Bruxelles la crème des physiciens (29 participants,
+dont 17 prix ou futurs prix Nobel) autour d’un débat concernant la toute nouvelle physique
+quantique qui devait rendre compte des phénomènes à l’échelle atomique. D’un coté, les
+instrumentalistes derrière leur chef de file, le danois Niels Bohr, qui considérait que la physique
+n’avait pas à traiter de l’existence du réel mais seulement des résultats des mesures. De l’autre,
+
+4
+
+les réalistes, moins nombreux, autour de leur chef de file, Albert Einstein. L’objet des échanges
+était la nature profondément probabiliste de cette nouvelle théorie et ceux-ci furent vifs.
+Einstein : “Dieu ne joue pas aux dés !”
+Bohr : “Einstein, cesse de dire à Dieu ce qu’il doit faire”
+Les probabilités étaient en fait déjà largement utilisées en thermodynamique pour rendre compte
+de l’évolution d’un ensemble très grand de molécules, dans un volume de gaz par exemple.
+Elles permettaient de calculer en moyenne une valeur avec une certaine précision, l’écart type.
+C’est l’impossibilité pratique d’accéder aux milliards de milliards de milliards d’équations de
+chacune des molécules de gaz qui fait l’intérêt d’utiliser les probabilités dans un tel cas. La
+théorie thermodynamique reste toutefois déterministe, chacune des particules obéissant aux
+équations de la physique classique. L’introduction des probabilités n’est ici qu’un instrument
+pratique de calcul.
+En physique quantique, il en est autrement. La nature intrinsèquement probabiliste de la théorie
+apparait dans un résultat obtenu par Werner Heisenberg : le principe d’indétermination de deux
+variables conjuguées. Ce principe établit que la précision de mesure d’une variable telle que la
+position d’une particule est inversement proportionnelle à la précision de mesure de sa variable
+conjuguée, la vitesse. Si, à un instant donné, sa position est parfaitement connue, alors sa
+vitesse est totalement indéterminée, et inversement. Il ne s’agit pas d’une limite liée aux
+conditions opératoires (la précision des appareils de mesure) mais bien d’une limite inhérente à
+la théorie quantique. La réponse cinglante d’Einstein a été que la théorie quantique était donc
+incomplète et qu’elle ne rendait pas compte de toute la réalité objective, d’où la recherche par
+ses disciples de théories dites à variables cachées.
+Les instrumentalistes répondaient à leur tour que la notion de réalité objective devait être
+dépassée, seules les mesures rendaient compte de la théorie. Il ne s’agissait plus d’expliquer le
+monde mais de prédire le résultat des mesures. Les instrumentalistes, désignés par « l’école de
+Copenhague » en référence à Niels Bohr, devaient être suivis par la très grande majorité de
+physiciens auxquels importait peu ce débat philosophique et qui devaient dans les décennies
+qui suivirent récolter la plus grande moisson jamais effectuée de résultats expérimentaux d’une
+précision encore jamais atteinte grâce au pouvoir prédictif de la théorie quantique.
+Ce qui gênait le plus Einstein dans cette nouvelle physique était la description d’un objet
+quantique – en général un atome ou une particule – avant même que l’on effectue une mesure a
+son sujet. Si on suit l’école de Copenhague, un objet quantique est supposé se trouver
+physiquement et “réellement”, avant toute mesure, dans un état de superposition d’états
+possibles qui a bien été illustré dans les ouvrages de vulgarisation par le chat mort-vivant
+d’Erwin Schrödinger, un autre père fondateur de la physique quantique. À noter que
+Schrödinger, à qui on doit l’équation homonyme qui régit l’évolution d’un système quantique,
+était plus proche des thèses d’Einstein que de celles de Bohr. Si la transmission d’un état
+quantique (de superposition d’états) d’un atome à celui d’un chat par une chaine de relations
+causales reste sujette à caution, l’exemple de ce chat mort-vivant illustre bien la révolution
+
+5
+
+conceptuelle à l’œuvre physique quantique. La philosophie avait alors renoncé à comprendre la
+physique quantique et un des plus grands physiciens par sa contribution à la physique
+quantique, Richard Feynman, avouait lui-même ne pas la comprendre.
+Mais Einstein s’accrochait à l’idée de l’existence d’une réalité des objets et de leurs propriétés,
+et donc des limites de la physique quantique à en rendre compte. Il publie en 1935, avec ses
+collègues Podolski et Rosen, le paradoxe EPR (Einstein-Podolski-Rosen), une expérience de
+pensée qui devait réintroduire des éléments de réalité en physique quantique, invalidant
+l’interprétation qu’en faisait l’école de Copenhague. Cet article fut longtemps ignoré par une
+communauté de physiciens baignant alors dans l’euphorie des découvertes : le laser, l’imagerie
+médicale, les portables, les clés USB, internet n’existeraient pas sans la PQ. Le paradoxe EPR
+fut remis au gout du jour en 1964 par John Bell. Ce physicien irlandais réussit à établir une
+inégalité à laquelle devait satisfaire l’expérience de pensée EPR et plus généralement toute
+théorie de type réaliste. Le viol éventuel de cette inégalité prouverait que le monde est bien
+quantique et qu’il faudrait abandonner toute prétention à le décrire à l’aide d’une théorie réaliste
+"locale" (on verra plus loin la raison de ce dernier qualificatif).
+La première expérience visant à confirmer ou infirmer l’inégalité de Bell, dont le strict protocole
+de mesures exclut totalement toute échappatoire, a été menée en 1982 par l’équipe du
+physicien français Alain Aspect. La réponse donnée par cette expérience et les autres qui ont
+suivi est très claire : il nous faut abandonner la notion si évidente de l’existence d’une réalité
+objective et indépendante des observateurs.
+Comment cela est-il possible ?
+Ce qui va suivre est un développement qui vise à faire comprendre comment on en est arrivé à
+ce résultat en limitant l’usage de formules. En revanche, cette quasi-absence de mathématiques
+impose une concentration et un suivi attentif des différentes phases et étapes de ce
+développement. Celui-ci est fortement inspiré par le livre précurseur “À la recherche du réel"
+publié en 1979 par Bernard d’Espagnat [4], qui a su entretenir au cours du temps ma passion
+pour la physique quantique héritée de mes études à l’Ecole Polytechnique Fédérale. Ce livre
+longtemps épuisé a été réédité en 2015 au format poche de 200 pages.
+
+2. La perte d’une certaine réalité
+2.1. Une inégalité vérifiée pour les propriétés d’objets familiers
+1ère étape : des boules et des cubes
+Mettons dans une urne une collection d’objets qui soient définis par trois propriétés différentes :
+la forme, la couleur, et la matière. Ces propriétés indépendantes ne peuvent prendre chacune
+que deux valeurs :
+-
+
+6
+
+la forme peut être soit une boule b, soit un cube c
+
+-
+
+la couleur peut être soit rouge r, soit jaune j
+la matière peut être soit en latex l, soit en fer f.
+
+Après tirage de tous les objets de l’urne, il est facile de démontrer que le nombre d’objets de
+forme boule et de couleur rouge N(br) est inférieur au nombre d’objets de forme boule et de
+matière fer N(bf) augmenté du nombre d’objets de couleur rouge et de matière latex N(rl), soit
+N(br) < N(bf) + N(rl) .
+En effet, soit la boule rouge est en latex, soit elle est en fer. Donc le nombre de boules rouges
+est égal au nombre de boules rouges en latex augmente du nombre de boules rouges en fer. Or,
+le nombre de boules rouges en fer est inférieur au nombre de boules en fer N(brf) < N(bf) et le
+nombre de boules rouges en latex est inférieur au nombre d’objets rouges en latex N(brl) <
+N(rl). Q.E.D.
+2ème étape : une très grande urne
+Considérons maintenant un grand, vraiment très grand, nombre d’objets placés dans l’urne et
+extrayons-en une partie. Est-ce que l’inégalité ci-dessus reste valable pour les objets extraits ?
+La loi des grands nombres répond par l’affirmative des lors que les objets extraits sont
+suffisamment nombreux pour constituer un échantillon représentatif de ce qu’il y a dans l’urne.
+3ème étape : trois grandes urnes
+Considérons enfin que le très grand nombre d’objets se trouvant dans l’urne d’origine soit
+distribué de manière représentative dans trois autres grandes urnes et que nous en extrayons
+ensuite un nombre suffisant pour constituer trois échantillons représentatifs des trois urnes, dont
+le comptage sera noté 1, 2 et 3 respectivement. Ici encore, la loi des grands nombres nous
+permet d’écrire
+N1(br) < N2(bf) + N3(rl)
+autrement dit, le nombre de boules rouges extraites de l’urne 1 est inférieur au nombre de
+boules en fer extraites de l’urne 2, augmenté du nombre d’objets rouges en latex extraits de
+l’urne 3.
+
+2.2. Une introduction aux particules à spin et à l’intrication quantique
+Considérons maintenant des objets quantiques tels que les particules à spin (électrons, protons,
+etc.). Le spin est une notion fondamentale de la physique quantique qui n’a pas d’équivalent en
+physique classique. On peut toutefois essayer de le comparer au moment gyroscopique d’une
+toupie ou au moment magnétique d’une boucle de courant, c’est-à-dire à un vecteur orienté
+dans l’espace. La projection d’un spin sur un axe quelconque (appelé composante du spin) ne
+peut prendre que des valeurs entières ou semi-entières. Ces valeurs sont positives si l’angle,
+défini par l’axe et le vecteur, est aigu, négatives sinon.
+
+7
+
+Notre projet est de vérifier si on peut considérer comme des propriétés, par analogie au cas des
+objets familiers, les signes des composantes de spin d’une particule sur trois axes A, B et C
+arbitrairement choisis, sachant que celles-ci ne peuvent prendre que deux seules valeurs, soit
+positive, soit négative (A+ ou A-, B+ ou B-, C+ ou C-). On a vu dans l’exemple des objets
+familiers qu’il nous faut connaitre la valeur de deux des trois propriétés de chaque objet extrait
+d’une des urnes. Ainsi pour chaque particule, on souhaitera connaitre le signe des composantes
+de son spin sur deux des trois axes et vérifier si ces propriétés satisfont l’inégalité envisagée.
+La principale différence avec le cas des objets familiers est que les valeurs desdites “propriétés”
+ne s’imposent pas d’emblée à nos sens perceptifs (vue et toucher en l’occurrence), il nous faut
+les mesurer et c’est ce qui pose problème. En physique quantique toute mesure est destructrice.
+Avant la mesure, une particule se trouve dans une superposition d’états. L’acte de mesure
+sélectionne un de ces états suivant un schéma probabiliste (à chaque état correspond la
+probabilité qu’il soit sélectionné) et projette la particule dans cet état, appelé état propre,
+détruisant ainsi la superposition initiale des états. Dès lors, si on mesure la composante du spin
+d’une particule sur un axe A, on ne pourra plus obtenir une mesure de ce qu’aurait été la
+composante de son spin sur un autre axe B.
+Cette limitation peut toutefois être contournée grâce à l’intrication quantique de deux particules.
+En physique, comme pour l’énergie ou l’impulsion, il y a une loi de conservation du spin.
+Lorsque par exemple une particule de spin nul se désintègre en deux particules identiques à
+spin non nul, si la mesure de la composante du spin d’une des particules sur un axe A est
+positive, la mesure de la composante du spin de l’autre particule sur un axe parallèle à l’axe A et
+arbitrairement éloigné sera négative et vice-versa. On désigne par “état d’intrication quantique”
+ce phénomène de corrélation inverse (ou anti-corrélation) parfaite entre deux particules
+arbitrairement éloignées l’une de l’autre. L’intrication quantique est extrêmement importante car
+elle va nous permettre de nous affranchir d’effectuer deux mesures successives sur une même
+particule.
+Dans un tel cas d’intrication quantique, nous savons que si la composante de spin de la 2ème
+particule sur l’axe B est mesurée positive (B+) alors la composante de spin de la 1ère particule
+sur l’axe B aurait été mesurée négative (B-) et vice versa. On dit qu’on a obtenu une mesure
+indirecte de la composante de spin sur B de la 1ère particule, par inférence à partir d’une mesure
+directe de la composante de spin sur B de la 2ème particule. Grace à l’intrication quantique, on
+peut donc mesurer deux “propriétés” (composantes du spin sur A et B) d’une même particule
+sans que la première mesure (directe sur l’axe A) ne vienne perturber la seconde mesure
+(indirecte sur l’axe B).
+
+2.3. Vérification expérimentale de l’inégalité de Bell
+Dans cette série de trois expériences, la machine servant à produire des paires de particules en
+état d’intrication est située au centre du Laboratoire. Les appareils de mesure des composantes
+du spin se trouvent aux limites Nord et Sud du Laboratoire. Lors de la première expérience, les
+deux particules issues d’une paire intriquée se dirigent, l’une vers le Nord, l’autre vers le Sud, où
+
+8
+
+sont mesurées leurs composantes de spin sur les axes A et B, respectivement. Lors de cette
+expérience toutes les particules produites sont réputées appartenir exclusivement a l’une des 4
+catégories suivantes : A+B+ ou A+B- ou A-B+ ou A-B-. On procédera ensuite à deux
+autres expériences identiques par substitution des appareils de mesure pour les axes A et C
+d’abord, et B et C ensuite.
+Il est important de bien souligner ici que le dispositif envisage lors de cette première expérience
+ne permet aucunement de mesurer directement le nombre de particules se trouvant dans une
+quelconque catégorie, mais il permet de le mesurer indirectement comme nous allons le voir ciaprès.
+Par exemple, soit une particule appartenant a la catégorie A+B- issue d’une paire intriquée. Aux
+fluctuations statistiques près – que l’on peut rendre arbitrairement petites en augmentant le
+nombre de paires de particules produites – cette particule possède une chance sur deux de se
+diriger vers le Nord, et une chance sur deux de se diriger vers le Sud. Si elle se dirige vers le
+Nord, sa composante de spin y sera mesurée sur l’axe A, produisant un résultat positif. Sa
+particule associée au sein de la paire en état d’intrication appartient a la catégorie A-B+ et se
+dirige donc vers le Sud, où sa composante de spin sera mesurée sur l’axe B, ce qui produira
+également un résultat positif. La paire considérée fournit donc une double réponse positive pour
+la mesure de leurs composantes de spin sur les axes A et B. Ainsi au cours de l’expérience 1, le
+nombre de paires de particules fournissant une double réponse positive N1(++) est égal à la
+moitié du nombre de particules de la catégorie A+B-, la moitié qui se dirige vers le Nord. Il est
+facile de vérifier qu’il n’y a aucune autre paire susceptible de fournir une double réponse
+positive.
+Revenons en maintenant à notre inégalité dans le cadre d’une théorie réaliste. Si les trois
+échantillons des expériences (1, 2 et 3) sont représentatifs et si les composantes de spin des
+particules correspondent a des propriétés réelles, on devrait obtenir, comme pour les objets
+dans les trois urnes, l’inégalité suivante : le nombre de particules de la catégorie A+B- de
+l’expérience 1 est inférieur au nombre de particules de la catégorie A+C- de l’expérience 2,
+augmenté du nombre de particules de la catégorie B-C+ de l’expérience 3, soit
+N1(A+B-) < N2(A+C-) + N3(B-C+) .
+Si lors des trois expériences, on ne peut pas effectuer le comptage direct du nombre de
+particules de chacune des catégories ci-dessus, on sait toutefois que :
+N1(++) = N1(A+B-) / 2
+N2(++) = N2(A+C-) / 2
+N3(++) = N3(B-C+) / 2
+
+de même
+et
+
+Par substitution, on obtient l’inégalité suivante :
+N1(++) < N2(++) + N3(++)
+
+9
+
+Soit le nombre de mesures doublement positives de l’expérience 1 est inférieur au nombre de
+mesures doublement positives de l’expérience 2, augmenté du nombre de mesures doublement
+positives de l’expérience 3. C’est sous cette forme que l’inégalité de Bell sera confirmée ou
+invalidée dans le domaine de la physique quantique. Einstein en proposant son expérience de
+pensée EPR espérait en fait montrer, dans un cadre similaire d’intrication quantique, que la
+mesure de la composante du spin sur l’axe A de la première particule permettait d’inférer, avant
+même sa mesure, la composante du spin de la seconde particule, sur un axe parallèle à l’axe A
+et arbitrairement éloigné, conférant ainsi une “propriété réelle” de spin à cette seconde particule.
+Si on peut prédire à coup sûr la valeur d’une propriété d’une particule avant sa mesure, c’est
+qu’il existe un élément de réalité concernant cette propriété, pensait-il.
+La série d’expériences d’Alain Aspect porte sur des paires de photons et sur leurs propriétés de
+polarisation, et non sur des spins, mais son canevas logique est identique à celui ci-dessus ;
+cette série d’expériences montre que, si l’inégalité est satisfaite pour certaines orientations des
+axes A, B et C, elle ne l’est plus pour d’autres orientations.
+Le viol de l’inégalité de Bell, sous certaines conditions d’orientation des axes A B et C, a
+définitivement anéanti le programme réaliste d’Einstein. Nous devons néanmoins nous incliner
+devant la persévérance et la sagacité d’un homme qui a obligé la communauté des physiciens à
+se pencher sérieusement sur le problème des fondements de la physique.
+
+2.4. La non-séparabilité
+La description de cette série d’expériences a été simplifiée pour ne pas embarrasser le lecteur
+par les nombreux détails techniques visant à supprimer toute échappatoire à son inévitable
+conclusion. Par exemple les expérimentateurs doivent s’assurer qu’aucun biais statistique ne
+puisse être introduit dans le dispositif de mesure afin que les mesures portent bien sur des
+échantillons représentatifs, hypothèse envisagée pour le cas des objets réels.
+Il y a pourtant un “détail” qui mérite toute notre attention. Il est nécessaire que la mesure de la
+composante du spin sur l’axe A de la première particule n’influence pas la mesure de la
+composante de spin sur l’axe B de la seconde particule, sa particule associée dans l’état
+d’intrication. À cette fin une précaution a été prise pour éviter toute interaction à distance dont on
+sait que la vitesse de propagation ne peut être supérieure à la vitesse de la lumière. Elle
+consiste à ce que les dispositifs de mesure au Nord et au Sud du laboratoire soient
+suffisamment éloignés pour qu’aucune interaction voyageant à la vitesse de la lumière ne puisse
+se propager du Nord au Sud entre les deux événements de mesure. En relativité, on dira que la
+métrique entre les deux événements de mesure situés dans l’espace-temps quadridimensionnel
+est de type espace, d’ou l’absence de causalité.
+Serait-il donc maintenant possible de conclure au non-réalisme de la physique ? Pas vraiment
+car la physique quantique à la Bohr décrit le système de deux particules, une au Nord et une au
+Sud du laboratoire, comme un seul et unique objet quantique en état d’intrication.
+
+10
+
+On ne peut exclure qu’une partie d’un objet quantique affecte (j’emploie ce mot à escient, évitant
+la notion d’influence trop liée à la notion d’interaction) instantanément une autre partie du même
+objet, quelque soit son “étendue spatiale”. Il ne s’agirait donc pas dans ce cas d’une interaction
+dont la relativité nous apprend qu’elle ne peut se propager qu’à une vitesse inférieure ou égale à
+celle de la lumière.
+En fait, contrairement à ce qu’attendait Einstein, les deux particules en état d’intrication
+quantique sont toutes deux en superposition d’états de spin jusqu’au moment où la mesure de la
+composante du spin sur l’axe A de la première particule affecte “instantanément” la
+superposition d’états de spin de la deuxième particule pour donner à sa composante de spin sur
+l’axe A une valeur inverse à celle de la première particule. La mesure sur la première particule
+affecte l’état de la seconde particule. Le réalisme qui pourrait survivre à cette expérience serait
+alors un réalisme non local ou non séparable suivant la terminologie, un concept quelque peu
+difficile à digérer.
+La théorie du Big Bang, qui semble être aujourd’hui acceptée, nous apprend en effet que
+l’univers primordial aurait mis tous ses éléments en état d’intrication quantique. Nous faudrait-il
+alors envisager que toute mesure sur une particule quelconque de notre univers aurait une
+influence sur toutes les autres particules quelque soit leur éloignement ?
+On arrive enfin a ce que, si l’hypothèse issue de la relativité “aucune interaction ne se propage à
+une vitesse supérieure à la lumière” est maintenue, alors il n’est plus possible d’attendre que la
+physique puisse décrire une quelconque réalité physique locale comme le prévoyait le postulat
+du réalisme physique introduit ci-dessus. La physique quantique se bornerait donc à rendre
+compte de phénomènes. C’était l’option radicale prise par Niels Bohr il y a déjà près d’un siècle.
+Il faut toutefois reconnaitre que cette physique s’est révélée d’une richesse et d’une précision
+sans égal en terme prédictif et qu’elle a donné à l’humanité un pouvoir technologique sans
+précédent.
+
+3. L’impact sur notre quotidien
+Il apparait maintenant nécessaire de fournir quelques repères au lecteur dont l’expérience
+quotidienne se situe apparemment dans un tout autre registre. Comme pour le saut relativiste
+qui ne l’a pas empêché de continuer a raisonner dans un espace et un temps absolu, il peut
+sans aucun dommage continuer à penser en terme de réalité physique locale car les propriétés
+de la plupart des objets qui l’entourent, en particulier celles des boules et des cubes évoqués
+plus haut, sont bien réelles … et elles satisfont les inégalités de Bell. Mais alors que signifie tout
+ce qui précède ? Cela signifie qu’il faut abandonner toute prétention à vouloir décrire notre
+monde dans ce qu’il a de plus fondamental au niveau de ses constituants en lui conférant une
+réalité physique quelconque. Il ne nous est toutefois pas interdit de considérer la réalité du
+monde qui nous entoure et de décrire une terre qui tourne toujours autour du soleil, mais cette
+réalité là n’est qu’une caractéristique émergente du monde sensible de l’homme. Elle ne peut
+être retenue dans notre investigation des fondements de l’univers.
+
+11
+
+Ce n’est d’ailleurs pas la première fois que la physique est confrontée avec cette notion de
+caractéristique émergente. Dans le modèle classique newtonien par exemple, rien n’interdit de
+remonter le temps, les équations de ce modèle étant parfaitement réversibles par rapport au
+temps, comme le sont d’ailleurs les équations de la physique quantique tant qu’une mesure
+n’est pas intervenue. Au XIXe siècle il a pourtant fallu introduire, dans le cadre de l’étude du
+comportement d’un très grand nombre de molécules de gaz, la notion d’entropie, ou
+d’irréversibilité du temps, qui scellera définitivement pour l’homme tout espoir de voyager dans
+le passé. Ainsi l’irréversibilité du temps qui n’est pas requise en physique classique émerge
+dans le cadre particulier de l’étude d’un très grand nombre de molécules. Il semblerait, en
+fonction des orientations de la recherche actuelle, que la notion même du temps ne serait
+qu’une caractéristique émergente propre au monde sensible de l’homme. De même la réalité
+physique locale niée par la physique quantique émerge dans le monde sensible de l’homme.
+
+4. Conclusion
+Si on peut regretter la perte de notre capacité a décrire une quelconque réalité ontologique de
+notre monde, on pourra toujours se consoler en notant que la régularité des phénomènes
+observés concerne aussi bien les sujets, i.e. les observateurs, que les objets, i.e. ce qui est
+étudié. Cette régularité traduirait alors une autre “réalité” qui transcenderait dans une relation
+holistique sujet-objet la seule communauté des observateurs. Je ne poursuivrai pas plus loin car
+il se pourrait bien que nous sortions du domaine de la physique pour entrer dans celui de la
+métaphysique, voire de la religion.
+Nous devons maintenant admettre qu’une sérieuse limitation a été imposée à notre capacité à
+appréhender le monde. Pouvait-on vraiment penser atteindre un jour l’omniscience prévue dans
+l’accomplissement du programme édicté par le postulat du réalisme physique ? Pour ma part,
+j’en doute fort et il faudra faire avec cette limitation.
+Il n’est d’ailleurs pas que la science physique qui rencontre une limite propre à son pouvoir
+d’investigation, la science mathématique a connu elle aussi, avec le théorème de Godel (1931)
+un résultat similaire de limite, mais beaucoup moins commenté. Il faut dire qu’il n’y a pas de prix
+Nobel en Mathématiques et que rares sont les médias qui donnent le nom des lauréats de la
+médaille Fields, sorte de prix Nobel attribue depuis 1950 aux mathématiciens de moins de 40
+ans dont la contribution à leur domaine a été déterminante.
+L’année 1979 a été une année faste qui a vu la publication du livre de Bernard D’Espagnat qui
+présentait l’enjeu fondamental pour l’épistémologie du viol des inégalités de Bell. Elle a aussi été
+celle de la publication du livre de Douglas Hofstadter concernant l’enjeu non moins fondamental
+pour l’épistémologie du Théorème de Godel. Ces deux résultats me semblent extrêmement liés
+par les limites qu’ils imposent à la connaissance humaine, mais ceci est une autre histoire.
+
+12
+
+Remerciements
+L’auteur Laurent Koch souhaite remercier Christian Delacroix, chercheur en astrophysique à
+l’université de Cornell, pour son travail de relecture attentive et en profondeur de cet article, et
+pour ses suggestions utiles.
+
+Appendice sur la nécessité d’introduire un critère d’utilité
+Jusqu’à présent tout scientifique est parfaitement libre de choisir son propre domaine de
+recherche, ce qui parait tout a fait légitime. Un problème survient néanmoins du fait qu’un
+physicien à la fois brillant et charismatique a réussi à attirer une génération de doctorants et
+post-doctorants dans l’étude d’une branche spécifique de la physique qu’il a lui-même
+particulièrement investi et dont on peut douter de l’intérêt. Je suis ici le réquisitoire du physicien
+Lee Smolin [11] concernant Edward Witten, le père de la théorie des M-branes. Aux Etats-Unis
+en particulier, le nombre de départements universitaires de physique théorique et mathématique,
+qui récemment encore se penchaient sur cette théorie est impressionnant. Il s’agit donc ici d’une
+consommation importante de fonds publics. Or, cette théorie très séduisante pour son unification
+des théories quantiques et relativistes, le graal de tout physicien, présente un défaut rédhibitoire.
+Elle a été incapable de produire la moindre prédiction expérimentale qui n’ait déjà été produite
+par la relativité ou la physique quantique. Cela parait tout a fait ridicule à l’aune des immenses
+résultats obtenus par ces deux dernières théories.
+La recherche, en particulier la recherche en physique et mathématique, ne pourrait être que plus
+fructueuse si elle pouvait rester à l’abri des modes. Il conviendrait peut être d’introduire un
+critère qui reste à définir pour éviter cet écueil.
+
+13
+
+Références
+[1] Michel Bitbol, Mécanique quantique, une introduction philosophique, Flammarion, 1996
+[2] Albert Einstein, Zur Elektrodynamik bewegter Körper, Annalen der Physik 322, 891-921
+(1905).
+[3] Albert Einstein, Die Grundlage der allgemeinen Relativitätstheorie, Annalen der Physik 354,
+769-822 (1916).
+[4] Bernard d’Espagnat, A la recherche du réel, le regard d’un physicien, Dunod 2015
+[5] B. d’Espagnat, Veiled Reality, An Analysis of Present-Day Quantum Mechanical Concepts,
+Addison-Wesley, Reading, Mass. 1995.
+[6] Bernard d’Espagnat et Herve Zwirn, Le monde quantique, Editions Materiologiques 2014
+[7] Serge Haroche, Physique Quantique, leçon inaugurale prononcée le 13 décembre 2001 au
+Collège de France disponible sur internet
+[8] Chris J. Isham, Lectures on Quantum Theory, mathematical and structural foundations,
+Imperial College Press, 1995
+[9] Albert Messiah, Mécanique quantique, Dunod 1995 (1ère éd. 1959)
+[10] Roland Omnes, Comprendre la mécanique quantique, EDP Sciences, 2001
+[11] Lee Smolin, The Trouble With Physics, The Rise of String Theory, the Fall of a Science, and
+What Comes Next, Houghton (2006).
+
+14
+View publication stats
+
+

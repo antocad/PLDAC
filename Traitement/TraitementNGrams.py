@@ -1,12 +1,55 @@
 # -*- coding: utf-8 -*-
 from Traitement import Traitement
 from TraitementSimple import TraitementSimple
-import re
-from nltk import ngrams
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+import re
+#from nltk import ngrams
+import utils
+import string
+
+def ngrams(liste,k):
+    stop_words = utils.stopwordsSet().union({chr(97+l)+"'" for l in range(26)})
+    if(k+1>len(liste)):
+        return []
+    res = []
+    #premier
+    tmp = liste[0:k+1]
+    if(tmp[-1] in stop_words or tmp[-1] in string.punctuation):
+        tmp = tmp[0:-1]
+        if(tmp[0] not in stop_words and tmp[-1] not in stop_words):
+            ok=True
+            for mot in tmp:
+                if(mot in string.punctuation):
+                    ok = False
+                    break
+            if(ok and len(tmp)==1 and (len(tmp[0])==1 or tmp[0].isdigit())):
+                ok = False
+            if(ok):
+                res.append(tuple(tmp))
+    #suite
+    for i in range(1,len(liste)-k):
+        tmp = liste[i-1:i+k+1]
+        if(tmp[0] not in stop_words and tmp[0] not in string.punctuation):
+            continue
+        if(tmp[-1] not in stop_words and tmp[-1] not in string.punctuation):
+            continue
+        tmp = tmp[1:-1]
+        if(tmp[0] not in stop_words and tmp[-1] not in stop_words):
+            ok=True
+            for mot in tmp:
+                if(mot in string.punctuation):
+                   ok = False
+                   break
+            if(ok and len(tmp)==1 and (len(tmp[0])==1 or tmp[0].isdigit())):
+                ok = False
+            if(ok):
+                res.append(tuple(tmp))
+    return res
 
 class TraitementNGrams(Traitement):
-    def __init__(self, n, lang):
+    def __init__(self, k,n, lang):
+        self.k = k
         self.n = n
         self.lang=lang
         self.stop_words = set(stopwords.words(self.lang))
@@ -21,28 +64,29 @@ class TraitementNGrams(Traitement):
         Le traitement consiste à mettre tout les mots en minuscule,
         retirer les mots vides et la ponctuation.
         """
-        if self.n < 1:
-            raise AttributeError("n must be >= 1")
-        if (self.n == 1):
-            t = TraitementSimple(self.lang)
-            return t.preprocessing(texte)
-        
-        #on retire les caractères non-reconnus
+
         texte = texte.replace("\xa0", " ").replace("\u2009", " ").replace("\u202f", " ").replace("\xad", " ")
-        texte = texte.replace("\n--", " ").replace("\n-", " ").replace("\n", " ").replace("--", " ").replace("––", "")
-        texte = texte.replace(".", " ").replace(",", " ").replace(";", " ").replace(")", " ").replace("(", " ")
+        #texte = texte.replace("\n--", " ").replace("\n-", " ").replace("\n", " ").replace("--", " ").replace("––", "")
+        #texte = texte.replace(".", " ").replace(",", " ").replace(";", " ").replace(")", " ").replace("(", " ")
         texte = re.sub(r"\s+"," ",texte)
-        
+
         #on met tout en minuscule
-        txt = texte.lower()
-        
-        
+        txt = texte.replace("’","'").lower()
+        #retire les mots vides
+        #words = utils.removeStopWords(words, self.lang)
+        txtsplit =  word_tokenize(txt,self.lang)
+        tmp = []
+        for m in txtsplit:
+            if("'" not in m):
+                tmp.append(m)
+            else:
+                mots = m.split("'")
+                tmp.append(mots[0]+"'")
+                tmp.append(mots[1])
+        txtsplit = tmp
+        txtsplit = [mot for mot in txtsplit if mot not in {'--','––'}]
         words = []
-        res = []
-        for k in range(1,self.n+1):
-            words += ngrams(txt.split(), k)
-        for gram in words:
-            if(gram[0] in self.stop_words or gram[-1] in self.stop_words):
-                continue
-            res.append(gram)
-        return res
+        for k in range(self.k,self.n+1):
+            words += ngrams(txtsplit, k)
+
+        return words#[gram for gram in words if gram[0] not in stop_words and gram[-1] not in stop_words]#on retire les ngram qui commence ou fini par un stop words

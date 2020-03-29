@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from TraitementNGrams import TraitementNGrams
+from collections import Counter
 
-trait = TraitementNGrams(3,'French')
-words = trait.preprocessing('Je fais une Phrase pour tester le prétraitement. == .')
+trait = TraitementNGrams(1,3,'French')
+words = trait.preprocessing("l’insuffisance rénale.")
 print(words)

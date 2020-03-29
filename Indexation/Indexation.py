@@ -1,21 +1,27 @@
 # -*- coding: utf-8 -*-
 from collections import Counter
+import math
 
 class Indexation:
     def __init__(self,corpusTraite):
         self.corpus = corpusTraite
         self.index = None
         self.indexInv = None
+        self.calculIndex()
 
     def getIndex(self):
-        if(self.index == None):
-            self.calculIndex()
         return self.index
 
     def getIndexInv(self):
-        if(self.indexInv == None):
-            self.calculIndex()
         return self.indexInv
+
+    def getIDFTerme(self,terme):
+        nbdoc = self.corpus.size()
+        if (terme not in self.indexInv.keys()):
+            val = 0
+        else:
+            val = len(self.indexInv[terme])
+        return math.log((1+nbdoc)/(1+val))
 
     def calculIndex(self):
         self.index = dict()
