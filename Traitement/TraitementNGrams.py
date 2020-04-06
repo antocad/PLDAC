@@ -64,14 +64,8 @@ class TraitementNGrams(Traitement):
         Le traitement consiste à mettre tout les mots en minuscule,
         retirer les mots vides et la ponctuation.
         """
-
-        texte = texte.replace("\xa0", " ").replace("\u2009", " ").replace("\u202f", " ").replace("\xad", " ")
-        #texte = texte.replace("\n--", " ").replace("\n-", " ").replace("\n", " ").replace("--", " ").replace("––", "")
-        #texte = texte.replace(".", " ").replace(",", " ").replace(";", " ").replace(")", " ").replace("(", " ")
-        texte = re.sub(r"\s+"," ",texte)
-
         #on met tout en minuscule
-        txt = texte.replace("’","'").lower()
+        txt = texte.lower()
         #retire les mots vides
         #words = utils.removeStopWords(words, self.lang)
         txtsplit =  word_tokenize(txt,self.lang)

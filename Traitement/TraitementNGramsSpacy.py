@@ -1,9 +1,8 @@
 import spacy
 from Traitement import Traitement
 import string
-from nltk.corpus import stopwords
 import utils
-import re
+
 
 class TraitementNGramsSpacy(Traitement):
     def __init__(self, k,n, lang):
@@ -21,12 +20,11 @@ class TraitementNGramsSpacy(Traitement):
         Le traitement consiste à mettre tout les mots en minuscule,
         retirer les mots vides et la ponctuation.
         """
-        texte = texte.replace("\xa0", " ").replace("\u2009", " ").replace("\u202f", " ").replace("\xad", " ")
-        texte = re.sub(r"\s+"," ",texte)
         nlp = spacy.load("fr")
-        txt = texte.replace("’","'").lower()
+        nlp.max_length=len(texte)#attention on change la limite peut etre allocation errors 
+        txt = texte.replace('\n',' ').lower()
         doc = nlp(txt)
-        noms = [t for t in doc if t.pos_=='NOUN' ]#and t.head.pos_!='NOUN']#on retire tous ceux qui depen d'un nom(groupe max)
+        noms = [t for t in doc if t.pos_=='NOUN' and t.head.pos_!='NOUN']#on retire tous ceux qui depen d'un nom(groupe max)
         res = [[m for m in n.subtree] for n in noms]
         stop_words =  utils.stopwordsSet().union({chr(97+l)+"'" for l in range(26)})
         for term in res:
