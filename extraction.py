@@ -20,9 +20,9 @@ from ParserItem import ParserItem
 from ParserCorpus import ParserCorpus
 from statistics import mean 
 
-nomfichierPickle = "indexation5Grams_wikimed"
-fichierExtration = "livre2clean.txt"
-fichierres = 'res/reslivre2clean.csv'
+nomfichierPickle = "indexation5Grams_wikimedStem"
+fichierExtration = "livrePretclean.txt"
+fichierres = 'res/reslivreCleanGroupmaxStemSeuil2.csv'
 trait = TraitementNGramsSpacy(1,5,'French')
 
 #recup l'indexation
@@ -34,7 +34,7 @@ with open(nomfichierPickle, 'rb') as fichier:
 corpus = ParserItem.parse(fichierExtration)
 corpusTraite = utils.traiteCorpus(corpus,trait)
 
-#strat = CValueStrategy(ind)
-strat = CValueTfidfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter))
-#strat = TfIdfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter))
-Extractor.Extractor.extract(corpusTraite,strat,-1,fichierres)
+#strat = CValueStrategy(ind,seuil=5)
+strat = CValueTfidfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter),seuil=2)
+#strat = TfIdfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter)seuil=5)
+Extractor.Extractor.extract(corpusTraite,strat,-1,fichierres,stem=True)

@@ -1,10 +1,17 @@
 # -*- coding: utf-8 -*-
 from collections import Counter
 import math
+import sys
+sys.path.append("..")
+from Stemmer import Stemmer
 
 class Indexation:
-    def __init__(self,corpusTraite):
-        self.corpus = corpusTraite
+    def __init__(self,corpusTraite,stem=True):
+        if(stem):
+            s=Stemmer()
+            _,self.corpus = s.stem(corpusTraite)
+        else:
+            self.corpus = corpusTraite
         self.index = None
         self.indexInv = None
         self.calculIndex()

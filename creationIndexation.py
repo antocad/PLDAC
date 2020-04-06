@@ -12,13 +12,13 @@ from TraitementNGrams import TraitementNGrams
 #from TraitementNGramsSpacy import TraitementNGramsSpacy
 from ParserCorpus import ParserCorpus
 
-nomfichier = "indexation5Grams_wikimed"
+nomfichier = "indexation5Grams_wikimedStem"
 fichierCorpus = "wikimed.txt"
 
 corpus = ParserCorpus.parse(fichierCorpus)
 trait = TraitementNGrams(1,5,'French')
 corpusTraite = utils.traiteCorpus(corpus,trait)
-ind = Indexation(corpusTraite)
+ind = Indexation(corpusTraite,stem=True)
 
 with open(nomfichier, 'wb') as fichier:
     mon_pickler = pickle.Pickler(fichier)

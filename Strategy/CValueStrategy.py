@@ -7,16 +7,23 @@ from collections import Counter
 from Document import Document
 
 class CValueStrategy(Strategy):
-    def __init__(self,indexation):
+    def __init__(self,indexation,seuil):
         self.indexation= indexation
         self.indexInv = indexation.getIndexInv()
         self.index = indexation.getIndex()
-
+        self.seuil = seuil
+        
     def execute(self,corpusTraite):
         docTraite = Document('',[])
         for doc in corpusTraite:
             docTraite.content += doc.content
         freq = dict(Counter(docTraite.content))
+        
+        #seuil
+        if(self.seuil>0):
+            termSeuil = {t for t,occ in freq.items() if occ>=self.seuil}
+            docTraite.content = [t for t in docTraite.content if t in termSeuil]
+        
         dictTermeScore = dict()
         termesImb = self.calculTermesImbriques(docTraite)
         for terme,ensTermes in termesImb.items():

@@ -10,7 +10,7 @@ from TraitementNGrams import TraitementNGrams
 from utils import traiteCorpus
 import math
 
-trait = TraitementNGrams(2,'French')
+trait = TraitementNGrams(1,2,'French')
 doc1 = 'Je fais une Phrase pour tester le prétraitement n-grams pour tester.'
 doc2 = 'Je fais un test d\'indexation.'
 corpus = Corpus()

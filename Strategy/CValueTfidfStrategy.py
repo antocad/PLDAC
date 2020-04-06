@@ -9,7 +9,7 @@ from TfIdfStrategy import TfIdfStrategy
 from CValueStrategy import CValueStrategy
 
 class CValueTfidfStrategy(Strategy):
-    def __init__(self,indexationGeneraliste,formuletfifd,formuleAgregation):
+    def __init__(self,indexationGeneraliste,formuletfifd,formuleAgregation,seuil=0):
         """
         indexationGeneraliste : objet indexation d'un corpus generaliste pre-calculé
         formule est une fonction à 2 argument qui prend tf et idf qui renvoie le score
@@ -18,11 +18,12 @@ class CValueTfidfStrategy(Strategy):
         self.formuletfifd = formuletfifd
         self.formuleAgregation = formuleAgregation
         self.indexation = indexationGeneraliste
+        self.seuil = seuil
 
     def execute(self,corpusTraite):
-        strattfidf = TfIdfStrategy(self.indexation,self.formuletfifd,self.formuleAgregation)
+        strattfidf = TfIdfStrategy(self.indexation,self.formuletfifd,self.formuleAgregation,self.seuil)
         tfidf = strattfidf.execute(corpusTraite)
-        stratcvalue = CValueStrategy(self.indexation)
+        stratcvalue = CValueStrategy(self.indexation,self.seuil)
         cvalue = stratcvalue.execute(corpusTraite)
         #normalise cvalue
         tot = sum(cvalue.values())

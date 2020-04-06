@@ -7,7 +7,7 @@ from Indexation import Indexation
 from collections import Counter
 
 class TfIdfStrategy(Strategy):
-    def __init__(self,indexationGeneraliste,formuletfifd,formuleAgregation):
+    def __init__(self,indexationGeneraliste,formuletfifd,formuleAgregation,seuil=0):
         """
         indexationGeneraliste : objet indexation d'un corpus generaliste pre-calculé
         formule est une fonction à 2 argument qui prend tf et idf qui renvoie le score
@@ -18,15 +18,24 @@ class TfIdfStrategy(Strategy):
         self.indexation = indexationGeneraliste
         self.index = indexationGeneraliste.getIndex()
         self.indexInv = indexationGeneraliste.getIndexInv()
+        self.seuil = seuil
 
     def execute(self,corpusTraite):
         dictTermeScore = dict()
-        indexerCorpus = Indexation(corpusTraite)
+        indexerCorpus = Indexation(corpusTraite,stem=False)
         index = indexerCorpus.getIndex()
+        
+        #seuil provisoire ya peut etre mieux
+        if(self.seuil>0):
+            indexInv = indexerCorpus.getIndexInv()
+            termSeuil = {t for t,nboccs in indexInv.items() if sum(nboccs.values())>=self.seuil }
+        
         tfidfindex = dict()
         for doc,term_occ in index.items():
             tmp = dict()
             for term, tf in term_occ.items():
+                if self.seuil>0 and term not in termSeuil:#selection sur le seuil
+                    continue
                 idf = self.indexation.getIDFTerme(term)
                 tfidf = self.formuletfifd(tf,idf)
                 tmp[term]=tfidf
