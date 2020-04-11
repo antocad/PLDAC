@@ -1,0 +1,7180 @@
+traitement;73
+diagnostic;58
+syndrome néphrotique;36
+néphropathie;32
+patient;31
+hypercalcémie;31
+insuffisance rénale;28
+hta;27
+diurétiques;27
+insuffisance rénale chronique;25
+cours;24
+iv;23
+causes;23
+objectifs;23
+hyperkaliémie;21
+ecbu;21
+biopsie rénale;19
+hypocalcémie;19
+protéinurie;18
+hypokaliémie;18
+tableau 1;18
+enfant;18
+âge;17
+proposition;17
+patients;17
+créatininémie;17
+définition;17
+cause;16
+pth;16
+insuffisance rénale terminale;16
+insuffisance cardiaque;16
+oedèmes;16
+insuffisance rénale aiguë;15
+diurétiques de l' anse;15
+calcémie;15
+obstacle;15
+diagnostic étiologique;15
+signes;14
+hypertension artérielle;14
+eau;14
+âgé;13
+hématurie;13
+transplantation rénale;13
+médicaments;13
+urines;13
+73 m2;13
+dfg;13
+physiopathologie;12
+traitement symptomatique;12
+hyperuricémie;12
+hyponatrémie;12
+signes cliniques;12
+tableau 2;12
+compte;11
+pratique;11
+évolution;10
+acidose métabolique;10
+anticorps;10
+reins;10
+filtration glomérulaire;10
+fonction rénale;10
+terme;10
+anse;10
+sténose de l' artère rénale;10
+hyperparathyroïdie primaire;10
+rhabdomyolyse;10
+néphropathie diabétique;10
+maladie de goodpasture;9
+anémie;9
+complications;9
+mode d' action;9
+lieu;9
+hématurie macroscopique;9
+charge;9
+niveau;9
+diabète;9
+néphropathies glomérulaires;9
+syndrome;9
+atteinte rénale;9
+ph;9
+myélome;9
+dialyse péritonéale;9
+objectif;9
+signes biologiques;9
+temps;9
+diagnostic positif;8
+lumière tubulaire;8
+utilisation;8
+hématurie microscopique;8
+corticothérapie;8
+néphropathie glomérulaire;8
+urgence;8
+général;8
+ira;8
+nécrose tubulaire aiguë;8
+épidémiologie;8
+créatinine;8
+examen;8
+10 mmol;8
+pression artérielle;8
+coeur;8
+étape;8
+glomérulaire;8
+hta maligne;8
+contexte;8
+introduction;8
+néphropathies vasculaires;8
+natriurèse;8
+homme;8
+diurétiques thiazidiques;8
+kaliémie;8
+évidence;8
+suivi;8
+indications;7
+lithiase urinaire;7
+tableau;7
+glomérulopathie extra-membraneuse;7
+c3;7
+débit de filtration glomérulaire;7
+transplantation;7
+angiotensine;7
+ara2;7
+femme;7
+diabète de type 2;7
+hypernatrémie;7
+étiologies;7
+élévation de la créatininémie;7
+calculs;7
+vi;7
+dialyse;7
+potassium;7
+5 jours;7
+bloqueurs;7
+réponse;7
+infections;7
+40 ans;7
+exemple;7
+mrc;7
+augmentation;7
+natrémie;7
+surveillance;7
+hypovolémie;7
+osmolalité urinaire;7
+infection urinaire;7
+7 jours;6
+mesures;6
+albuminémie;6
+tableau clinique;6
+vasculaires;6
+jours;6
+apports sodés;6
+aldostérone;6
+atpase;6
+association;6
+kystes;6
+syndrome d' alport;6
+amylose;6
+cotrimoxazole;6
+mmhg;6
+échographie;6
+hg;6
+maladie rénale chronique;6
+tableau 4;6
+prise en charge thérapeutique;6
+sang;6
+tableau 5;6
+ciclosporine;6
+microalbuminurie;6
+ains;6
+pbr;6
+vomissements;6
+hyperlipidémie;6
+risque;6
+calcul;6
+polydipsique;6
+sclérodermie;6
+test;6
+vitamine;6
+albuminurie;6
+hypercalciurie;6
+sarcoïdose;6
+incidence;6
+fièvre;6
+mois;6
+compartiment intracellulaire;6
+atteinte;6
+calcium;6
+tube distal;6
+effets secondaires;6
+glomérules;6
+pronostic;6
+déshydratation extracellulaire;6
+principales;6
+gem;6
+donneur décédé;6
+k+;6
+néphropathie à iga;6
+adulte;6
+présentation clinique;6
+situations;6
+glycémie;6
+échographie rénale;6
+rein;6
+système rénine;6
+alcalose métabolique;6
+hypervitaminose;6
+mécanismes;6
+risque cardiovasculaire;6
+acide urique;5
+oedèmes généralisés;5
+hypoaldostéronisme;5
+hypoparathyroïdie;5
+5 ans;5
+60 ml / min/1;5
+dépôts;5
+consultation;5
+tube digestif;5
+signes rénaux;5
+lithiases urinaires;5
+prévention;5
+symptômes;5
+mesures hygiéno;5
+volume;5
+maladie;5
+risque de complication;5
+protéines;5
+transplantation d' organes;5
+amoxicilline;5
+situation clinique;5
+apports;5
+usage;5
+140/90 mmhg;5
+particuliers;5
+cellules;5
+dosage;5
+insuffisance rénale sévère;5
+échanges;5
+définitions;5
+objectif tensionnel;5
+indication;5
+stade;5
+bu;5
+segment;5
+tableau 3;5
+conséquences;5
+rénine;5
+glomérulonéphrite rapidement progressive;5
+prescription;5
+efficacité;5
+procédures diagnostiques;5
+produits de contraste iodés;5
+principe;5
+polykystose rénale;5
+urine;5
+calcémie totale;5
+néphropathies interstitielles;5
+h2o;5
+efférente;5
+alcalinisation;5
+glucose;5
+poids;5
+cl-;5
+hémodialyse;5
+sténose;5
+emboles de cristaux de cholestérol;5
+transfert;5
+oligurie;5
+restriction hydrique;5
+anti-inflammatoires non stéroïdiens;5
+20 mmol;5
+osmolalité;5
+formule de cockcroft;5
+podocytes;5
+inhibiteurs;5
+tubulo;5
+risque élevé;5
+réabsorption;5
+hypoalbuminémie;5
+jeu;5
+diurèse;5
+troubles de l' hydratation;5
+médicament;5
+calciurie;5
+mesure;5
+tableau 7;5
+insuffisance rénale fonctionnelle;5
+recherche;5
+facteurs;4
+foie;4
+population générale;4
+donneur vivant;4
+apports hydriques;4
+syndrome néphrotique idiopathique;4
+récepteurs de l' angiotensine ii;4
+progression;4
+lithiase calcique;4
+cellule principale;4
+vaisseaux;4
+ca++;4
+amm;4
+mortalité cardiovasculaire;4
+obstruction;4
+dépens;4
+progressivement;4
+traitement immunosuppresseur;4
+facteurs de progression;4
+poumons;4
+diabète de type 1;4
+cirrhose;4
+hémocultures;4
+agents;4
+aminosides;4
+tubule collecteur cortical;4
+tubule;4
+formule;4
+infectieuses;4
+leucocyturie;4
+ml;4
+part;4
+caillots;4
+bloqueurs du système rénine;4
+compartiment extracellulaire;4
+diurétique;4
+//www;4
+fosfomycine;4
+règles de prescription;4
+techniques;4
+examen complémentaire;4
+anurie;4
+30 ml / mn;4
+modifications;4
+secteur extracellulaire;4
+aldo;4
+brûlures;4
+albumine;4
+diarrhée;4
+tubule proximal;4
+infections urinaires;4
+protéinurie glomérulaire;4
+appel;4
+traitement pharmacologique;4
+60 ans;4
+syndrome glomérulaire;4
+emblée;4
+maladie des emboles de cristaux de cholestérol;4
+manifestations devant faire évoquer la maladie;4
+présentation;4
+rejet;4
+iec;4
+diagnostic différentiel;4
+traitement urologique;4
+pyélonéphrite;4
+examen clinique;4
+figure 1;4
+infection;4
+choc septique;4
+acido;4
+concentration plasmatique;4
+majorité;4
+tableau 6;4
+nic;4
+concentration;4
+cystites;4
+hypo;4
+iu;4
+crp;4
+arrêt;4
+pancréas;4
+facteur;4
+situations suivantes;4
+cryoglobulinémie;4
+pathologies;4
+conduite à tenir;4
+traitement spécifique;4
+place;4
+grossesse;4
+carence d' apport;4
+cystite;4
+critères;4
+cross match;4
+prise en charge;4
+chirurgie conventionnelle;4
+interrogatoire;4
+carence en vitamine;4
+cellule;4
+objet;4
+hyperhydratation intracellulaire;4
+prescrire;4
+angio;4
+acidose;4
+tableau 8;4
+syndromes oedémateux;4
+tube collecteur;4
+accident vasculaire cérébral;4
+traitement de suppléance;4
+récepteur;4
+veineuse;4
+partie;4
+semaine;4
+colique néphrétique;4
+acide clavulanique;4
+24 heures;4
+maladie rénale;4
+dénutrition;4
+cf;4
+complications cardio;4
+amylose aa;4
+aspects;4
+aminoside;4
+perméabilité capillaire;3
+hypokaliémie d' origine rénale;3
+inhibiteurs de mtor;3
+complications infectieuses;3
+cellules endothéliales;3
+imagerie;3
+signes extra-rénaux;3
+canal collecteur;3
+résultats;3
+symptomatologie;3
+méthotrexate;3
+pur;3
+généralités;3
+diminution de taille;3
+inhibiteurs calciques;3
+fibrose rétropéritonéale;3
+risques sanitaires;3
+pronostic rénal;3
+200 mmol;3
+score;3
+formules;3
+polykystose rénale autosomique dominante;3
+hommes;3
+taille;3
+polyangéite microscopique;3
+hyperthyroïdie;3
+néphrostomie percutanée;3
+dfg = débit de filtration glomérulaire;3
+acide mycophénolique;3
+position assise;3
+urée;3
+amt;3
+néphrites;3
+hyperaldostéronisme primaire;3
+infections urinaires masculines;3
+fr;3
+greffon;3
+patient diabétique;3
+hypotension;3
+patiente;3
+critères diagnostiques;3
+atrophie rénale bilatérale;3
+importance;3
+insuline;3
+déshydratation extra-cellulaire;3
+diurétiques épargneurs de potassium;3
+risque hémorragique;3
+normochrome;3
+hypomagnésémie;3
+néphropathie à dépôts d' iga;3
+dilution;3
+glomérulonéphrites rapidement progressives;3
+semaines;3
+hydratation;3
+médicaments néphrotoxiques;3
+ciprofloxacine;3
+terrain;3
+antibiogramme;3
+adh;3
+cirrhose hépatique;3
+maladie cardio;3
+intention;3
+6 mois;3
+lupus érythémateux disséminé;3
+50 ans;3
+examens complémentaires pertinents;3
+excès;3
+pertes;3
+troubles cardio;3
+protéinurie et syndrome néphrotique;3
+analyse;3
+perfusion rénale;3
+syndrome oedémateux;3
+néphropathies interstitielles aiguës;3
+troubles hydro - électrolytiques;3
+sodium;3
+stade 5;3
+schéma;3
+membres inférieurs;3
+amyloses;3
+augmentation de la perméabilité capillaire;3
+ref;3
+oxalate de calcium;3
+vieillissement rénal;3
+stade 4;3
+antagonistes;3
+antibiothérapie;3
+interstitielle chronique;3
+perte de poids;3
+lithiase;3
+thiazides;3
+causes toxiques;3
+néphrocalcinose;3
+hypocitraturie;3
+prélèvement;3
+syndrome de gitelman;3
+médicament et des thérapeutiques non médicamenteuses;3
+fonctions;3
+attitude thérapeutique;3
+mort encéphalique;3
+phosphatémie;3
+physiopathologie de l' hta maligne;3
+lithiase urique;3
+syndrome urinaire;3
+ix;3
+leucocyturie aseptique;3
+bicarbonates;3
+type 2;3
+sepsis sévère;3
+substances;3
+pénicillamine;3
+médicaments antihypertenseurs;3
+diminution de la pression oncotique plasmatique;3
+risque de dénutrition;3
+10 ans;3
+traitement à domicile;3
+hyporéninisme;3
+surface corporelle;3
+hospitalisation;3
+néphropathie à dépôts mésangiaux d' iga;3
+has 2016;3
+glomérule;3
+3 mmol;3
+intervention;3
+lésions;3
+clairance de la créatinine;3
+insuffisances rénales aiguës;3
+infections hospitalières;3
+ira fonctionnelles;3
+sédiment urinaire;3
+oedèmes du syndrome néphrotique;3
+posologie;3
+polynucléaires;3
+35 mm;3
+cortex;3
+risque d' hyperkaliémie;3
+insuffisance rénale chronique et maladies rénales chroniques;3
+contrôle tensionnel;3
+tableau 9;3
+syndrome inflammatoire;3
+secteur intracellulaire;3
+an;3
+réception de l' antibiogramme;3
+systématique;3
+facteurs de risque cardio;3
+pathologie;3
+microangiopathie thrombotique;3
+néphrotoxicité;3
+blse;3
+hyalinose segmentaire et focale;3
+néphropathie vasculaire;3
+traitement de l' hta;3
+restriction;3
+secteur interstitiel;3
+formes sévères;3
+érythropoïétine;3
+fluide tubulaire;3
+osmolarité urinaire;3
+posm;3
+excrétrice;3
+principales complications;3
+avis néphrologique;3
+drépanocytose;3
+loi de bioéthique;3
+bloqueur;3
+forme;3
+cadre;3
+co-transporteur;3
+neuropathie;3
+hypotension artérielle;3
+contre-indication;3
+lésions glomérulaires minimes;3
+fluoroquinolone;3
+ultrafiltration;3
+vasoconstriction;3
+compensation;3
+4 à 6 heures;3
+contexte clinique;3
+revanche;3
+microscopie optique;3
+conséquence;3
+rifampicine;3
+baisse;3
+1/3;3
+principales hypothèses diagnostiques et justiﬁer;3
+nta;3
+péritubulaire;3
+30 mmol;3
+syndrome hémolytique et urémique;3
+prise unique;3
+manifestations cliniques;3
+micro-albuminurie;3
+artériopathie;3
+risque moyen;3
+furosémide;3
+prostatite aiguë;3
+protéinurie orthostatique;3
+insuffisance surrénale aiguë;3
+chirurgie;3
+risque très élevé;3
+doute;3
+femmes;3
+prédominance masculine;3
+cancer;3
+items 266 et 265;3
+classe thérapeutique;3
+déshydratation globale;3
+intérêt;3
+maladies transmissibles;3
+bélatacept;3
+godet;3
+60 % x poids;3
+durée;3
+diététiques;3
+néphron;3
+calculs urinaires;3
+traitements;3
+ckd;3
+précautions;3
+but du traitement;2
+anémie hémolytique mécanique;2
+lymphocytes;2
+diagnostic d' infection urinaire;2
+anomalies du bilan du potassium;2
+posologie de ces médicaments;2
+30 ml / min/1;2
+maladie glomérulaire;2
+créatininémie x 0 , 885;2
+anonymat entre le donneur et le receveur;2
+sexe masculin;2
+vaccination contre l' hépatite;2
+syndrome néphritique aigu;2
+vieillissement physiologique;2
+8 mmhg;2
+proches;2
+avis spécialisé;2
+échec;2
+déficit immunitaire;2
+nécrose;2
+persistance;2
+néphropathies tubulaires aiguës;2
+maladies;2
+troubles de l' équilibre;2
+irm;2
+toxicité tubulaire ou tubulo;2
+tumeurs;2
+pouvez;2
+débit sanguin rénal et la filtration glomérulaire;2
+journalier;2
+mesures étant espacées de quelques minutes;2
+10 5 ufc / ml;2
+voies excrétrices;2
+fibrinogène;2
+130/80 mmhg et protéinurie;2
+pronostic vital;2
+blocage du sra;2
+mortalité;2
+principal facteur de risque de lithiase calcique;2
+éléments de physiologie rénale;2
+adultes;2
+réalisation pratique;2
+démarche diagnostique;2
+signes urinaires;2
+tea;2
+troubles de l' hémostase primaire;2
+impossibilité technique de l' angioplastie;2
+maladie plus sévère;2
+type d' ira;2
+cystographie rétrograde;2
+lithotritie;2
+passage des protéines dans l' urine;2
+indolores;2
+45 ans;2
+jour;2
+glomérule normal;2
+diabétiques;2
+hématuries macroscopiques;2
+anorexie;2
+capital sodé;2
+mbg;2
+pkd2;2
+boissons;2
+hdl;2
+chaînes légères d' immunoglobulines;2
+immunosuppression;2
+na+;2
+limites;2
+sténoses fibrodysplasiques;2
+contrôle de la pression artérielle;2
+signe de gravité;2
+action;2
+indinavir;2
+130/80 mmhg;2
+ira organiques;2
+cérébraux;2
+hyperéosinophilie;2
+traitement prolongé;2
+2 mmol;2
+évolution favorable;2
+oedème pulmonaire;2
+sujets diabétiques;2
+nle;2
+néphropathies;2
+hta résistante;2
+brassard;2
+balance sodée;2
+débit plasmatique rénal;2
+antécédents familiaux de maladie rénale;2
+pauci;2
+santé au travail;2
+reins natifs;2
+solutés précipitent;2
+fluoroquinolone per os;2
+altération;2
+gradient cortico - papillaire;2
+calcineurine;2
+entérobactéries;2
+urinaires;2
+hyperphosphatémie;2
+produits;2
+exercice physique intense;2
+adaptation;2
+pancréatite aiguë;2
+anti-hypertenseurs;2
+corticostéroïdes;2
+microscopie électronique;2
+états de choc;2
+access;2
+anémie mégaloblastique;2
+spectre;2
+urines définitives;2
+cause d' atteinte rénale;2
+fièvre isolée;2
+consentement présumé;2
+vasodilatateurs;2
+leucocyturie associée;2
+récepteurs at1;2
+hypercalcémie aiguë;2
+pertes insensibles;2
+survie;2
+définie;2
+suivantes;2
+récepteur de l' il-2;2
+anticalcique dihydropyridinique puis un diurétique thiazidique;2
+examens radiologiques;2
+artères cérébrales;2
+séreuses;2
+hydronéphrose bilatérale;2
+indications du traitement urologique;2
+volumes liquidiens;2
+ml / min/1;2
+traitements immunosuppresseurs;2
+bases immunologiques;2
+causes d' hypocalcémie chronique;2
+polyurie;2
+objectifs annexes;2
+items 119 et 126;2
+40 à 45 % du calcium sérique;2
+choix;2
+obstacle bilatéral;2
+ciclosporine , tacrolimus;2
+relai;2
+apports osmolaires;2
+diurétiques épargnant le potassium;2
+acidocétose diabétique;2
+protéines de bas poids moléculaire;2
+insuffisance cardiaque globale;2
+natrémie mesurée;2
+voies urinaires;2
+formule de cockcroft et gault;2
+chlore;2
+pth normale;2
+immunopathologie;2
+excrété;2
+limite;2
+insuffisance rénale chronique avancée;2
+soif;2
+14 j;2
+surrénales;2
+glomérulonéphrite aiguë;2
+base;2
+concentration urinaire de l' oxalate de calcium;2
+anti;2
+urographie intraveineuse;2
+hyper-protidémie;2
+néphroangiosclérose bénigne;2
+iga;2
+aorte;2
+syndrome de lyse tumorale;2
+conséquences hématologiques de l' irc;2
+infections urinaires récidivantes;2
+situation;2
+conversion de l' angiotensine;2
+hsf = hyalinose segmentaire et focale;2
+ecbu est le seul examen biologique nécessaire;2
+130 mmhg;2
+contre-indications;2
+injection de ddavp;2
+calbindine;2
+lumière;2
+pénurie d' organes;2
+cystine;2
+agence de la biomédecine;2
+traitement de suppléance de la fonction rénale;2
+sorties;2
+cellules tubulaires proximales;2
+diurétiques d' action distale;2
+arrêt du tabac;2
+déshydratation intracellulaire;2
+albuminurie < 30 mg/24;2
+néphropathie débutante;2
+80 μm;2
+classe;2
+examens suivants;2
+néphropathies tubulo;2
+doses maximales recommandées dans cette indication;2
+lésion histologique d' hsf;2
+items 318 et 326;2
+ponction;2
+avis;2
+milieu spécialisé;2
+tolérance;2
+angiotensine ii;2
+homéostasie;2
+allopurinol;2
+planche;2
+prolifération extracapillaire;2
+modifications fonctionnelles;2
+dédié;2
+âgées;2
+figure 3;2
+thrombose;2
+staphylococcus saprophyticus;2
+signes extrarénaux;2
+syndrome polyuro;2
+anastomose urinaire;2
+hypotension orthostatique;2
+pcg;2
+hyperhydratation extracellulaire;2
+rapport u / p urée > 10;2
+tubulopathie myélomateuse;2
+néphropathies diabétiques;2
+réabsorption de sodium;2
+globale , décompensation oedémato;2
+troubles de conduction;2
+signes cardiaques;2
+iatrogénie en néphrologie;2
+mesures préventives;2
+règle;2
+pyélonéphrite aiguë;2
+hyponatrémie hypotonique;2
+éléments cliniques;2
+hypertrophie;2
+mutation des gènes codant pour les protéines;2
+nécessite;2
+céphalosporines;2
+caractéristiques;2
+cystites aiguës;2
+cours de l' irc;2
+amoxilline;2
+dépression;2
+néphropathies chroniques;2
+5 mm;2
+antibiotique;2
+adénome de prostate;2
+corticoïdes;2
+fuite urinaire;2
+prescription médicamenteuse;2
+bactérie;2
+10 3 ufc / ml;2
+anticalcineurines;2
+anomalies métaboliques;2
+hyperparathyroïdie secondaire;2
+4 mm;2
+prévention primaire;2
+éléments suivants;2
+médicaments hyperkaliémiants;2
+élévation rapide de la créatininémie;2
+fin du traitement;2
+kystes rénaux;2
+insuffisance rénale chronique lentement progressive;2
+eau pure;2
+intestin;2
+complications immunologiques;2
+12 g / dl;2
+tubule rénal;2
+oedèmes , anasarque;2
+consultation d' annonce;2
+maladie de cacchi;2
+manifestations cliniques et biologiques;2
+glomérulonéphrite membrano;2
+créatinine plasmatique;2
+malade;2
+épargneurs de potassium;2
+polykystose dominante;2
+risque cardiovasculaire élevé;2
+pertes rénales;2
+méthodes;2
+traitement antibiotique;2
+tube collecteur cortical;2
+lymphopénie profonde et durable;2
+amphotéricine;2
+traitement des hypercalcémies;2
+balance décisionnelle;2
+lésions rénales;2
+attente;2
+protéinurie faible;2
+raison du risque d' hyperkaliémie;2
+hypertendus traités;2
+trouble de l' hydratation intracellulaire;2
+phosphate sérique;2
+glomérulopathie extramembraneuse;2
+diminution;2
+absence d' insuffisance cardiaque;2
+syndrome de levée d' obstacle;2
+principales cibles;2
+anse de henle;2
+volume interstitiel;2
+hyperuricurie;2
+évaluation;2
+obésité;2
+apport de calcium;2
+déficit extracellulaire;2
+3 mm;2
+sécrétion d' aldostérone;2
+pertes urinaires;2
+oedèmes cycliques idiopathiques;2
+progression de l' insuffisance rénale;2
+examens;2
+hypophosphatémie;2
+localisation;2
+peau;2
+125 mmol;2
+parasitaires;2
+croissance;2
+structures;2
+109 mmhg;2
+hypovolémie efficace;2
+écho;2
+appareil;2
+bloquants;2
+syndrome de sjögren;2
+excès d' eau;2
+ex;2
+jus de pamplemousse;2
+tabagisme;2
+molécules;2
+hématuries urologiques;2
+surface du lt;2
+apports excessifs;2
+sujets âgés;2
+hyperplasie;2
+glomérulopathies;2
+forme le syndrome néphrotique;2
+dénomination;2
+expansion du vec;2
+déplétion potassique sévère;2
+attention;2
+hémopathies;2
+irf;2
+tachycardie;2
+conséquences rénales;2
+court;2
+hormones sexuelles;2
+gynécomastie;2
+hypercalcémies d' origine osseuse;2
+anesthésie locale;2
+confusion;2
+inflammation chronique;2
+titre d' exemple;2
+tube contourné proximal;2
+traitement curatif;2
+mmol;2
+thrombopénie de consommation;2
+volémie;2
+cystite aiguë simple;2
+intérêt diagnostique;2
+anca;2
+sujets;2
+urologiques;2
+principalement à l' albumine;2
+hypocomplémentémie;2
+réalisation d' un ecbu;2
+rares;2
+étiologie;2
+épuration extrarénale;2
+pna simple;2
+stade 4 de la maladie rénale chronique;2
+excès d' apport;2
+diagnostic de néphropathie glomérulaire;2
+cours de l' insuffisance rénale chronique;2
+patients pkrad;2
+recommandations sur la néphroprotection;2
+acétazolamide;2
+tubule distal;2
+dénutrition protéino - énergétique;2
+augmentation du débit de filtration glomérulaire;2
+causes médicamenteuses;2
+calcium ionisé et / ou albuminémie;2
+rétention rénale de sodium;2
+prolapsus de la valve mitrale;2
+néphrologue;2
+cystite aiguë;2
+signes généraux;2
+métastases;2
+gratuité du don;2
+1 an;2
+prise excessive de calcium per os;2
+prévention et traitement;2
+sécrétion d' adh;2
+hyperaldostéronisme secondaire;2
+anticalcineurine;2
+syndrome de fanconi;2
+causes iatrogènes;2
+traitement de l' hyperkaliémie;2
+n° 265;2
+hypertendus;2
+diabète insipide;2
+lithiases uriques;2
+diagnostic et prévention;2
+diarrhées;2
+polykystoses;2
+phénomène;2
+urines concentrées;2
+effets indésirables;2
+posologies;2
+néphropathies vasculaires évoluant sur le mode chronique;2
+immunofluorescence;2
+biopsie;2
+douleurs;2
+tumeur à rénine;2
+tuberculose;2
+arteriole;2
+mois jusqu' à l' accouchement;2
+phase initiale;2
+générale;2
+toxicité tubulaire;2
+malabsorption;2
+chimioprophylaxie;2
+propositions suivantes;2
+passage;2
+individu donné;2
+pression oncotique intracapillaire;2
+grossesses;2
+tube contourné distal;2
+pertes d' origine digestive;2
+apparentés à risque d' un sujet atteint;2
+vivant;2
+oeil;2
+antihypertenseurs;2
+soluté;2
+créatininurie;2
+circonstances;2
+sujets hypertendus;2
+bloqueurs du sra;2
+prévalence;2
+endoscopique;2
+protéinurie physiologique;2
+activation et la prolifération lymphocytaire;2
+toxicité;2
+âges;2
+éclampsie;2
+néphropathies vasculaires aiguës;2
+éviction;2
+repérage;2
+interrogatoire et l' examen clinique;2
+décision;2
+bilan d' eau positif;2
+petite taille;2
+perméabilité;2
+molécules suivantes;2
+oap flash;2
+hémoconcentration : protidémie , hématocrite;2
+complications néoplasiques;2
+retard de croissance;2
+cours de la grossesse;2
+alpha;2
+fibrates;2
+spondylarthropathies;2
+inhibiteur direct de la rénine;2
+mucoviscidose;2
+cellules mésangiales;2
+chapitre 16;2
+kinines;2
+calciurie des 24;2
+décompensation oedémato;2
+traitement anticoagulant;2
+tube;2
+causes d' hypocalcémie aiguë;2
+veinule;2
+cirrhose hépatique décompensée;2
+niveau votre stratégie thérapeutique;2
+insuffisants rénaux;2
+spécificités;2
+transplantations d' organes;2
+sels de calcium;2
+diverticulose colique;2
+polyangéïte;2
+restriction sodée;2
+recueil;2
+type 1;2
+drainage lymphatique;2
+igg;2
+infections virales hépatite;2
+1 et 10 ans;2
+mg;2
+2 k+;2
+substances néphrotoxiques;2
+site d' action;2
+fin;2
+créat;2
+1 g/24;2
+vasoconstriction artériolaire;2
+greffon rénal;2
+anomalie;2
+figure 2;2
+protéinurie majoritairement composée d' albumine;2
+mouvements d' eau;2
+dépôts glomérulaires;2
+3 mois;2
+traitement des sténoses de l' artère rénale;2
+≥ 30 mg;2
+acheminement;2
+traitement et de la surveillance;2
+créatinine dans le plasma;2
+complications du syndrome néphrotique;2
+comorbidités;2
+pam;2
+mesure de la pression artérielle;2
+285 mosm / kg d' eau;2
+formation des oedèmes;2
+suivi clinique ni paraclinique;2
+syndrome de revascularisation post-opératoire;2
+principes de la prise en charge;2
+hypercalcémies;2
+réabsorption du phosphate;2
+estimation du dfg;2
+30 ml / min;2
+immunisation anti-hla;2
+lithiases;2
+traitement de la cause;2
+déplétion volémique;2
+traitement étiologique;2
+arbre décisionnel;2
+patients diabétiques;2
+faits;2
+arguments;2
+coloration;2
+atteinte neurologique centrale;2
+calcium total;2
+epi;2
+syndrome de mat;2
+diffusion;2
+rejet d' allogreffe;2
+mesure au cabinet;2
+néphroangiosclérose dite « bénigne »;2
+extracellulaire;2
+insuffisance hépato;2
+minimale de créatininémie;2
+augmentation de l' élimination du sodium;2
+fluoroquinolones;2
+max;2
+pertes digestives;2
+diminution du calcium ionisé;2
+principales molécules responsables;2
+9 ‰;2
+hypercalcémie vraie;2
+question;2
+interstitielle aiguë;2
+forme active de la vitamine;2
+perfusion;2
+lupus;2
+diurétique thiazidique;2
+absence de fièvre;2
+calciurie élevée;2
+charge filtrée;2
+recherche d' anticorps;2
+facteurs de risque de complication;2
+intolérance aux bloqueurs du système rénine;2
+irc;2
+digitaline;2
+entrée cellulaire du k+;2
+traitement médical préventif de la récidive;2
+signes histologiques;2
+angiotensinogène;2
+épuration extrarénale par hémodialyse;2
+forme touche;2
+pression oncotique plasma;2
+jours ou semaines;2
+syndrome de néphropathie;2
+médicaments ou toxiques;2
+immunosuppresseurs;2
+masse musculaire;2
+glaucome;2
+retentissement de l' insuffisance rénale;2
+profil urinaire;2
+symptômes 3 jours;2
+complément sérique;2
+3 mesures;2
+shu;2
+membranes basales;2
+exogènes;2
+arrêt du tabagisme;2
+sécrétion de potassium;2
+cytolyse hépatique;2
+hépatite fulminante;2
+hypoalbuminémie en particulier du syndrome néphrotique;2
+dpr;2
+fibrose interstitielle;2
+http;2
+6 heures;2
+lactamase à spectre étendu;2
+oedèmes pulmonaires récidivants;2
+protéinurie sans rétinopathie;2
+syndrome de glomérulonéphrite chronique;2
+hypercalcémie chronique;2
+dilatation;2
+insuffisance rénale chronique sévère;2
+accès à la greffe;2
+absence de traitement;2
+histoire naturelle;2
+chapitre 14;2
+osmolalité plasmatique;2
+calculs radio-opaques;2
+fr_fr;2
+femme enceinte;2
+immobilisation prolongée;2
+110 mmhg;2
+équilibre;2
+70 ans;2
+alb;2
+choc;2
+techniques urologiques;2
+hydroxylase;2
+hydroxy;2
+études de développement de certains médicaments;2
+cefixime;2
+traitement d' induction;2
+pression hydrostatique capillaire;2
+complications rénales;2
+bilatéraux et symétriques;2
+surestimations;2
+inhibition de la résorption osseuse;2
+études;2
+morbi;2
+hypertendu;2
+signes neuro-musculaires;2
+phosphate;2
+identification;2
+140 mm;2
+chlorurie;2
+examens complémentaires;2
+accidents;2
+pyélonéphrites aiguës;2
+275 mosm / kg;2
+amiloride;2
+trpv5;2
+artères rénales;2
+histologie;2
+1 mois et 3 mois;2
+hémorragie digestive sévère;2
+stade 3a de la maladie rénale chronique;2
+dégradation de la fonction rénale;2
+diagnostic d' une maladie rénale chronique;2
+crampes;2
+causes infectieuses;2
+traitement de la cn;2
+description;2
+irradiation;2
+bandelette urinaire;2
+long;2
+nouvelle situation;2
+risques;2
+conduite diagnostique et prévention des récidives;2
+surestimation;2
+élévation;2
+information;2
+principes généraux;2
+troubles du métabolisme phosphocalcique et osseux;2
+débit sanguin rénal;2
+poumon bi;2
+rôle important;2
+indications chirurgicales;2
+tacrolimus;2
+para;2
+périartérite noueuse;2
+vérifier;2
+oedème interstitiel;2
+tubules;2
+traitement par iec;2
+receveurs;2
+min;2
+départements;2
+fonctions rénales;2
+pression;2
+oedèmes localisés;2
+réanimation;2
+embolie pulmonaire;2
+rejets;2
+hémorragie;2
+mesure de la natriurèse;2
+points;2
+maladie générale;2
+situation normale;2
+existence d' une hta;2
+principales causes;2
+indications préférentielles;2
+cours de l' insuffisance cardiaque;2
+gènes;2
+boucle de rétro-contrôle;2
+réalisation d' une biopsie rénale;2
+flux sanguin rénal;2
+antalgiques;2
+limites théoriques d' âge;2
+refus;2
+10 j;2
+caractère chronique;2
+irm est un bon examen de dépistage;2
+100 mosm / kg;2
+survenue;2
+ara2 si intolérance;2
+situations d' urgence;2
+vitamine d3;2
+types de rejets;2
+crises de goutte;2
+trouble de l' hémostase;2
+hypertension artérielle de l' adulte;2
+parathyroïdectomie;2
+prolifération cellulaire;2
+hyperglycémie;2
+patients âgés;2
+urine définitive;2
+forces de starling;2
+35 g / g de créatininurie;2
+soustraction nette de liquide;2
+mutations de novo;2
+coralliformes;2
+mdrd;2
+hormone antidiurétique;2
+ca corrigé;2
+urétéroscopie ou lec;2
+normal;2
+mesure de la pa;2
+hyperoxalurie;2
+pseudohypoparathyroïdie;2
+cancers;2
+pertes d' origine rénale;2
+réponse rénale;2
+causes d' hypercalcémie d' origine osseuse;2
+signes digestifs;2
+stade 5 de la maladie rénale chronique;2
+lithiase et cristallurie;2
+anomalies biologiques;2
+but;2
+prise de poids;2
+mutation du gène de la pth;1
+médicament éliminé par la dialyse;1
+causes non-infectieuses;1
+endocrine;1
+anti-inflammatoire non stéroïdiens;1
+inhibition de synthèse;1
+12 h .   ;1
+pariétales;1
+thrombose uni ou bilatérale;1
+prise en charge spécifique;1
+souvent une oligurie initiale;1
+formes de syndromes lymphoprolifératifs;1
+30 à 40 mmoles de potassium;1
+stimulation maximale de l' adh endogène;1
+nécrose tubulaire;1
+lymphomes non hodgkinien;1
+chromosome 16;1
+5 g/24;1
+coût du traitement et de sa surveillance;1
+reins de taille asymétrique;1
+5 - 15;1
+anomalie lipidique;1
+80 mmhg;1
+plan électrocar- diographique est une urgence absolue;1
+activité de la nak;1
+pcg - pu;1
+prématurité foetale;1
+prise charge aux soins intensifs;1
+caution;1
+dénutrition protidique;1
+nodules mésangiaux;1
+fièvre élevée;1
+urgence médico-chirurgicale;1
+risque cv global;1
+éléments spécifiques;1
+1 g prot/6 mmol d' urée;1
+causes hématologiques;1
+rhabdomyolyse sévère;1
+analyse quantitative;1
+pénurie actuelle;1
+formule ckd;1
+score < 1;1
+contenu en calcium;1
+formes les plus invalidantes;1
+calculs calciques;1
+médicamenteuses : soit toxiques , soit immuno;1
+surveillance avant et après traitement urologique;1
+anhydrase carbonique;1
+pth très élevée;1
+régime hypo;1
+loin pain syndrome;1
+kg;1
+fausse hématurie;1
+diabétiques de type 1;1
+indications précises au cours de l' ira;1
+élévation du ldl;1
+una / pna;1
+reins diminuée;1
+antécédents de lithiase de l' appareil urinaire;1
+exceptions résumées dans le tableau;1
+hématuries macroscopiques d' origine glomérulaire;1
+possibilités;1
+anomalies rénales de la dilution des urines;1
+bactéries isolées;1
+précipitation du calcium;1
+constipation pour le vérapamil;1
+48 heures après une artériographie;1
+infection à cytomégalovirus;1
+hématomes;1
+gastrite et ulcère;1
+caractère;1
+équipe de transplantation;1
+traitement de l' ira fonctionnelle;1
+anémie hémolytique avec test de coombs positif;1
+pyélonéphrites;1
+insuffisance rénale aiguë sévère oligo - anurique;1
+associations préférentielles;1
+acides aminés;1
+négativité de l' enquête étiologique;1
+lit;1
+bactéries en cause;1
+urine primitive;1
+1 %;1
+nausées;1
+insuffisance aiguë et chronique;1
+homme : impuissance , fertilité diminuée;1
+néoplasie sous-jacente;1
+amt et la mapa;1
+prévention de la néphropathie diabétique;1
+traitement de la pna simple;1
+hypovolémie relative ou «;1
+risque d' infection à eblse;1
+dépôts de protéine aa visibles en if;1
+infection urinaire fébrile;1
+polyurie hypotonique;1
+travers la membrane de dialyse semi-perméable;1
+enfant et l' adulte jeune;1
+intérêt diagnostic et thérapeutique;1
+urapidil;1
+protéines porteuses , vitamines , hormones;1
+hyperleucocytose à polynucléaires neutrophiles;1
+macroscopique;1
+syndrome oedémateux chez un insuffisant rénal chronique;1
+85 ans;1
+marche lente;1
+prise en charge symptomatique de l' irc;1
+certitude;1
+traitement non spécifique;1
+produits de contraste;1
+vaccination;1
+mécanisme de la formation;1
+causes potentielles;1
+maladie inflammatoire chronique intestinale;1
+tomodensitométrie de l' appareil urinaire;1
+patients hypercalciuriques et lithiasiques;1
+inobservance du traitement immunosuppresseur;1
+gradient favorable;1
+diminution des diurétiques;1
+prise par semaine;1
+maladies systémiques lupus;1
+facteur de risque vasculaire;1
+syndrome rare;1
+compte-tenu;1
+ordre d' ancienneté;1
+ergotamine;1
+cellules cibles;1
+régime alimentaire des patients hémodialysés comprend;1
+dérivation des urines;1
+drainage;1
+augmentation primitive de la sécrétion de pth;1
+asymétrie tensionnelle;1
+facteurs du pronostic vital;1
+complications digestives;1
+condi- tion;1
+appariement hla entre donneur et receveur;1
+diagnostic étiologique et différentiel;1
+diagnostic d' une hyponatrémie .   ;1
+urines permet d' éliminer les fausses hématuries;1
+calcium iv;1
+concentration de protéines dans le liquide pleural;1
+prévention : bicarbonatémie;1
+surpoids;1
+causes infectieuses :   les colites post-antibiotiques;1
+surveillance et quel rythme;1
+dose de diurétique;1
+anomalie de l' un de ces paramètres;1
+hypercalciurie en 7 à 10 jours;1
+cd28;1
+causes les plus fréquentes d' hyperkaliémie;1
+syndrome néphrotique impur;1
+alcalose métabolique secondaire;1
+patients irc;1
+interruption;1
+120 ml / min/1;1
+facteurs de risque métaboliques;1
+mesures le matin;1
+ancienneté du diabète de type 2;1
+gn rapidement progressive;1
+risque d' insuffisance rénale chronique;1
+dépôts hyalins;1
+résultat positif;1
+calcium et autres ions;1
+cysts;1
+présence d' oedèmes francs;1
+présence de gaz dans le rein;1
+co-transport na - cl;1
+gn proliférative extra-capillaire;1
+définition des critères de mort cérébrale;1
+partir de l' âge de 15 ans;1
+fosse iliaque droite ou gauche;1
+sodium filtré;1
+définition des néphropathies;1
+idiopathiques , de loin les plus fréquentes;1
+40 mmhg;1
+capacités de dilution = risque d' hyponatrémie;1
+nécessité de dialyse;1
+vitesse de progression de l' atteinte rénale;1
+sante;1
+bonne redistribution en fonction de la déclivité;1
+molécules dissoutes;1
+vasculaires associés;1
+ionogramme urinaire;1
+décours de la greffe;1
+na+ filtré;1
+dies cardiovasculaires;1
+infarctus du myocarde ou pour les 4;1
+question 4;1
+veille de l' examen;1
+durée d' action plus longue;1
+pet;1
+vasoconstriction post-glomérulaire;1
+principales étiologies des hématuries urologiques;1
+mécanisme d' entretien de l' hypercalcémie;1
+tissus nécrosés;1
+ventriculaires;1
+urgence et le risque de complications;1
+urgence de la dialyse;1
+chirurgie ou embolisation;1
+dose unique;1
+infection à bk virus;1
+restriction hydrique à 500 ml par jour;1
+médicaments appartenant aux classes d' anti;1
+recherche d' anticorps circulants anti- pla2-r;1
+bactéries anaérobies;1
+diminution du dfg;1
+élimination rénale prédominante , voire exclusive;1
+enac;1
+quantité d' eau dans un secteur;1
+parallélisme;1
+chapitres 10 , 11 et 12;1
+déshydratation i- pure;1
+aldostérone et l' activation;1
+degré d' immunisation;1
+± endocapillaire ± extracapillaire;1
+spasmes laryngés;1
+maladies auto-immunes;1
+registre national des refus au prélèvement;1
+groupe de patients;1
+risque réduit de cardiopathie ischémique;1
+pronostic vital et nécessite;1
+intérêt pré-opératoire;1
+cryoglobulinémie , lupus;1
+échographie vésico;1
+15 mm hg;1
+lithiases rénales;1
+fibroses pulmonaires;1
+crp et la créatininémie;1
+situations particulières;1
+24 h de traitement adapté;1
+concentration dans l' urine définitive;1
+augmentation du volume intracellulaire;1
+causes fréquentes causes rares;1
+athérosclérose;1
+classification des néphropathies;1
+volémie efficace;1
+substances à activité biologique;1
+suppléance trop tardive ou insuffisante;1
+rapport protéinurie / créatininurie;1
+diminution de la calciurie;1
+effondrement du potassium intracellulaire;1
+dp;1
+patients noirs et chez le sujet âgé;1
+protéine régulatrice de la réabsorption;1
+immunodéprimés;1
+aspect central électron;1
+incidence en diminution;1
+fibrodysplasie de la media;1
+expose;1
+caractère chronique d' une insuffisance rénale;1
+prévention de la progression de l' irc;1
+anurie obstructive;1
+modifications morphologiques;1
+apparition d' encoches corticales;1
+molécules utilisées;1
+bactériurie;1
+signes d' hyperhydratation extracellulaire;1
+ira fonctionnelle;1
+horsfall;1
+éventuel traitement antérieur;1
+inhibiteurs de l' activation lymphocytaire;1
+cours de la maladie de berger;1
+fonctions endocrines du rein;1
+cystite peu symptomatique;1
+rituximab;1
+caractère primitif ou secondaire;1
+salbutamol;1
+taux de pth;1
+mmhgre;1
+recueil urinaire;1
+cyclosphosphamide;1
+traitement anti-hypertenseur : iec ou ara2;1
+besoins;1
+bu positive;1
+ostéodystrophie rénale;1
+retentissement disproportionné sur les organes cibles;1
+exacte du dfg;1
+ammoniaco;1
+lymphocèles;1
+» positif ou réflexe kaliurétique;1
+maladies kystiques rénales;1
+syndrome coronarien aigu : usic;1
+évaluation de la volémie;1
+toucher;1
+partir de l' âge de 35 ans;1
+lymphocyte;1
+grâce aux gradients;1
+charge filtrée de k+;1
+contenu;1
+substances amorphes collagène de type 4;1
+origine rénale de l' anémie;1
+mauvais reflet de la fonction rénale;1
+récipient propre;1
+troubles de conductions myocardiques;1
+leucémies aiguës;1
+présence d' albumine;1
+thrombose veineuse rénale;1
+complément d' un traitement anti-hypertenseur;1
+lumière capillaire;1
+8 g protéines / kg par jour;1
+statut d' hyporéninisme;1
+apparentés d' un sujet atteint;1
+dfg qui en moyenne;1
+simple hypotonie des cavités pyélo;1
+présence de virions;1
+types cellulaires présents;1
+mécanismes , atteinte;1
+projet de transplantation rénale avec donneur;1
+péri-artérite noueuse;1
+données physiopathologiques :   1;1
+examen de référence;1
+tableau 5 : manifestations extrarénales non kystiques;1
+traduction biologique;1
+syndrome orofaciodigital de type 1;1
+doses;1
+déclaration obligatoire;1
+néphropathies interstitielles chroniques;1
+récidive histologique sur le greffon;1
+séquelles;1
+complexes immuns se déposant dans les glomérules;1
+vasculaires associées;1
+intoxication urémique importante;1
+postcharge;1
+examen clinique recherche;1
+300 mosm / kg d' eau;1
+hiv;1
+néphrolithotomie per - cutanée;1
+seules les protéines;1
+stades évolutifs;1
+signes de gravité à rechercher;1
+cancer prostatique;1
+migration;1
+tissus sous-cutanés;1
+hypovolémie et de la stimulation;1
+produit de contraste iodé;1
+néphroangiosclérose;1
+ts;1
+loi;1
+fr ni atteinte d' organe cible;1
+approfondissement;1
+échographie rénale en cas de contre-indication;1
+diabétiques de type 2 âgés;1
+tamisage des urines;1
+patient ayant une mrc;1
+traitement médical curatif;1
+formesnormocalcémiques d' hyperparathyroïdie primaire;1
+hyperparathyroïdie , précoce;1
+type cellulaire;1
+niveau mésangialedu;1
+importance de la rétention hydrosodée;1
+taux de prothrombine;1
+diagnostic syndromique établi;1
+niveau tensionnel;1
+eam;1
+données;1
+signes histologiques suivants;1
+hypovolémie relative ou « efficace »;1
+mibi;1
+radiographie de thorax;1
+résultats possibles;1
+35 ans;1
+existence d' anomalies ioniques sanguines;1
+injection d' adh exogène;1
+processus en 2 étapes;1
+sécheresse de la peau dans les aisselles;1
+≥ stade 4;1
+lindau :   prévalence 1/35 000;1
+enquête familiale;1
+hypocalcémie sévère;1
+pénicillines;1
+sécrétion d' insuline;1
+réduction;1
+3 g/24 heures;1
+production d' érythropoïétine;1
+néphropathies tubulaires;1
+cours d' une granulomatose;1
+paracétamol;1
+bilan hydrique négatif;1
+35 % et en post-infarctus;1
+diurèse abondante;1
+bras gauche et droit;1
+600 mosm;1
+cours des néphropathies;1
+facteur favorisant associé;1
+médicament modifiant l' hémodynamique rénale;1
+cellule épithéliale de la capsule de bowman;1
+métastase , myélome , immobilisation;1
+tableau 1 : principales indications et complications;1
+collapsus / choc;1
+blocage du signal 2 de co-stimulation;1
+syndrome hépato;1
+planification et objectif;1
+chapitre 3;1
+cellules interstitielles rénales;1
+bases;1
+uosm;1
+inr;1
+anesthésie générale;1
+absence de contre-indication;1
+données épidémiologiques et sociologiques;1
+bloqueur + thiazide;1
+bilan d' une hypercalcémie;1
+germe responsable;1
+amont de la transplantation , la protection;1
+10 à 50;1
+ambulatoire;1
+récidive;1
+proliférative ,   pan = périartérite noueuse;1
+greffe : le test du cross-match;1
+prévention et détection;1
+égal à 60 ml / min/1;1
+infiltration tumorale;1
+recommandations générales plus strictes;1
+syndrome d' apnée obstructive du sommeil;1
+tonus des artérioles afférentes et efférentes;1
+glycémie à jeun;1
+hta tardive;1
+diminution du calcium total;1
+hyper-osmolalité;1
+dépistage des lésions rénales;1
+hématogènes;1
+diurétiques et insuffisance rénale;1
+quantification de la prise de poids;1
+hyperaldostéronisme primaire mis en évidence;1
+diagnostic d' exclusion;1
+sn / eservice / calcul / edfg;1
+70 kg;1
+jusqu' au système excréteur;1
+72 heures;1
+niveau de preuve;1
+creatininémie;1
+symptomatologie clinique;1
+dépistage par angio;1
+masse musculaire importante;1
+excrétion d' h+ par le canal collecteur;1
+mycophénolate mofétyl;1
+nta 45;1
+règles complémentaires;1
+complications chroniques;1
+déméclocycline;1
+croissance des cellules rénales;1
+orientation en traitement de suppléance;1
+absence de complication;1
+conséquences cardiaques : péricardite urémique;1
+stade terminal entre 10 et 30 ans;1
+lithiase calcique , idiopathique dans 90;1
+traumatisme;1
+pandémie mondiale d' e coli produisant;1
+marqueur de glomérulopathie diabétique débutante;1
+rectum , de l' ovaire;1
+fréquence augmente avec l' âge;1
+mesure de la kaliurèse;1
+mise en place;1
+tableau 5 : les dépôts d' immunoglobulines;1
+thrombolyse;1
+effets;1
+causes associées;1
+sécrétion aldostérone;1
+complexants du phosphore;1
+reins bosselés avec des encoches;1
+profils d' hyperlipidémie;1
+classes disponibles;1
+nourrisson :   pauvreté des signes fonctionnels;1
+urine exprimé en ufc / ml;1
+diagnostic différentiel et pièges;1
+dfg en fonction de la créatininémie;1
+lésion hypophysaire;1
+pulmonaire;1
+protéinurie de 1;1
+facteurs nutritionnels d' hypercalciurie « idiopathique;1
+absence de toxicité rénale;1
+stade de la dialyse;1
+-des lésions des cellules tubulaires;1
+traitement par nicardipine;1
+absence de leucocytes;1
+principal intérêt est un effet rapide;1
+créatininémie augmente;1
+tableau 4 : principales causes de nic;1
+anomalie métabolique;1
+occlusion de l' artère brachiale;1
+pronostics;1
+20 à 60;1
+prise en charge adaptée;1
+diurétiques de type anti-aldostérones;1
+présence de brûlures étendues;1
+traitement d' urgence de l' hyperkaliémie menaçante;1
+2 secteurs vasculaire et interstitiel;1
+objectif du traitement;1
+pression artérielle moyenne;1
+correction d' une hypomagnésémie;1
+colite ulcéreuse;1
+ak - atpase;1
+opérateur dépendant;1
+propriété;1
+énergie;1
+activation du système rénine angiotensine;1
+drainage percutané ou chirurgical;1
+hypocalcémie par défaut de 1α;1
+risque vasculaire des irc;1
+haute autorité de santé;1
+lithiases coralliformes;1
+essuyage d' avant en arrière après défécation;1
+territoires;1
+survenue de tumeurs urothéliales;1
+signes évocateurs;1
+guanidine;1
+défaut d' hydroxylation rénale en position 1a;1
+patients hypertendus;1
+conséquences aiguës ou chroniques parfois graves;1
+hypothermie;1
+auto;1
+syndrome néphrotique et néphropathies glomérulaires;1
+formation progressive d' oedèmes;1
+gn avec prolifération extracapillaire;1
+autorégulation rénale;1
+cadre d' une enquête familiale;1
+facteurs de mauvais pronostic;1
+hypercalciuries secondaires à une hypercalcémie;1
+n° 264;1
+quantité d' eau en excès;1
+néphropathies vasculaires aiguës ou rapidement progressives;1
+position correcte au niveau du coeur;1
+registre national des refus;1
+molécules à privilégier;1
+min et par an;1
+expansion mésangiale diffuse;1
+cours du diabète de type 1;1
+kystes augmentent avec l' âge;1
+mesures préventives générales;1
+immunes;1
+créatininémie x 3 en 7 jours;1
+inscrits dans l' année 2017;1
+glomérulopathies primitives observées dans le monde;1
+transplanté d' organe solide;1
+trouble de l' hydratation extracellulaire;1
+objectif de contrôle de la pa;1
+formes secondaires;1
+administration de médicaments;1
+ordre décroissant de préférence;1
+insuffisance rénale aiguë et chronique;1
+turgescence jugulaire;1
+protéines plasmatiques et urinaires et dosage;1
+traitement des calculs rénaux;1
+protéinurie : objectif < 0 , 5;1
+kaliurèse supérieure à 30 mmol/24;1
+flux sanguin;1
+branche large ascendante;1
+hyperpolarisation membranaire;1
+examen obstétrical;1
+complications métaboliques;1
+réelle insuffisance rénale;1
+analyse des flux;1
+tdm ou irm;1
+-1 , 209 x 0 , 993âge;1
+asthénie , myalgies;1
+vérification de la stérilisation des urines;1
+schéma proposé;1
+reprise;1
+kaliémie sans garrot;1
+douleurs contrairement aux hématuries d' origine urologique;1
+néphropathie chronique est-elle héréditaire;1
+suspicion d' infection urinaire;1
+sulfadiazine;1
+syndrome néphrotique : protéinurie , albuminémie;1
+question 5;1
+loi française;1
+∏u;1
+interactions médicamenteuses telle la prise d' ains;1
+osmolalité normale si dec pure;1
+péritoine comme membrane de dialyse;1
+diagnostic repose sur la biopsie rénale;1
+c3 et igg voire iga et igm;1
+65 ng;1
+situations cliniques en dehors du syndrome néphrotique;1
+fréquence des formes normokaliémiques;1
+dépistage annuel;1
+réversibilité à l' arrêt;1
+origine de l' ira;1
+préventif sur la lithogénèse;1
+interstitium;1
+hyperosmolalité plasmatique;1
+hypocalcémie chronique;1
+tubule collecteur;1
+longue durée qu' à l' urémie;1
+forme injectable notamment en perfusion continue;1
+natriurèse augmente;1
+patient de groupe;1
+rétention primaire de sodium par le rein;1
+choc septique et risque blse;1
+méthyldopa;1
+syndrome de gordon;1
+souvent chez l' adulte;1
+atcd d' avc;1
+enquête étiologique;1
+contre-indiqués en cas de dysfonction sinusale;1
+pathologie intercurrente;1
+injection de gadolinium;1
+resténose rare;1
+enfant de moins de 3 mois;1
+6 premiers mois;1
+nh4 + formé;1
+irc d' aggravation brutale;1
+hypomagnésémie profonde;1
+tableau 2 : causes des oedèmes généralisés;1
+plaquettes;1
+25-oh d3;1
+extraction des calculs des cavités rénales;1
+petites molécules;1
+bilan;1
+forme rapidement progressive;1
+c3 g injectable;1
+prescription de médicaments néphrotoxiques;1
+type de recueil;1
+mannitol , l' éthylène glycol;1
+gamma gt;1
+présence de 50 hématies / mm3;1
+déficit hydrique;1
+régulation de la balance sodée et hydrique;1
+lésions de nécrose tubulaire;1
+anti-inflammatoires non-stéroïdiens par voie parentérale;1
+adjacent;1
+altération de l' hémodynamique capillaire;1
+récepteurs;1
+apports d' eau insuffisants;1
+présence ou non d' anticorps;1
+types de traitement préventif;1
+échographie rénale : reins de taille normale;1
+interstitiel;1
+problèmes d' hydratation;1
+lp ® et diltiazem , monotildiem ®;1
+étape : rechercher les facteurs de risque;1
+âge supérieur à 60 ans;1
+2 ans avec le receveur;1
+pipéracilline et tazobactam;1
+syndromes nauséeux importants;1
+≥ 90;1
+bloqueur et un diurétique puissant;1
+schémas;1
+expansion mésangiale constituant des nodules;1
+risque de récidive;1
+diurétiques du tube collecteur cortical;1
+type de sténose;1
+élévation du calcium ionisé;1
+3 g/24;1
+tableau associant hypercalcémie , hypophosphatémie , hypercalciurie;1
+fonctions endocrines;1
+théophylline;1
+hydratation suffisante;1
+tubule rénal : inuline , edta;1
+arguments biologiques;1
+intra-veineuse;1
+aspects éthiques et légaux;1
+sujets atteints;1
+ostéomalacie;1
+signes fonctionnels urinaires rares;1
+calicurie;1
+traitement par dialyse;1
+risque d' hypokaliémie;1
+110 mmhg de systolique;1
+bactéries présentes;1
+disparition;1
+néphropathie chronique est-elle d' origine interstitielle;1
+pure et dépôts linéaires d' igg;1
+traitement symptomatique de l' ira;1
+hypertension arterielle;1
+traitement par digitaliques;1
+bilan d' eau positif et une hypo;1
+activités médicales;1
+modification des facteurs de la coagulation;1
+entrée dans le tcd;1
+liés aux facteurs environnementaux;1
+maladies rénales chroniques graves;1
+déplétion;1
+maladie de wegener;1
+cancer pulmonaire;1
+santé au travail n° 157;1
+artère iliaque externe;1
+réduction spontanée des apports;1
+cellules épithéliales pariétales;1
+souffle systolique au niveau de la sténose;1
+points forts à retenir;1
+lyses cellulaires;1
+bilan étiologique d' une lithiase calcique;1
+cause de 8 à 10;1
+vaccins;1
+attribution;1
+absence d' hypothyroïdie;1
+facteurs majeurs de progression de l' irc;1
+20 mg en nébulisation;1
+hypercalcémie liée à la pth ou indépendante;1
+récidive précoce;1
+activation de la nak;1
+système insuline glucose;1
+compte des contraintes médicales;1
+mortalité de l' ira sévère;1
+85 % des sujets;1
+définition biologique associant;1
+signes distinctifs entre ira fonctionnelle;1
+éclampsie : maternité de niveau 3;1
+gastrite atrophique;1
+efficacité antihypertensive de ces médicaments;1
+atteinte hépatique;1
+protéinurie et de l' hta;1
+enfants;1
+systèmes de transport spécifiques;1
+activation du récepteur de l' il2;1
+contre-indication provisoire à l' anesthésie;1
+diurétiques de l' anse auquel;1
+adénome prostatique non compliqué;1
+co-transporteur électroneutre na+cl- luminal;1
+inhibition de la réabsorption du calcium;1
+hypercalcémie sévère;1
+osmolalite urinaire;1
+3 classes;1
+tubes , -l' interstitium et les vaisseaux;1
+néphrostomie;1
+hématuries d' origine rénale;1
+idée de la progression;1
+gammapathies monoclonales isolées et des myélomes;1
+15 - 30 mg;1
+altération de l' endothélium;1
+augmentation de la résorption osseuse;1
+choix entre ces deux alternatives;1
+concentration est appelée osmolarité;1
+agents déplétants;1
+patients diabétiques en prévention primaire;1
+irm et le traitement;1
+arbre diagnostique;1
+absence de variation de la natrémie;1
+adolescence;1
+tea and toast;1
+traitement urologique en urgence;1
+n° 343;1
+n° 119;1
+hypoexcitabilité;1
+insuffisance rénale progressive;1
+branche ascendante;1
+hypogammaglobulinémie;1
+analyse du contexte;1
+infection urinaire chez l' homme;1
+diminution débit cardiaque ou vasodilatation artérielle systémique;1
+transplantations;1
+natriurèse obligatoire entraînant une perte de sel;1
+électrocardiogramme de repos;1
+augmentation des doses;1
+foyer de pyélonéphrite;1
+perte d' un litre d' eau plasmatique;1
+fin de la puberté;1
+cystite simple de la femme;1
+cadmium;1
+pertes de -potassium;1
+existence d' une néphropathie diabétique;1
+pays et depuis de nombreuses années;1
+capacité de dilution de l' urine;1
+lupus associé;1
+mécanisme;1
+stade 3b de la maladie rénale chronique;1
+150 mmhg;1
+sclérose nodulaire;1
+myélomes et des hémopathies;1
+choisie;1
+atteintes glomérulaires;1
+métaux lourds;1
+seconds messagers intracellulaires;1
+bilan d' eau négatif et une hyperosmolalité;1
+réduction néphronique;1
+causes de leucocyturie sans identification de bactérie;1
+protéinurie tubulaire .    ;1
+polygone de willis;1
+protéinurie sans hta;1
+existence d‘une;1
+constatation d' une protéinurie;1
+stratégies d' immunosuppression;1
+population;1
+augmentation des iga sériques;1
+10 mmol / l/24;1
+aide de bandelettes réactives;1
+hta : hypertension artérielle;1
+échec , indication à une revascularisation chirurgicale;1
+traitement en extrême urgence;1
+transfusions de culots globulaires;1
+tableau 1 : systèmes de régulation;1
+kinase;1
+4 semaines;1
+oap est une contre-indication à ce traitement;1
+calcémie ionisée;1
+fonction des premiers éléments d' orientation;1
+antécédent;1
+conazole , voriconazole;1
+oedèmes localisés favorisés par une cause locale;1
+résultats du traitement préventif;1
+âge > 50 ans;1
+pu;1
+journée;1
+débit plasmatique glomérulaire;1
+hta , insuffisance rénale;1
+passive;1
+anti-hypertenseur et anti-protéinurique;1
+baisse de la masse musculaire;1
+principes thérapeutiques;1
+organes cibles;1
+insuffisance rénale organique associée;1
+n° 245;1
+fraction du ventricule gauche;1
+protéinurie , hématurie;1
+souvent droite que gauche;1
+lactate de sodium molaire;1
+péricardite urémique;1
+ue 6;1
+tableaux 3 et 4;1
+fonction de la localisation;1
+pathologies cutanées;1
+échocardiographie;1
+rejets aigus;1
+maladie de berger;1
+diagnostic de l' irc;1
+normocalcémie;1
+question 3;1
+lésions vasculaires et des lésions de glomérulosclérose;1
+tumeur rénale solide;1
+potentialise effets des diurétiques de l' anse;1
+troubles cardiaques;1
+principaux médicaments;1
+fausse;1
+insuffisance rénale avancée;1
+homme > 45 ans , athéromateux;1
+défaut de concentration des urines avec polyurie;1
+scanner;1
+lithiase urinaire radio-opaque;1
+granulomes interstitiels;1
+hypercalcémie vraie d' une pseudo hypercalcémie;1
+figure 4 décrit la démarche diagnostique générale;1
+encéphalopathie urémique;1
+sécrétion du potassium;1
+mois à partir du 4e mois;1
+os affamé »;1
+occlusion aiguë d' une artère rénale;1
+recommandations d' autres pays gardent;1
+troubles neuropsychiques;1
+besoin selon l' évolution;1
+hypertension artérielle et des troubles cardio;1
+transplantés;1
+terme générique d' infection urinaire masculine;1
+agrégation des cristaux;1
+conséquence de l' hta;1
+néphropathies glomérulaires et vasculaires aiguës;1
+faiblesse musculaire;1
+risque de chutes;1
+tableau 2 : description des ira parenchymateuses;1
+aspects épidémiologiques;1
+moyens urologiques de traitement curatif des calculs;1
+troubles de la vision;1
+hydratation massive;1
+milieu urinaire apical et le milieu intracellulaire;1
+perte de poids et de masse musculaire;1
+échéance de l' irc terminale;1
+préservation du capital veineux;1
+néphrectomie préalable;1
+évocateur;1
+analyse syndromique;1
+0 , 5 ou 1 gramme;1
+pulmonaires : fibrose interstitielle diffuse;1
+cutanées;1
+tailles pédiatriques;1
+augmentation initiale modérée de la créatininémie;1
+traitement de l' acidose métabolique;1
+urgences hypertensives vraies;1
+« progression naturelle »;1
+inhibition de la réabsorption rénale du sodium;1
+groupe sanguin;1
+acidose métabolique hyperchlorémique;1
+période post-opératoire;1
+seul comprimé;1
+hypercalcémies humorales par sécrétion de pthrp;1
+fonction rénale normale;1
+gammathie monoclonale;1
+tumeurs urothéliales;1
+minéralocorticoïdes;1
+interprétation de la protéinurie;1
+hémorragie intra-kystique;1
+prise d' iec + /- ara2;1
+hta résistante au traitement;1
+mécano-récepteurs vasculaires;1
+septicémie plus fréquente;1
+hernie inguinale;1
+rémission;1
+déterminants de la filtration glomérulaire;1
+signe de chvostek;1
+apparition de l' ascite;1
+dilution insuffisante des urines;1
+implication;1
+efficaces;1
+fil conducteur;1
+ph des urines;1
+risque le plus élevé;1
+risque + + si insuffisance rénale;1
+poids sec;1
+protéine mutée;1
+gène responsable soit pkd1 ou pkd2;1
+diagnostics positif et différentiel;1
+examens utiles;1
+complications et pronostic;1
+crp élevée;1
+ue 10;1
+élément;1
+ordre de 105 ufc / ml;1
+hydratation adéquate;1
+tissu rénal normal;1
+lésions histologiques;1
+doses unitaires;1
+association d' un terrain athéromateux;1
+consultations;1
+définition histologique;1
+colonisation urinaire chez la femme;1
+cystite et pyélonéphrite sont deux maladies urinaires;1
+néphropathie autosomique dominante;1
+prévalence de l' hta augmente;1
+1 unité;1
+lésions caractéristiques de glomérulosclérose diabétique;1
+chimiothérapies anti-cancéreuses;1
+diagnostic repose;1
+nombre et la taille;1
+patients en france;1
+antibiothérapie selon les données de l' antibiogramme;1
+volume extracellulaire;1
+hypercalcémie sévère symptomatique est une urgence thérapeutique;1
+dilatation unilatérale des cavités .   ;1
+oedème aigu du poumon;1
+symptômes cardiaques;1
+hépatite;1
+segment du néphron;1
+principales causes de néphropathies interstitielles chroniques;1
+phénomènes;1
+classes d' anti;1
+résistances rénales;1
+° 266;1
+toxicité neurologique et osseuse;1
+surmortalité étant essentiellement d' origine;1
+épidémiologie des infections urinaires;1
+homéostasie interne du potassium;1
+évaluation du risque cardiovasculaire;1
+exercice musculaire intense et prolongé;1
+stade 2;1
+sfar est la cause de l' hta;1
+bloqueurs du système rénine angiotensine;1
+patients sans microalbuminurie;1
+sécrétion tubulaire;1
+barrière de filtration glomérulaire;1
+dépôts glomérulaires en immunofluorescence;1
+arthralgies;1
+chronique;1
+modifications de sa concen- tration sérique;1
+échographie ou autre examen d' imagerie rénale;1
+diagnostic de pseudo-hypocalcémie écarté;1
+stades initiaux;1
+schématiquement;1
+sécrétion cortico;1
+esh / esc 2013;1
+grande partie du na filtré est réabsorbée;1
+pdf2;1
+écart diététique;1
+30 minutes;1
+définition du syndrome néphrotique;1
+traitement antibiotique puis une fois par mois;1
+hypercalciuries sans hypercalcémie mais de cause connue;1
+∏cg- ∏u;1
+âge > 60 ans;1
+gem primitives;1
+thiazide;1
+insuffisances rénales;1
+obésité définie par un imc;1
+hyperparathyroidie secondaire;1
+antécédents , examen clinique;1
+aspect tomodensitométrique typique;1
+cirrhose ascitique;1
+toxicité hématologique;1
+structures spécialisées hospitalières;1
+osmolarité plasmatique;1
+anémie secondaire;1
+services distincts;1
+structure;1
+traitement probabiliste;1
+2 , 2 ans;1
+bases puriques et pyrimidiques pour proliférer;1
+conditions;1
+syndrome de glomérulonéphrite rapidement progressive;1
+lithiases cystinique et de struvite;1
+seuls les diurétiques thiazides;1
+antirétroviraux : ritonavir , indinavir;1
+structures du rein;1
+grande réserve potassique;1
+arguments cliniques;1
+pkrad est par conséquent une néphropathie tubulo;1
+antihypertenseur;1
+fistules digestives;1
+polydipsie;1
+données épidémiologiques;1
+signes hémodynamiques;1
+calculs radio-transparents;1
+pourpres , livedo , gangrène distale;1
+absence de nitrites;1
+premières heures qui suivent l' occlusion;1
+glomérulonéphrite;1
+candidurie;1
+dépôts d' amylose;1
+surrénalectomie unilatérale;1
+jusqu' à l' obtention de l' antibiogramme;1
+2 possibilités thérapeutiques;1
+2 x plus fréquente chez l' homme;1
+cancer digestif ou pelvien;1
+degré du contrôle glycémique;1
+injection d' iode;1
+lésions glomérulaires élémentaires;1
+protéinurie et une dysfonction chronique du greffon;1
+ensemble des facteurs de risques cardio;1
+caractère chronique de la maladie rénale;1
+mois avec un plan de soin;1
+cmv et le receveur séronégatif;1
+purpura cutané;1
+athéromateux;1
+3 critères;1
+femme entre 25 et 40;1
+circonstances d' apparition;1
+traitement par les thiazidiques;1
+ira fonctionnelles par déshydratation extracellulaire et hypovolémie;1
+nutrition artificielle exclusive;1
+cours de la sarcoïdose;1
+cellule utilise;1
+rapamycine;1
+conséquences sociales et psychologiques de l' irc;1
+im;1
+endocapillaire ± mésangiale ± extracapillaire;1
+protéines altère leurs fonctions;1
+élimination d' une autre néphropathie;1
+institution du traitement;1
+artères rénales , ou lésions vasculaires graves;1
+brûlure étendue;1
+-co;1
+immunologie;1
+myocarde 3;1
+objectif de pression artérielle systolique;1
+signes électrocardiographiques;1
+grâce à la formule suivante;1
+hématurie parfois macroscopique;1
+taux de cholestérol et de triglycérides;1
+néphropathie glomérulaire aiguë;1
+médecin lors de la consultation;1
+histiocytose;1
+apparition de lésions de hsf;1
+instant exclusivement en transplantation rénale;1
+stades avancés;1
+éléments fortement discriminants;1
+agent infectieux le plus souvent responsable;1
+500 mosmol;1
+doute diagnostique;1
+perte du greffon;1
+traitement chirurgical;1
+pathologie tumorale;1
+autosurveillance de son ph;1
+correction rapide;1
+adénome à prolactine;1
+taux d' opposition au prélèvement en france;1
+autorisations temporaires d' utilisation;1
+mesure du rapport albumine/ créatinine;1
+visualise tous les calculs , même radio-transparents;1
+question 8;1
+intolérance aux iec;1
+oedèmes des membres inférieurs localisés ou généralisés;1
+épuration de la myoglobine;1
+troubles fonctionnels;1
+parathyroïdectomie subtotale , calcimimétique;1
+endothélines;1
+prise d' iec ou d' ara2;1
+protéoglycanes , l' agrine;1
+filtration;1
+terrain athéromateux;1
+progression de la protéinurie;1
+éthylène glycol;1
+absence de lyse cellulaire;1
+néphropathie chronique est-elle d' origine glomérulaire;1
+mandilique urinaires;1
+cirrhose avec insuffisance hépatocellulaire de grade child;1
+exemple : protéinurie / créatininurie;1
+vaso-constriction rénale;1
+dérivation des urines est alors une urgence;1
+20 % de la charge filtrée;1
+acidoses métaboliques;1
+hypokaliémie sévère ou compliquée de troubles cardiaques;1
+tableaux cliniques et conduite à tenir;1
+traitement antiostéoclastique par biphosphonates;1
+connaissances médicales;1
+prévention de l' ira;1
+60 mmhg ou sao2;1
+lésions observées;1
+populations migrantes;1
+consensus sfe / sfhta 2016;1
+métabolisme de l' oxalate;1
+objectif d' inr entre 2 et 3;1
+co-transporteur nacl situé sur la membrane apicale;1
+colorations pas , trichrome et argentique;1
+retentissement hémodynamique;1
+fausses hyperkaliémies;1
+excrétion rénale;1
+agents pathogènes;1
+115 µmol;1
+atteinte du parenchyme rénal;1
+recherche d' une fausse hyperkaliémie;1
+agents infectieux potentiellement impliqués;1
+artère rénale;1
+gammapathies monoclonales;1
+anomalies;1
+complications chroniques et leur traitement;1
+évaluation de la fonction rénale;1
+niveau du segment de dilution;1
+syndrome néphrotique sévère;1
+diurétiques dits «;1
+obtention d' un contrôle optimal;1
+contrôle de l' hta;1
+insuffisance rénale chronique terminale à 5 ans;1
+absence d' adh;1
+arrêt de la consommation;1
+prise en charge optimale du sujet diabétique;1
+risque d' évolution;1
+éosinophilurie;1
+traitement du syndrome oedémateux;1
+thrombopénie périphérique;1
+carence chronique en vitamine;1
+abandon définitif de cette formule;1
+tiers des cystites aiguës simples;1
+hématuries parenchymateuses;1
+pratique clinique courante;1
+injection de bicarbonates;1
+fonction myocardique;1
+séquelle;1
+cibles thérapeutiques;1
+exceptionnellement un épanchement péricardique;1
+créatinine urinaire;1
+3 fois par semaine;1
+tableau 1 : causes des diabètes insipides;1
+pneumopathie , colite , pancréatite aiguë;1
+insuffisance rénale du sujet âgé;1
+fraction excrétée de sodium;1
+3 examens suivants;1
+-1/3 seulement des patients;1
+observance du traitement;1
+thiazidiques;1
+apports hydrosodés;1
+4 , 5;1
+caractère iso;1
+face couché;1
+55 mg;1
+dosage de 1 - 25;1
+dose journalière;1
+dosage de la pth;1
+antiviraux;1
+asymétrie de distribution;1
+année;1
+rôle essentiel;1
+transfusion sanguine;1
+seuil à 105 ufc / ml;1
+versant externe de la mbg;1
+cours des tubulopathies;1
+2 litres de boissons;1
+fausse hyperkaliémie;1
+pr3;1
+principales modalités de prévention;1
+introduction du matériel de chirurgie endoscopique;1
+principales protéines;1
+décès;1
+cours de l' hyperparathyroïdie primaire;1
+phospho - ammoniaco;1
+prise par jour et leur effet anti-hypertenseur;1
+alcaline , créatinine;1
+ischémie myocardique;1
+culture;1
+intervalle commence;1
+protéinurie généralement modérée;1
+évoquez;1
+125/75 mmhg;1
+retentissement tubulaire;1
+modalités de la surveillanceet;1
+phosphore;1
+1 % ≤;1
+sites distaux de rétention du sodium;1
+syndrome de werner , autosomique dominant;1
+progression de l' insuffisance rénale chronique;1
+gain de 73 % en 10 ans;1
+compensation du déficit hydrique;1
+garrot serré;1
+situations pouvant justifier une dérivation des urines;1
+signification;1
+phototype du patient;1
+donneurs décédés non-inscrits;1
+30 mm;1
+spermicides éventuels;1
+altération de l' état mental;1
+options thérapeutiques;1
+mode autosomique dominant;1
+al;1
+libération de potassium intracellulaire;1
+syndrome d' hématurie récidivante évoque;1
+apparition précoce;1
+péricardite chronique , myocardite;1
+principal diagnostic différentiel de l' hyperparathyroïdie primaire;1
+troubles du sommeil;1
+augmentation de la sécrétion d' adh;1
+diarrhée exsudative;1
+hta essentielle en première intention;1
+signes extrarénaux associés;1
+figure;1
+grands types de lésions osseuses;1
+hyperuricémie : souvent asymptomatique;1
+3 ans;1
+risque de diabète;1
+potassium est le principal ion extracellulaire;1
+stade 1;1
+choc hémorragique;1
+rétention d' urine purulente;1
+présence de cylindres ou d' hématies déformées;1
+hypertension artérielle du sujet âgé;1
+diabétiques anciens multicompliqués;1
+acidose métabolique à la phase aiguë;1
+antibiotiques : macrolides;1
+lésions anatomiques;1
+précipitation intratubulaire;1
+bilan de l' eau et du sodium;1
+phu : 5 - 7;1
+n° 221;1
+complications du diabète;1
+perfusion d' albumine 20;1
+endothéline;1
+déficit en na > eau;1
+objectif de ce traitement;1
+dernière source de donneurs;1
+natriurétique de ces substances;1
+21 jours;1
+cystinose;1
+glycosurie;1
+élévation du calcitriol;1
+siadh;1
+démence avérée après avis spécialisé;1
+grande partie;1
+distance;1
+toxicité de l' iode;1
+formes graves;1
+diagnostic d' insuffisance rénale aiguë;1
+classification des diurétiques;1
+inhibiteurs de la prolifération lymphocytaire;1
+lorsqu' une hyponatrémie chronique;1
+traceurs;1
+antigènes hla;1
+seuil à 103 ufc / ml;1
+résultats de survie;1
+facteur déclenchant;1
+enfant et l' adulte;1
+formes rares monogéniques d' hta;1
+anti-cytoplasme des polynucléaires;1
+origine;1
+destruction progressive du rein;1
+5 % dans la population générale;1
+cause de l' hta;1
+cancer du rein- nécrose papillaire secondaire;1
+loi de starling;1
+échographie vésicale recherche un résidu vésical post-mictionnel;1
+facteurs du pronostic rénal;1
+hypocalcémie d' origine parathyroïdienne;1
+bétabloquants;1
+risque plus élevé d' évolution;1
+orchite;1
+ajustement;1
+cours d' une hyperkaliémie sévère;1
+dose;1
+répétition des crises;1
+trouble de concentration des urines;1
+fibrose rétropéritonéale avec ergotamine;1
+maladie inflammatoire chronique;1
+résistants aux traitements per os;1
+diurèse osmotique .   ;1
+diminution primitive de la pth;1
+témoignage de ses proches »;1
+échographie hépatique et des voies biliaires;1
+30 ml/-min/1;1
+rapport bénéfice risque;1
+techniques d' étude;1
+principes actifs;1
+maladie urologique :   tumeur vésicale;1
+intensification du traitement anti-hypertenseur;1
+glomérule et un tubule qui le suit;1
+surveillance en unité de soins intensifs;1
+orientation diagnostique en présence d' oedèmes généralisés;1
+diagnostic de polyurie osmotique;1
+entrée de calcium dans la circulation;1
+donneur et receveur;1
+traitement temporaire par glucocorticoïdes et hydratation;1
+correction systématique d' une hypomagnésémie associée;1
+éléments de physiologie rénale15;1
+diminution du pool sodé;1
+posologies per os;1
+prostatite aiguë- tumeurs bénignes;1
+encéphalopathie hypertensive;1
+échographie rénale et vésicale .   ;1
+hyperexcitabilité cardiaque;1
+troncs;1
+analyse des lésions élémentaires;1
+motivation;1
+rapport protéinurie sur créatininurie;1
+dépôts sont biréfringents en lumière polarisée;1
+élévation de la kaliémie;1
+avc , ait , syndrome confusionnel;1
+objectifs :   diagnostiquer une lithiase urinaire;1
+appareil au poignet;1
+mm;1
+cause de syndrome néphrotique chez l' enfant;1
+fraction d' excrétion du sodium < 1;1
+cavités pyélocalicielles fines à l' écho;1
+origine urologique probable;1
+non-réponse aux stéroïdes à dose maximale;1
+hyponatrémie asymptomatique;1
+infiltration rétro-péritonéale tumorale ou fibreuse;1
+alcalose métabolique de « contraction »;1
+patient immunodéprimé;1
+hémoglobinémie;1
+100 mosm / kg d' h2o;1
+intestins;1
+tzd : thiazides;1
+éléments simples;1
+majeur informé et consentant;1
+rapport avec une mutation inhibitrice;1
+gènes de certains transporteurs et canaux potassiques;1
+signes neurologiques de gravité;1
+orientations diagnostiques;1
+aval;1
+complexe majeur d' histocompatibilité;1
+hyperpression dans le territoire splanchnique;1
+restriction hydrique seule;1
+réelle difficulté d' accès à la greffe;1
+hyperésorptif osseux et un effet rénal;1
+mésangiaux;1
+moyenne de 40;1
+activation complète;1
+conditions de mesure;1
+néphropathie tubulo;1
+redistribution;1
+protéinurie ≥;1
+avc hémorragique;1
+pertes hydrosodées;1
+demeure;1
+volume du secteur plasmatique;1
+soluté bicarbonate de sodium;1
+estimation du dfg chez le sujet âgé;1
+vérification de tous ces éléments;1
+absence de protéinurie;1
+intention chez le patient diabétique;1
+déplétion potassique majeure;1
+spl = spironolactone;1
+signes généraux : asthénie , amaigrissement;1
+transport;1
+risque de cancer;1
+traumatismes physiques des muscles;1
+volume de la diurèse;1
+dépistage d' un anévrysme cérébral;1
+diagnostic de la néphropathie diabétique;1
+réchauffeur;1
+dysfonctions tubulaires rénales;1
+rejet d' un organe allogénique;1
+préparation;1
+hypercalcémie par augmentation de l' absorption intestinale;1
+diagnostic de néphropathie diabétique;1
+protéines urinaires;1
+techniques d' épuration extrarénale;1
+leucémie aiguë;1
+décompensations oedémato - ascitiques des cirrhoses;1
+200 mg;1
+physiopathologie et principaux types d' ira;1
+drainage en cas de calcul urétéral obstructif;1
+veines rénales : notamment;1
+prévalence de l' irt;1
+absence de traitement préventif;1
+céfoxitine;1
+causes d' hyperhydratation extracellulaire;1
+conséquences digestives :   nausées voire vomissements;1
+hypo- natrémie;1
+acides aminés et d' autres acides organiques;1
+kystes hépatiques;1
+causes de faux négatifs;1
+circonstances :   bilan d' hta;1
+candida albicans , candida tropicalis;1
+niveau des lombes;1
+cellules activées;1
+indication actuellement rare du furosémide;1
+ira secondaires;1
+hyperkaliémie par excès d' apport;1
+calcifications;1
+hémorragie alvéolaire;1
+nécessité de l' autorisation;1
+définition de l' hta maligne;1
+protidémie;1
+surveillance de la température;1
+prévention primaire et secondaire de la néphropathie;1
+alcalinisation des urines;1
+diamètre des tumeurs solides;1
+bicarbonate;1
+dialysance;1
+durée de l' épreuve;1
+hypothèses diagnostiques et justiﬁer;1
+sexe , le poids et la créatininémie;1
+artère rénale gauche;1
+paramètres physiques;1
+cystites aiguës simples récidivantes;1
+niveau hépatique et intestinal;1
+réabsorption de sel et d' eau;1
+stade 3;1
+pression artérielle diastolique   figure 1;1
+iga , c3;1
+élévation importante de la créatininémie fera;1
+100 à 200 mmol / jour;1
+bithérapie;1
+principe du bon usage;1
+déshydratation d' origine rénale;1
+nécrosantes;1
+mois ou années;1
+traitement des hypocalcémies;1
+administration en lavement;1
+plan anatomique;1
+manière suivante;1
+myoglobine;1
+mosm / l de plasma;1
+items 220 , 245;1
+nécrose de la paroi;1
+résistances à d' autres classes d' antibiotique;1
+alcalose métabolique de reventilation;1
+mmol/24;1
+élévation de la pa;1
+goutte;1
+territoire brachio;1
+hémorragies ou hémolyses;1
+tableau 1 : complications des diurétiques;1
+hta contrôlée;1
+protéinurie sélective;1
+angiographie cérébrale;1
+ca cor;1
+baisse de la pression veineuse centrale;1
+physiopathologie de la lithiase calcique;1
+traitement spécifique de l' amylose aa;1
+dépistage d' une colonisation urinaire;1
+variété;1
+déshydratation extracellulaire associée à l' hyperhydratation intra-cellulaire;1
+immunisation majeure;1
+natriurèse > 100 mmol;1
+blocage du système rénine;1
+fièvre prolongée isolée , vagues;1
+phosphorémie ou nle;1
+réabsorption du na+ dans le tcc;1
+ratio absorption / sécrétion;1
+diabète insipide néphrogénique;1
+immobilisation prolongée complète;1
+pathologie valvulaire et shunt;1
+signe de trousseau;1
+hypocalcémie vraie;1
+hyperalbuminémie;1
+paliers de 2 à 4 semaines;1
+associations médicamenteuses;1
+surveillance créatininémie et kaliémie;1
+vasoconstriction de l' artériole efférente;1
+évolution favorable , sauf exception;1
+rein unique;1
+critères morphologiques : diminution de la taille;1
+geste endo - urétral;1
+insuffisant rénal chronique non dialysé;1
+sélection de souches résistantes;1
+thiazidiques figurent;1
+équilibre avec ce dernier;1
+céphalées + sueurs + palpitations;1
+traitement par iec , ara2 ou idr;1
+guérison;1
+protéinurie > 0 , 5;1
+réduction de la posologie unitaire;1
+contraceptifs oraux;1
+sténose d' artère rénale;1
+loi caillavet;1
+atteinte vasculaire parenchymateuse;1
+principes généraux du traitement;1
+rythme évolutif de l' irc;1
+affections pulmonaires;1
+urètre;1
+réalisation d' un arbre généalogique;1
+interstitielles;1
+nausées , vomissements;1
+complications coronariennes sévères;1
+électrocardiogramme;1
+échanges diffusifs;1
+iu sur sonde;1
+22 mmol;1
+situations nécessitant une hospitalisation;1
+diagnostic de certitude;1
+hypothyroïdie , insuffisance cortico;1
+principaux facteurs aggravants;1
+bêta-bloquant;1
+structure du glomérule;1
+sérum;1
+infection de l' appareil urinaire;1
+sujets âgés > 70 ans;1
+hypocalcémies liées à une hypovitaminose;1
+efficacité tensionnelle indépendante de la bradycardie;1
+025 + ca total;1
+gros reins ou de taille normale;1
+perte de cl-;1
+doses : initialement à 3;1
+1re intention de la lithiase calcique;1
+maladies systémiques;1
+hypercalciurie idiopathique;1
+temps d' ischémie totale;1
+correction d' un déficit enzymatique;1
+diagnostic d' hyperaldostéronisme primaire;1
+gn;1
+fièvre , arthralgies , myalgies;1
+causes rénales d' hta;1
+extra-rénales;1
+24 heures est une méthode de référence;1
+antibiotiques;1
+faibles variations de la créatininémie;1
+port de sous-vêtements en coton;1
+dosage de calcémie ionisée;1
+règles;1
+pertes extra-rénales;1
+orbite de l' oeil;1
+lésions cutanées cyanotiques de stase;1
+augmentation de taille;1
+lésions tissulaires;1
+30 mmhg;1
+diagnostic de granulomatose;1
+manifestations non kystiques;1
+écho - doppler rénal;1
+mesures de néphroprotection;1
+administration des résines échangeuses d' ions;1
+situation nécessite;1
+femme en période d' activité génitale;1
+apparition d' une oligurie;1
+disparition des signes d' hyperaldostéronisme secondaire;1
+tube proximal diffuse;1
+16 mmhg;1
+calcium - bloqueur;1
+mois de traitement;1
+5 stades de mrc;1
+infiltration;1
+hypovolémie réelle ou «;1
+hypokaliémie en rapport;1
+malade transplanté rénal;1
+reflux vésico - urétéral;1
+180 mmhg;1
+na+ k+;1
+complications de la transplantation d' organes;1
+augmentation de la pression veineuse rénale;1
+transplantations d' organes solides;1
+bonne réponse au traitement par corticoïdes;1
+déficit en substances;1
+diagnostic histologique;1
+vitesse de correction;1
+hémorragie intra-alvéolaire;1
+atpase présente au pôle basolatéral des cellules;1
+morbidité cardio - vasculaire moindre;1
+co-stimulation;1
+prédisposition héréditaire;1
+igg linéaires;1
+système sympathique;1
+système immunitaire;1
+séances d' hémodialyse;1
+causes dysimmunitaires;1
+administration d' adh;1
+patients à haut risque immunologique;1
+seuil de détection des laboratoires de microbiologie;1
+atteinte rénale d' origine médicamenteuse;1
+expérience du radiologue;1
+site des anastomoses vasculaires avec le greffon;1
+héparine , héparine de bas poids moléculaire;1
+hypoperfusion rénale;1
+conduite diagnostique et thérapeutique rigoureuse et urgente;1
+marqueurs d' atteinte rénale;1
+aldostéronisme secondaire;1
+manifestations de l' hypocalcémie;1
+mise en route;1
+3 associés;1
+conséquences métaboliques , endocriniennes et nutritionnelles;1
+baisse de l' albumine sérique;1
+aldostérone dans 90;1
+créatininémie varie en fonction de la cause;1
+hypokaliémiant;1
+syndrome bioclinique de nic;1
+association d' anti;1
+qualité du recueil urinaire;1
+terrain à risque;1
+hématurie microscopique > 10 gr / mm3;1
+leucocytes et nitrites;1
+relation directe entre dose et toxicité;1
+15 % de la population;1
+répétition;1
+recours à des perfusions d' albumine;1
+néphropathie avérée;1
+expansion volémique;1
+volume de boissons insuffisant;1
+bonne tolérance;1
+contamination de l' ecbu;1
+second antigène - cible;1
+eau osmosée;1
+pa;1
+pronostic rénal de la pkrad;1
+polyangéïte microscopique;1
+hypothyroïdie;1
+reins symétriques , contours réguliers;1
+identification bactérienne;1
+kaliémie < 3 , 5 mmol;1
+multiples kystes;1
+pertes de potassium;1
+inconstants;1
+gradient électrochimique;1
+convection;1
+insuffisances rénales aiguës parenchymateuses;1
+traitements pharmacologiques du risque cardiovasculaire global;1
+rétrodiffusion;1
+fération;1
+utilisation des bloqueurs du système rénine;1
+osmolarité du fluide tubulaire;1
+électrocardiogramme à la recherche de modifications électriques;1
+tazobactam;1
+biomedecine;1
+kaliémie comprise entre 5 et 6 mmol;1
+patient atteint de mrc;1
+chainettes;1
+risque de surdosage et d' effet toxique;1
+ultrafiltrat;1
+durée de dialyse;1
+75 ans;1
+traitement par aspirine;1
+hypotension artérielle orthostatique , puis de décubitus;1
+destruction tissulaire aiguë et massive;1
+térone;1
+précocité de la prise en charge;1
+réhydratation;1
+siège : une prise de poids;1
+pression artérielle systolique;1
+endogènes;1
+glypressine;1
+système;1
+traitement de la surcharge hydro - sodée;1
+prédictive positive en cas de leucocyturie isolée;1
+réabsorption d' h20;1
+qu' en hémodialyse conventionnelle;1
+caractéristiques bactériologiques;1
+polyangéite;1
+urgence absolue;1
+intoxication vitamine;1
+« hyponatrémies;1
+perfusion de kcl dans du g5;1
+natriurétique le plus puissant;1
+présentations possibles;1
+maintien de la kaliémie;1
+système rénine angiotensine aldostérone;1
+3 mg / mmol;1
+indications de la dialyse;1
+correction des facteurs de risque cardiovasculaires;1
+eblse;1
+fond d' oeil qui visualise les emboles;1
+théoriquement;1
+prise en charge thérapeutique spécifique;1
+calcémie totale corrigée;1
+veines superficielles;1
+néphropathies + hématurie;1
+artériographie rénale;1
+sens;1
+polynévrites urémiques;1
+réabsorption proximale accrue de sodium;1
+sida;1
+hématurie ou un tableau d' hématome rétro-péritonéal;1
+10 g / dl de façon stable;1
+cours des reflux vésico - urétéraux notamment;1
+équipes;1
+reins ou des voies excrétrices;1
+grande majorité des protéines;1
+entérobactéries productrices de « shiga;1
+valeurs normales de sommeil chez l' adulte;1
+type d' insuffisance rénale;1
+90 % des malades voit leur maladie;1
+lésions tubulaires;1
+dec est pure;1
+traitement diurétique;1
+causes génétiques;1
+mécano-récepteur;1
+anti-hypertenseurs centraux;1
+pathologie invalidante au stade terminal;1
+dernière partie;1
+baisse physiologique du dfg;1
+nombre d' organes transplantés;1
+grande majorité;1
+fréquences;1
+activation du système rénine;1
+seule imagerie autorisée : échographie;1
+élévation significative;1
+contours bosselés;1
+cours d' un myélome;1
+thrombopénie;1
+traumatisme crânien;1
+résultats de la transplantation d' organes;1
+recherche de la cause;1
+automesure tensionnelle;1
+diagnostic de glomérulopathie diabétique isolée;1
+thies glomérulaires;1
+insuffisance rénale de découverte récente;1
+cardiaque;1
+hypercalcémie > 2 , 75mmol;1
+prise de décision clinique;1
+changer;1
+sténose de l' artère du greffon;1
+hyperaldostéronisme;1
+typage hla;1
+mode de présentation : ira organique;1
+classes de globulines;1
+veine cave inférieure;1
+mode de transmission;1
+prélèvement au jet;1
+acte chirurgical;1
+risque d' appari- tion d' une microalbuminurie;1
+période néo-natale;1
+grâce aux échanges;1
+contamination;1
+causes des hsf;1
+fibrodysplasie de l' artère rénale;1
+adaptation des posologies;1
+34 µmol;1
+risque de fibrodysplasie des artères rénales;1
+techniques endoscopiques : urétéroscopie et néphrolithotomie percutanée;1
+cibles d' hba1c;1
+secteur plasmatique;1
+lactone;1
+concentration de l' urine;1
+volonté du défunt;1
+hypoprotidémie;1
+production rénale d' ampc intracellulaire;1
+insipide néphrogénique;1
+co-transport;1
+cavités pyélocalicielles dilatées à l' écho;1
+déficits en minéralocorticoïdes;1
+administration de produits de contraste;1
+arrêt cardiaque;1
+douleurs lombaires unilatérales;1
+facteurs de rcv associés;1
+professions à risque;1
+canal sodique;1
+parathyroïdes;1
+absence de dépôts;1
+ue 7;1
+complication rare;1
+prévention du vieillissement pathologique objectifs;1
+doses de diurétiques;1
+indication d' une biopsie rénale;1
+utérus;1
+arrêt des médicaments hyperkaliémiants est indispensable;1
+infections opportunistes;1
+transfusion;1
+souffrances viscérales;1
+q2;1
+angio - irm des artères rénales;1
+co-transport électroneutre na+;1
+90 % des enfants et 80;1
+apport calorique et azoté suffisant;1
+pression artérielle normale;1
+120 mmhg et pa diastolique;1
+liaison;1
+défaillance d' organe;1
+hippel;1
+na+ urinaire;1
+principes de traitement;1
+infection des urines;1
+3 à 6 grammes par jour;1
+urée > 10;1
+toxiques;1
+manifestations de la pkrad;1
+hypomagnésémies;1
+efficacité antihypertensive comparable aux produits princeps;1
+calculs en place;1
+inhibiteurs de la pompe à proton;1
+mécanismes de « résistance »;1
+ira vasculaire 1;1
+hypothèse diagnostique la plus vraisemblable;1
+aide d' un brassard maintenu;1
+fin de l' anse de henle;1
+qu' après l' injection d' adh exogène;1
+exposition insuffisante;1
+capillaire;1
+complications :   aiguës;1
+intérêt de son utilisation;1
+transporteurs spécifiques;1
+déshydrogénase;1
+ordre de gravité;1
+collagène iv;1
+fluide tubulaire et les capillaires;1
+maladies kystiques héréditaires à transmission récessive;1
+eurelix ®;1
+grande majorité des patients;1
+polyurie osmotique :   diabète sucré décompensé;1
+augmentation du potassium extracellulaire;1
+néphropathie vasculaire : contexte athéromateux;1
+estimation par calcul;1
+baisse significative de la pa;1
+association d' un oedème pulmonaire;1
+notamment les sujets âgés;1
+existence de co-morbidité;1
+pratique de l' automesure tensionnelle;1
+prolifération;1
+deshydrogénase;1
+filtration des substances dissoutes;1
+souffrance cellulaire , atrophie;1
+loxen ® ) administrée par voie parentérale;1
+ira parenchymateuses;1
+immunodépression , neutropénie;1
+absorption intestinale;1
+action des immunosuppresseurs;1
+enfant plus grand;1
+cellules mésangiales et artériolaires glomérulaires;1
+sédation en réanimation;1
+ccr;1
+pathologies suivantes;1
+ira glomérulaire;1
+rétention d' urines infectées;1
+macroglossie;1
+bactérie en cause;1
+75 mmol;1
+sérum du receveur;1
+diminution progressive et irréversible du dfg;1
+vie;1
+fluctuation de concentration plasmatique;1
+pression artérielle à 145/87 mmhg;1
+indications du traitement diurétique;1
+échéant;1
+manifestations électrocardiographiques;1
+parent;1
+efficacité de la tolérance;1
+partir de la ménopause;1
+antibiothérapie prolongée;1
+titre préventif du rejet;1
+eblse progresse;1
+140 mmhg et pa diastolique;1
+prévalence varie de 10 à 50;1
+hypercalcémie osseuse;1
+3hco3-;1
+activité de transplantation;1
+protéinurie des 24;1
+tableau 1 : les syndromes glomérulaires;1
+type 2 : dépôts de complexes immuns;1
+intubation;1
+spironolactone;1
+plasma;1
+infection urinaire décapitée par une antibiothérapie;1
+matin;1
+aspirine;1
+diagnostic de néphropathie;1
+critères paracliniques;1
+hypolipémiants et médicaments du diabète;1
+patient à l' équipe de transplantation;1
+compte d' addis;1
+sein d' une même classe;1
+réduction du nombre de néphrons fonctionnels;1
+histologie rénale;1
+tableau 1 : classification des néphropathies;1
+natriurèse effondrée;1
+hypercalcémie humorale maligne;1
+syndrome «;1
+examens de première intention;1
+acide clavulanique , nitrofurantoïne , fosfomycine;1
+lésions de la maladie rénale sous-jacente;1
+perte d' eau extrarénale cutanée ou respiratoire;1
+hypercalcémie est un problème clinique fréquent;1
+origine urologique;1
+bb;1
+hypoosmolalité plasmatique;1
+infections virales vih;1
+obstacle veineux;1
+perfusion de solutés glucosés;1
+reconnaissance de l' antigène du donneur;1
+dysfonction chronique du greffon;1
+nombre , de la taille;1
+hépatite virale;1
+1 mmol / kg;1
+déplétion ou de surcharge hydrosodée aiguë;1
+chaîne cd-25;1
+lésions vasculaires rénales;1
+entrées et sorties journalières;1
+technique de dépistage la plus utilisée;1
+porphyrie;1
+tableau 9 résume le traitement des pna;1
+os;1
+polydipsique en cas de cause rénale;1
+néphropathie causée par les herbes chinoises;1
+ca++ et du mg++;1
+charge filtrée en na+;1
+signes d' ischémie mésentérique;1
+extrémité étant dans le cul-de-sac de douglas;1
+prolifératifs , cancers solides;1
+atrophie rénale;1
+tableau 11;1
+posologies nécessaire;1
+prise de diurétiques;1
+hypoglycémie;1
+étapes de la formation de l' urine;1
+12 ml / min / an;1
+troubles du comportement;1
+maladies rénovasculaires;1
+biphosphonates sur l' atteinte osseuse;1
+ratio albuminurie / créatininurie ≥ 30 mg;1
+gène pkd1 ou pkd2;1
+sein de la fibrose;1
+homme , 20 ml;1
+modification de composition de l' ultrafiltrat glomérulaire;1
+apport en chlorure de potassium po;1
+place de l' antibiothérapie;1
+anomalie qualitative de la sueur;1
+ans;1
+cryoglobuline;1
+emploi de matériels;1
+particulier- tuberculose rénale;1
+durée est de 6 mois;1
+atteinte tubulaire prédominante;1
+mutation génétique dans les familles;1
+signes musculaires;1
+thromboses artérielles;1
+enzyme de conversion de l' angiotensine;1
+calcidiol et le calcitriol;1
+critères cliniques;1
+injection de produit de contraste iodé;1
+certitude diagnostique;1
+mésangium qui est un tissu de soutien;1
+volume rénal;1
+podocalixine;1
+maladie auto-immune;1
+immunosuppression forte;1
+prix;1
+bloqueur du sra;1
+consommation d' éthanol;1
+pyélonéphrites aiguës simples sans gravité;1
+orale dans les situations les moins sévères;1
+autorité de santé;1
+traitement préventif des complications;1
+prévalence dans la population générale;1
+traitement des infections urinaires masculines;1
+cirrhose éthylique ou virale;1
+cancers prostatiques , digestifs , lymphomes;1
+bilan hépatique;1
+négativité = chaînes légères d' ig;1
+individu;1
+50 mmhg;1
+toux;1
+pm > 30 000 daltons;1
+correction des troubles métaboliques;1
+euvolémie clinique;1
+facteur responsable de la rétention sodée;1
+atteinte bactérienne de la prostate;1
+extrême urgence;1
+gradient électrochimique favorisant la sécrétion de k+;1
+origine d' une néphropathie interstitielle chronique métabolique;1
+12 mois;1
+réabsorption distale;1
+échographie cardiaque et de la veine cave;1
+faiblesse physique;1
+diminution de la vitesse de dépolarisation;1
+macula densa;1
+réseau épidémiologie information en néphrologie;1
+hémodialyse en centre;1
+anastomoses du greffon;1
+épisodes infectieux orl;1
+90 % en air ambiant;1
+formes primaires;1
+demeure , sujets diabétiques ou immunodéprimés;1
+limite de la clairance urinaire;1
+cellules du greffon;1
+néphropathie hypokaliémique se traduisant;1
+stérilité;1
+exposition aux métaux lourds , rayonnements ionisants;1
+conditions de recueil de l' urine;1
+fonctions cognitives;1
+comités donneurs vivants avant la greffe;1
+cancer de prostate;1
+tableau 6 : mode d' action;1
+bactériennes et virales;1
+clinique nécessite un traitement immédiat;1
+hydrochlorothiazide;1
+néphrite interstitielle chronique;1
+longue période d' hyperparathyroidie secondaire non traitée;1
+situation de commensalisme extra-intestinal;1
+épidémiologie et génétique;1
+épisode;1
+fièvre , insuffisance rénale aiguë souvent anurique;1
+urine excrétée;1
+hématurie microscopique isolée;1
+précise du dfg;1
+neutropénie;1
+tumeur surrénalienne;1
+calciurie > 10 mmol/24;1
+pa ≥ 180/110 mmhg;1
+synthèse;1
+indésirable;1
+défaut de synthèse;1
+coprescription d' ains;1
+ira peu sévères;1
+tableau 4 : épidémiologie;1
+entérale;1
+expression clinique des hypercalcémies;1
+médicaments ou leurs métabolites;1
+lithiases radio-opaques;1
+recherche d' un reflux vésico;1
+délai entre l' heure;1
+néphrectomie d' un des reins polykystiques;1
+chlorure de magnésium;1
+traitement diurétique et précautions d' emploi;1
+maladie ou syndrome;1
+restriction protéique modérée;1
+emblée une auto-mesure;1
+pa diastolique;1
+chapitre;1
+risque de mortalité cardio;1
+lyzosymurie;1
+correction de l' acidose métabolique;1
+observation;1
+concentration de calcium ionisé;1
+patients suivant un régime sans sel;1
+kdigo 2012;1
+2 situations cliniques;1
+absence d' insuffisance surrénale;1
+formule de schwartz;1
+classe médicamenteuse;1
+tableau 1 : étiologies des hématuries urologiques;1
+atpase localisées au pôle basal;1
+éosinophilie / éosinophilurie;1
+polykystose rénale diagnostiquée chez l' adulte;1
+lieu escherichia coli;1
+risque d' infection à cmv après transplantation;1
+iv ou im;1
+élimination de la charge acide;1
+évocatrice;1
+position allongée;1
+patient sur la liste;1
+pression de filtration glomérulaire;1
+lois importantes;1
+cytoprotecteur;1
+molécules utilisables pour le traitement;1
+anti-rétroviraux;1
+hématurie microscopique entre les épisodes;1
+malins;1
+patient et à sa famille;1
+patient en fonction;1
+rôle;1
+principales causes de gem secondaires;1
+700 x 10;1
+insuffisance rénale chronique ) :   objectifs;1
+faible niveau d' activité physique;1
+inscriptions pour une transplantation d' organes;1
+rétinopathie hypertensive aux stades iii ou iv;1
+insuffisance rénale modérée à sévère;1
+mapa qu' au cabinet médical;1
+signe d' atteinte glomérulaire;1
+litre de plasma;1
+urétéro;1
+augmentation de la fraction libre;1
+néphropathie chronique est-elle d' origine vasculaire;1
+hypovolémie stimule la sécrétion de rénine;1
+indications du cyclophosphamide ou du chloraminophène;1
+diurétiques distaux type amiloride;1
+reste < 700 mosm / kg h2o;1
+m2;1
+angiosclérose maligne;1
+incidence des pna gravidiques;1
+contrôle strict de la pression artérielle;1
+greffons et pour tous les patients;1
+1 % des lithiases;1
+complications évolutives et pronostic des ira organiques;1
+risque de troubles du rythme;1
+carence documentée ,   une restriction;1
+pr3 : protéinase 3;1
+facteurs de variation de la créatininémie;1
+diabétique de type 2;1
+β - bloquants , inhibiteurs calciques;1
+taux élevé;1
+intoxication éthylique;1
+minurie dans les 2 formes de diabète;1
+pseudo-hypocalcémie;1
+insuffisance ventriculaire;1
+diagnostic syndromique;1
+glomérulopathie héréditaire déjà identifiée dans la famille;1
+hypertrophie ventriculaire gauche;1
+détresse cardio;1
+perfusion de mannitol;1
+rétinopathie diabétique;1
+traitement antalgique;1
+causes de déshydratation intracellulaire;1
+cylindres leucocytaires;1
+synergique avec les diurétiques de l' anse;1
+lactates;1
+rp;1
+affections;1
+globulines et du fibrinogène;1
+douleurs thoraciques , dyspnée d' effort;1
+coronarien;1
+convection des gradients de pression en présence;1
+hyperhydratation extracellulaire associée;1
+physiologie;1
+nombre de patients;1
+580 µmol;1
+≥ 2 kystes rénaux dans chaque rein;1
+apports de kcl;1
+donneurs vivants;1
+formules d' estimation;1
+évaluation du degré de gravité;1
+rétraction et une fusion des pieds;1
+πi : pression oncotique interstitielle;1
+âge de 60 ans;1
+mutation activatrice des sous-unités;1
+hémolyse intravasculaire massive;1
+60 mg / m2;1
+phophatémie;1
+hémoglobine;1
+propriétés pro-inflammatoires;1
+théorie du déficit de remplissage;1
+molécules en traitement probabiliste des pna;1
+activité angiotensine ii;1
+vitamine d;1
+bonne sensibilité;1
+hydratation per os;1
+septicémie et foyers septiques extra-rénaux;1
+sexe;1
+10 ml / min/1;1
+suivi du patient;1
+dépistage et le suivi médical des comorbidités;1
+variations importantes de la créatininémie;1
+lithiase urique primitive;1
+vasodilatation hyperglycémie;1
+test dynamique de confirmation;1
+installation de traitement de l' eau;1
+homme une bu négative;1
+crampes musculaires;1
+10 litres;1
+durée du traitement est de 7 jours;1
+drépanocytose et hypoxie rénale chronique;1
+échographie abdominale;1
+antialdostérone;1
+élévation de la pression artérielle;1
+modifications du gradient potassique;1
+diltiazem;1
+phéochromocytome;1
+artère arquée;1
+délai d' action;1
+carcinomes bronchiques;1
+artères ou des veines rénales principales;1
+signes extrarénaux spécifiques;1
+faible nombre;1
+fonction cardiaque;1
+atteinte de l' interstitium;1
+localisation de la sténose;1
+diagnostic de mrc;1
+origine parenchymateuse;1
+régulation dissociée du vec;1
+règle des 20/40/60;1
+risque de saignement;1
+évocateurs;1
+niveau osseux;1
+facteurs d' aggravation;1
+prise en charge diagnostique de l' hypocalcémie;1
+400 mg / mmol;1
+évolution du nombre total;1
+céphamycines;1
+podocalyxine;1
+insuffisance rénale aiguë obstructive;1
+antériorité;1
+lyse tumorale;1
+examen direct négatif;1
+dénutrition et troubles de croissance;1
+dose cumulée d' immunosuppression;1
+concentration maximale en solutés lithogènes;1
+prises médicamenteuses;1
+antibiothérapie de relai;1
+bilan d' hta;1
+mg / g de créatininurie;1
+examen par immunofluorescence;1
+douleurs lombaires;1
+pronostic ni la prise en charge;1
+psa;1
+syndrome de goodpasture .   ;1
+1 , 78;1
+échelon de priorités nationales;1
+osmolalité urinaire > 300 mosm / kg;1
+antécédents cardio;1
+résistance à l' aldostérone;1
+agent;1
+absents;1
+ponction biopsie rénale;1
+cyclosporine;1
+variations;1
+anti-calcineurines;1
+dégradation;1
+liste d' attente en 2017;1
+diarrhée parfois sanglante;1
+traitement étiologique de la maladie rénale chronique;1
+jours l' hyponatrémie;1
+filtration glomérulaire baisse;1
+185/110;1
+complications aiguës;1
+1 - 2 fr;1
+muscles respiratoires;1
+accidents d' hyperkaliémie;1
+trouble de réabsorption tubulaire proximale;1
+signes cliniques d' hypoglycémie;1
+hypercalcémie sévère ou d' installation rapide;1
+veineuse dilué dans du soluté salé;1
+néphrotoxiques mais exposent;1
+traitement de la néphropathie;1
+apport préemptif de calcitriol;1
+3 couches juxtaposées;1
+atrophie musculaire;1
+rythme;1
+µmol;1
+7 j si c3 g ou fq;1
+cellules nécrosées obstruant la lumière tubulaire;1
+résines échangeuses d' ions;1
+2 derniers signes;1
+imagerie des voies urinaires;1
+utilisation des carbapénèmes;1
+πi;1
+diabète souvent associé à un profil hyporéninisme;1
+fin des années 1960;1
+bilan pré-transplantation rénale;1
+néphrite;1
+partir de son précurseur hépatique;1
+stades de la mrc;1
+2- vitamine;1
+pfg = pression de filtration glomérulaire;1
+syndrome hémorragique;1
+inhibiteurs du signal de prolifération;1
+hic;1
+jambes;1
+pression artérielle qui était normalisée antérieurement;1
+évaluation initiale;1
+conseil génétique;1
+azathioprine , acide mycophénolique;1
+heure d' hémodialyse;1
+facteurs de risque cardio - vasculaire;1
+analyse de la cytologie urinaire qualitative;1
+acides réalisé plus en aval;1
+stratégie de dialyse;1
+principes de traitement et surveillance;1
+pression d' ultrafiltration;1
+faible part;1
+long de la mbg .   ;1
+hématurie macroscopique récidivante;1
+intoxication;1
+principe du traitement immunosuppresseur;1
+risque de développer une néphropathie progressive;1
+pressions droites;1
+albuminurie à 300 mg/24;1
+anti-hypertenseurs ou combinaison non synergiques;1
+recommandations actuelles;1
+absence de suivi diététique;1
+minimale;1
+proches pour le prélèvement- q2;1
+efficacité du traitement;1
+résistance à un traitement médical bien conduit;1
+fonction des résultats;1
+intention chez cette patiente;1
+diabète ou en prévention secondaire;1
+causes les plus fréquentes;1
+résistants aux diurétiques per os;1
+conséquences de l' hypertension artérielle;1
+diagnostic repose sur le dosage;1
+général simple;1
+médecins;1
+statut immunodéprimé;1
+osmolalité plasmatique élevée;1
+cours des glomérulonéphrites chroniques;1
+2 mmol / l et par heure;1
+atpase dépendantes sur leur membrane baso;1
+précautions d' hydratation voire d' hyperhydratation;1
+insuffisance rénale aiguë fonctionnelle médicamenteuse;1
+« eau plasmatique »;1
+barbituriques;1
+calcémie = 2 , 72 mmol;1
+échange de 2 ions potassium;1
+évaluation du compartiment intracellulaire;1
+arrêt d' un traitement;1
+10 4 ufc / ml;1
+agence de la biomédecine dont les missions;1
+foie et une diminution;1
+hypernatrémie ou d' un syndrome polyuro;1
+option;1
+appareil validé;1
+augmentation de cette activité;1
+formes hyperalgiques résistant;1
+bactéries;1
+syndrome de la jonction urétéro;1
+association de plusieurs de ces molécules;1
+élévation de la créatinine plasmatique;1
+production musculaire de créatinine;1
+cours de nombreuses pathologies aiguës ou chroniques;1
+zones déclives;1
+absents en cas de faible bactériurie;1
+retard;1
+signes provoqués assez spécifiques de l' hypocalcémie;1
+cinacalcet;1
+régulation du capital sodé de l' organisme;1
+pam = pression artérielle moyenne;1
+atteinte rénale chronique lentement progressive;1
+2 situations;1
+globulines;1
+attention à l' amalgame «;1
+recherche des anticorps anti - pla2r;1
+neuropathie diabétique , rétinopathie diabétique;1
+patient sous coeur artificiel;1
+homme de 45 ans sans antécédents;1
+traitements anti-vegf;1
+découverte du diabète;1
+artériographie ou une manoeuvre endo - vasculaire;1
+hyperhydradation extracellulaire;1
+degré les thiazidiques;1
+transport du glucose;1
+antécédents familiaux , surdité , lenticône;1
+20 mm;1
+méat urétéral vésical;1
+patient hypertendu et coro- narien;1
+tableau clinique similaire;1
+arrêt de tous les médicaments potentiellement néphrotoxiques;1
+traitement diurétique accélère la récupération rénale;1
+89 ml / min/1;1
+patient diabétique ou insuffisant rénal chronique;1
+complications osseuses;1
+compte tenu de leur complexité d' écriture;1
+recherche de sténose de l' artère rénale;1
+pression hydrostatique dans la chambre urinaire;1
+lithiases calciques de petite taille;1
+conditions socio-économiques défavorables;1
+idem stade 1 , 2 et 3a;1
+type 3 sans dépôts;1
+prolongements cytoplasmiques;1
+pharmacocinétique;1
+nva : néphropathie vasculaire aiguë;1
+hypocalciuriants;1
+pkrad;1
+angiotensine entraînant une vasoconstriction des artérioles afférentes;1
+foie : survie patient 62;1
+hypervolémie vraie;1
+nombre de néphropathies;1
+organe de voisinage;1
+calculs de cystine;1
+emblée un bilan pré-transplantation rénale;1
+fluorohydrocortisone;1
+hypovolémie vraie ,   hypotension artérielle;1
+lithiases calciques;1
+reins et des uretères;1
+pm 70 kd;1
+bicarbonate de sodium ou eau de vichy;1
+évaluation des apports potassiques;1
+fixation d' un h+;1
+πc : pression oncotique plasma;1
+urine chez l' enfant;1
+apport alimentaire insuffisant;1
+phases ultérieures de l' atteinte rénale;1
+diminution du volume intracellulaire figure 2;1
+antibiothérapie probabiliste;1
+bradycardie à qrs large;1
+hta grade 1;1
+atteinte myocardique;1
+effets métaboliques;1
+urgences hypertensives , hta maligne;1
+sérum d' anticorps anticytoplasme;1
+principe : induire un bilan sodé négatif;1
+pathologie surajoutée;1
+seuils de bactériurie significative;1
+déficit en vitamine d native ou active;1
+700 mg / mmol;1
+4 épisodes ou plus surviennent;1
+augmentation de la pth;1
+réponse obtenue , appréciée sur le poids;1
+hypertension   rénine aldo élevée basse hyperaldo;1
+shu atypique;1
+effets vasoconstricteurs puissants;1
+c2;1
+blocage;1
+volume de distribution secondaires;1
+atteinte cardiaque;1
+hyalinose artériolaire;1
+intérêt de la prise en charge précoce;1
+conclusion;1
+urines responsable de polyurie;1
+forme familiale marquée;1
+30 % d' une sécrétion tubulaire;1
+135 µmol;1
+signe;1
+diminution de la capacité d' excrétion rénale;1
+créatininémie et ionogramme sanguin;1
+6 105 transplantations d' organes en 2017;1
+libération de potassium;1
+lésion endothé- liale;1
+examen d' urine à la bandelette;1
+conclusions;1
+correction du désordre;1
+urate d' ammonium;1
+complément des iec;1
+système rénal / surrénales;1
+antécédents de maladie vésico;1
+risque d' événements cardio;1
+démarche;1
+fausses hyponatrémies;1
+acidocétose diabétique avec ira fonctionnelle;1
+informations au patient et à sa famille;1
+concentrations élevées du médicament;1
+algodystrophie;1
+compartiments liquidiens de l' organisme;1
+globulines anti-lymphocyte ou anti-thymocyte;1
+tumeur de vessie;1
+transplantation rénale proposée même après 75 ans;1
+anomalies ecg;1
+atteinte hépatique d' origine métabolique;1
+hta rénovasculaire;1
+15 à 30 % des patients;1
+patients hyperuricémiques;1
+patients sédatés;1
+insuffisance rénale organique;1
+hta est souvent au premier plan;1
+prise d' anti;1
+« le prélèvement d' organes;1
+dosages;1
+recours à un antagoniste spécifique;1
+mécanismes des oedèmes du syndrome néphrotique;1
+40 mmol;1
+résorption osseuse;1
+antécédents urologiques;1
+diagnostic d' infection intra;1
+éradication pérenne de l' infection;1
+bactériennes chroniques;1
+arrêt d' un traitement diurétique;1
+uricémie et l' uricurie;1
+contexte chronique;1
+dysfonction chronique du greffon rénal;1
+signe spécifique;1
+situations d' acidose associée;1
+diagnostic de syndrome néphrotique;1
+kaliurèse supérieure;1
+n° 256;1
+conduite à tenir devant une protéinurie asymptomatique;1
+hypertenseurs avec un 2e médicament;1
+cristallurie;1
+16 % des transplantations rénales;1
+hypoaldostéronisme associé;1
+urines fraîches;1
+cours des nta toxiques;1
+bu avant d' envisager un ecbu;1
+advanced glycation;1
+adulte jeune;1
+épreuve;1
+hypercalcémie familiale bénigne;1
+hypoglycémiants;1
+femme de 26 ans;1
+albuminurie normale;1
+hémorragies;1
+0 fr;1
+indirectes;1
+présence d' un diabète insipide néphrogénique;1
+troubles phospho;1
+absence d' intoxication digitalique;1
+accident vasculaire au sens large;1
+degré de l' hypokaliémie;1
+présence de reins;1
+refus d' un tel prélè-;1
+rejet cellulaire , rejet humoral;1
+rétention de sodium et d' eauoedèmes;1
+défaut;1
+gravité;1
+défaut de concentration des urines;1
+informations à donner au patient;1
+hyperprotidémie;1
+équité;1
+caractère chronique de l' irc;1
+douleurs ou pesanteur lombaires;1
+2 examens;1
+réalisation d' une bu;1
+surveillance tensionnelle annuelle;1
+évaluation clinique;1
+diagnostic étiologique porté sans retard;1
+stade de la mrc;1
+15 mmol;1
+insuffisant rénal chronique traité par dialyse;1
+ucr / pcr ) x 100;1
+antécédents;1
+forte dose ou en association;1
+délai plus court;1
+135 mmol;1
+traumatismes urétéraux;1
+traitement systématique des colonisations urinaires gravidiques;1
+énergie pour ce transfert;1
+insuffisance rénale aiguë : 3 mécanismes possibles;1
+crise sclérodermique;1
+20 ans;1
+albuminémie à 28;1
+agonistes;1
+anticorps anti-nucléaires;1
+critères d' hospitalisations et les traitements;1
+70 kd;1
+densité urinaire;1
+tableau 8 : règles hygiéno;1
+n° 255;1
+absence d' anomalie pariétale;1
+solubilité de l' oxalate de calcium;1
+liquide de conservation;1
+fonction rénale antérieure;1
+repos , surveillance , majoration traitement po;1
+insuffisance rénale chronique terminale;1
+myxoedème de l' hypothyroïdie;1
+50 - 100;1
+lithiase urinaire récidivante avec hypercalciurie idiopathique;1
+vitesse de progression de la maladie rénale;1
+hypokaliémie et alcalose métabolique;1
+arrêt cardiaque imminent;1
+affection catabolisante;1
+causes d' obstacle chronique négligé;1
+volume des reins;1
+mbg et de la membrane alvéolaire pulmonaire;1
+patient atteint de pkrad;1
+insuffisance rénale légère à modérée;1
+progression de la mrc;1
+régénération cellulaire rapide;1
+perte de sel;1
+chirurgie des adénomes hypophysaires;1
+réabsorption de sodium sur la partie proximale;1
+na+ et de l' eau;1
+jamais par voie intraveineuse;1
+hypocalcémie sévère ou d' installation rapide;1
+insuffisance veino;1
+angiotensine 2;1
+traitement des poussées hypertensives;1
+maladies métaboliques diabète;1
+faiblesse , asthénie;1
+augmentation de l' espace qt;1
+hyperplasie uni ou bilatérale;1
+complications immunologiques post-transplantation;1
+item 157;1
+maladies kystiques héréditaires à transmission dominante;1
+maladies cardiovasculaires et rénales associées;1
+pénicillamine , certaines chimiothérapies , certains antiviraux;1
+temporalité;1
+principales règles générales de prescription;1
+risque de néphrotoxicité;1
+hématurie « isolée »;1
+valeurs normales plasmatiques;1
+hypertensive;1
+présentation atypique;1
+molécules à élimination urinaire;1
+risque de bactéries multi-résistantes;1
+tableau 8 : causes des gem secondaires;1
+grâce aux 3 séances hebdomadaires;1
+circonstances amenant à poser le diagnostic;1
+gem primitive;1
+« à chlore »;1
+pression artérielle de quelques mmhg;1
+rythme auriculaire et ventriculaire;1
+plan moléculaire;1
+tabac;1
+également autocrine;1
+appelé néphrose lipoïdique;1
+cirrhose biliaire primitive;1
+médicaments inhibant le sraa;1
+vaccinations anti-grippales et anti-pneumococciques;1
+diagnostic radiologique;1
+présence de chaînes légères d' immunoglobulines;1
+systèmes sympathiques et rénine-;1
+rétinopathie;1
+coarctation de l' aorte;1
+aldostéronisme de type i ou ii;1
+anurie ≥;1
+quantités;1
+traitement par immunosuppresseur ou par biothérapie;1
+15 ml / min/1 , 73 m2;1
+artère lobaire;1
+production de créatinine;1
+insuffisances rénales fonctionnelles avec syndrome oedémateux;1
+pression interstitielle;1
+formes d' hypocalcémie;1
+kallicréine rénal;1
+infarctus;1
+troubles hydro;1
+stade terminal;1
+transport du sodium;1
+vieillissement normal;1
+maladies de goodpasture;1
+60 ml / min/1 , 73 m2;1
+critères de gravité des infections urinaires;1
+grippe tous les patients;1
+osmolalité extracellulaire;1
+noyau;1
+absence d' hyponatrémie;1
+obstacle urétéral;1
+bénéfice démontré à une restriction protidique sévère;1
+survenue d' une torsade de pointe;1
+diagnostic de gem;1
+fraxiparine ®;1
+granulomatoses;1
+restriction sodée stricte et diminuer les diurétiques;1
+barrière de filtration;1
+signes révélateurs;1
+vieillissement des fonctions tubulaires;1
+anti-aldostérone;1
+diminution de la perfusion du rein persiste;1
+biguanides;1
+tort;1
+fistule artério;1
+hypocalcémie , hyperphosphatémie;1
+accidents allergiques sous thiazidiques;1
+65 mmhg;1
+défaut de concentration;1
+forme récidivante;1
+risque infectieux;1
+maladies inflammatoires chroniques de l' intestin;1
+âge de 20 ans;1
+réabsorption rénale de calcium;1
+schématique;1
+croissance des cristaux : phénomène «;1
+kf;1
+mobilisation des dépôts calciques musculaires;1
+pli cutané;1
+insuffisants cardiaques;1
+conséquences neurologiques;1
+présence d' une bactériémie;1
+conjoint de sa mère;1
+localisations de la maladie;1
+polykystose hépatorénale;1
+diagnostic positif de syndrome néphrotique;1
+maladie du col vésical;1
+nettoyage du méat urinaire avec un antiseptique;1
+12 millions de patients;1
+urate;1
+quasi-totalité aux glomérules;1
+adénome de la surrénale;1
+document officiel certifiant le refus du défunt;1
+accès vasculaire;1
+cushing;1
+hyperlipidémie sévère;1
+traitement symptomatique et de la surveillance;1
+hypertrophie glomérulaire;1
+système sympathique neuro-adrénergique;1
+règles d' attribution;1
+traduisent;1
+absence de traitement efficace;1
+désordres biologiques conséquences de la réduction néphronique;1
+obstruction intra-tubulaire;1
+augmentation du calcium total;1
+principales causes d' hta secondaires;1
+protéinuire;1
+régression;1
+traitements inducteurs ou à risque;1
+prescription de diurétique;1
+raison de son retentissement cardiaque;1
+risque attribuable;1
+prise de thiazidiques;1
+complications métaboliques propres à l' ira;1
+protéinuries intermittentes ou transitoires;1
+mésangium;1
+flash;1
+oedème aigu pulmonaire;1
+phosphates alimentaires et à l' oxalate;1
+réduction de l' excrétion rénale;1
+urgences;1
+traitement initial;1
+corticothérapie à forte dose;1
+espérance de vie supérieure;1
+imagerie faire baisser la pa;1
+pertes extrarénales de potassium;1
+néphrite interstitielle associée à une uvéïte;1
+stimulus osmotique;1
+tissu musculaire squelettique;1
+acide rétinoïque;1
+facteurs de risques;1
+diurétiques , iec et ara2;1
+reins de taille normale voire augmentée;1
+traitement initial empirique;1
+absence d' anomalie du sédiment;1
+traitement hormonal substitutif;1
+expansion volémique par perfusion de sérum glucosé;1
+âge du receveur;1
+traitement médical :   anti-hypertenseurs;1
+principaux signes;1
+malformation urologique ou des lithiases;1
+anti - cd20;1
+anti-hypertenseurs dont les iec;1
+accumulation d' acides faibles;1
+souche o157 : h7;1
+cytologie urinaire;1
+rash , fièvre , arthralgies;1
+incidentalome surrénalien;1
+type 3 ou gnrp;1
+germe uréasique;1
+kaliémie de plus de 1;1
+mode de classification le plus répandu;1
+heures;1
+indication d' une revascularisation;1
+reins bosselés;1
+également être la conséquence de pertes extra-rénales;1
+cystites aiguës à risque de complication récidivantes;1
+lors de la présentation du patient;1
+perte excessive;1
+méningées;1
+toilette génitale;1
+shu typique;1
+patients atteints de pkrad;1
+mécanismes spécifiques de la formation des oedèmes;1
+prévalence très élevée;1
+part , la conductivité hydraulique;1
+perfusion de soluté de bicarbonate molaire;1
+thromboses veineuses;1
+glomérulonéphrite aiguë post-infectieuse;1
+rash;1
+lindau;1
+ubiquitaire électrogénique;1
+hyponatrémie avec symptômes sévères;1
+diabète de novo post-transplantation;1
+bandelette positive;1
+hyperlipidémie hyperglycémie;1
+cancer avec métastases disséminées;1
+arbre diagnostique des hypokaliémies .   ;1
+signes d' atteinte vasculaire;1
+nécroses tubulaires aiguës;1
+surveillance initiale puis annuelle;1
+tiers des prostatites aiguës;1
+absence de traitement immunosuppresseur;1
+origine centrale;1
+inhibiteurs de l' enzyme de conversion;1
+6 g / jour;1
+introduction d' un traitement par avk;1
+croissants extra-capillaires;1
+causes d' insuffisance rénale terminale;1
+réparation de l' épithélium;1
+malabsorption digestive;1
+néphrectomie pour don de rein;1
+élimination de la surcharge potassique;1
+médicaments essentiels;1
+5 % des patients;1
+différencier;1
+calculs rénaux;1
+h+;1
+n° 318;1
+2 600 mmol de potassium;1
+solutés salés hypertoniques;1
+urine éliminée;1
+2 ans;1
+12 - 16 ans;1
+preuve d' une efficacité modeste;1
+réabsorption du na+ dans le tcd;1
+recours à l' épuration extrarénale;1
+déficit en minéralocorticoïdes;1
+complications de la polykystose hépatorénale;1
+étape très précoce de l' activation cellulaire;1
+gna post-infectieuse;1
+hyperparathyroïdie secondaire , précoce;1
+substance;1
+traitement de l' hyponatrémie;1
+repos de plusieurs minutes;1
+facteurs néphrotoxiques;1
+0 mmol;1
+témoignage oral;1
+transplanté;1
+composition;1
+douleurs abdominales avec diarrhées sanglantes;1
+émission spontanée de calculs;1
+sujets âgés et / ou athéromateux;1
+dénutrition majeure;1
+± insuffisance rénale;1
+prise occulte de furosémide;1
+prise en charge de la mrc;1
+mesures diététiques;1
+douleurs abdominales , asthénie;1
+correction de l' anémie;1
+objectifs tensionnels;1
+gériatrie;1
+85 mmhg;1
+60 ml / min;1
+atteinte d' organe cible;1
+inhibiteurs :   amiloride;1
+augmentation natrémie de 0 , 5 mmol;1
+conduite à tenir devant une hématurie;1
+anti-fungiques;1
+glycation;1
+perte de 140 mmol;1
+déficit ou du gain hydrique au cours;1
+organe transplanté;1
+indication de dialyse;1
+survenue d' arythmie;1
+produits toxiques;1
+mesure aux deux bras est nécessaire;1
+pathologies psychiatriques;1
+fibrose séquellaire;1
+calcifications intra-rénales évoquant une néphrocalcinose;1
+phosphate de calcium;1
+préterminale;1
+lésions nodulaires;1
+effets cardiovasculaires;1
+dose administrée;1
+action paracrine;1
+surdosage en anticoagulant;1
+hypercalciuries secondaires :   origine osseuse;1
+don croisé;1
+qualité de l' organe;1
+inflation sodée et hydrique;1
+chevilles;1
+dosage plasmatique;1
+reins de taille normale ou diminuée;1
+infections décapitées par une antibiothérapie;1
+effort;1
+capacités de synthèse hépatique;1
+pathologie glomérulaire;1
+lésions osseuses;1
+cellules souches hématopoïétiques;1
+signes de chvostek et trousseau;1
+reprise immédiate de fonction du greffon;1
+surrénalienne;1
+prévention des épisodes d' insuffisance rénale aiguë;1
+10 g/-dl de façon stable;1
+shunt capillaire glomérulaire »;1
+traitements les plus utilisés;1
+sein d' une famille atteinte de pkrad;1
+mesure de la kaliémie;1
+compartiment intracellulaire ou un excès de pertes;1
+n° 254;1
+lithiase urinaire radio-transparente;1
+ncct;1
+gabarit hors norme;1
+pompes;1
+organisation;1
+300 mosm kg;1
+échographie rénale et des voies excrétrices;1
+diagnostic étiologique est en général simple;1
+glomérulonéphrite compliquant les infections bactériennes;1
+progression de l' irc;1
+patient et son entourage;1
+hyponatrémie isotonique;1
+osmolaires;1
+définition de l' insuffisance rénale aiguë;1
+hypertension artérielle sévère;1
+rapport avec une colique -néphrétique;1
+concentration de protéines dans la chambre urinaire;1
+hyperleucocytose à pnn;1
+gros vaisseaux;1
+contexte de syndrome métabolique avec diabète;1
+suspicion de cystite;1
+tableau 7 : critères du sepsis sévère;1
+étendue;1
+hémorragie intra-alvéolaire ) : glomérulonéphrite avec prolifération;1
+âge jeune;1
+excitabilité membranaire;1
+7 mmol / l ) ou menaçante;1
+signes cliniques uro;1
+série d' automesure à présenter;1
+oesophagiens : reflux , dysphagie;1
+insuffisance surrénalienne;1
+10 % de tous les décès;1
+éléments de physiologie rénale11;1
+artérioles de moyen calibre;1
+reins de taille symétrique .   ;1
+nomenclature;1
+60 mmhg;1
+pa < 130/80 mmhg;1
+syndrome de gougerot- sjögren;1
+contexte clinique et diagnostic syndromique;1
+évolution :   corticosensibilité et rémission complète;1
+systèmes antinatriurétiques;1
+hémodialyse en continue;1
+étiologie de l' hta;1
+suivi clinique et biologique;1
+causes immuno;1
+hta grade 2;1
+interprétation de l' ecbu;1
+prise en charge ambulatoire;1
+cimétidine;1
+maladie rénale intrinsèque;1
+troubles du comportement à type d' irritabilité;1
+duplicité;1
+traitement de 1ere intention;1
+période de fonction rénale instable;1
+bilan d' une hypocalcémie;1
+fiabilité;1
+amt ou la mapa diurne;1
+causes à pth basse;1
+hypokaliémie sévère;1
+possible origine auto-immune;1
+nle : 30 - 100;1
+seules;1
+néphropathies aiguës;1
+diminution de la masse musculaire;1
+20 mmol//l;1
+sujets obèses;1
+savoir prescrire les ains;1
+modalités :   information;1
+migration de fragments;1
+65 ans;1
+glomérulonéphrite extramembraneuse;1
+aminosides , anticancéreux;1
+synthèse hépatique d' albumine;1
+doutes;1
+myélinolyse centro - pontine ou démyélinisation osmotique;1
+iu sur sonde vésicale;1
+réimplantation;1
+cabinet définissant l' hta;1
+insuffisance respiratoire aiguë;1
+critères de la mort encéphalique;1
+drainage urinaire;1
+prostaglandines;1
+antiagrégants plaquettaires;1
+protéinurie à 4 g/24;1
+uroscanner;1
+uricémie < 240 μmol;1
+grande quantité;1
+maladies dysimmunitaires;1
+bilan sodé positif;1
+néphroangiosclérose & mat;1
+fibrose;1
+hta nord-américaines;1
+sance cardiaque évoluée;1
+occasion d' un régime désodé;1
+insuffisance hépatocellulaire;1
+formes focales pseudo-tumorales ou diffuses;1
+futures;1
+sévérité de l' hyperkaliémie;1
+cystites post-coïtales;1
+sarcoïdose : glucocorticoïdes;1
+parfois un angor fonctionnel;1
+médicaments à élimination rénale;1
+types de diabète;1
+tableau 14 : causes des hsf;1
+osmolalité plasmatique et la natrémie;1
+cours du snlgm corticosensible;1
+excès de protéines alimentaires;1
+bloquants , intoxication digitalique;1
+définie par une baisse du dfg;1
+besoin par une biopsie rénale;1
+test de freination à la dexaméthasone;1
+maladie digestive responsable d' une malabsorption sévère;1
+principes d' appariement;1
+réalisation d' un dosage d' hbaic;1
+toxicité chronique;1
+infections urinaires hautes;1
+techniques de dérivation;1
+vitamines d naturelles;1
+effets secondaires rénaux;1
+facteurs de risque cardiovasculaire;1
+filles car létal chez le garçon;1
+système circadien additionnel;1
+maladies des emboles de cristaux de cholestérol;1
+complément aux ains;1
+relation entre dfg et créatininémie;1
+thiazidiques du type hydrochlorothiazide;1
+échographie cardiaque trans-thoracique;1
+mécanismes de toxicité;1
+déshydratation intracellulaire sans hypernatrémie;1
+10 ans ou > 50 ans;1
+carences protéiques;1
+72 h de traitement;1
+exemple de la transplantation rénale;1
+obtenue;1
+insuffisance cardiaque congestive;1
+facteurs déclenchant;1
+1 an post-transplantation;1
+oap;1
+homologie avec un canal calcique;1
+développement d' une fibrose interstitielle;1
+sténose de l' artère rénale fréquente;1
+500 ml;1
+site de la haute;1
+5 - 10 ans;1
+présence d' hématies déformées dans les urines;1
+fonction de la symptomatologie clinique et biologique;1
+initiation;1
+approprié;1
+phosphaturie;1
+causes d' hypoparathyroïdie;1
+tableau infectieux;1
+partir d' un donneur vivant;1
+risque élevé de décès cardiovasculaires;1
+insuffisances rénales terminales;1
+baisse progressive du débit de filtration glomérulaire;1
+bloc;1
+gradient de concentration cortico;1
+résultats de l' antibiogramme à 48;1
+orientation;1
+jusqu' à son acheminement;1
+hyperkaliémie de transfert;1
+adénome surrénalien;1
+belatacept;1
+exclure;1
+anti-inflammatoiresnon stéroïdiens;1
+sujets noirs et chez les personnes âgées;1
+lésion de hsf;1
+progression vers la néphropathie diabétique;1
+fin de séance d' hémodialyse;1
+jusqu' à 145 mmol;1
+affections malignes;1
+déshydratation et la prise de diurétiques;1
+carbamazépine phénytoine;1
+natrémie constante;1
+prévalence : 1/40 000;1
+diminution de la surface capillaire;1
+hypercalcémie ,   utilisation de diurétiques;1
+diagnostic et critères diagnostiques;1
+capacité de concentration des urines diminuée;1
+protéines de la matrice extracellulaire;1
+notamment chez la femme âgée;1
+médicaments antihypertenseurs génériques commercialisés en france;1
+soif induite;1
+protéinurie « clinique;1
+rapport protéinurie/ créatininurie;1
+conséquences thérapeutiques;1
+installation aiguë;1
+sursaturation des urines;1
+traitement anticoagulant ou thrombolytique;1
+recherche d' une artériopathie périphérique;1
+rythme d' infusion;1
+10 à 30 ml;1
+contrôle glycémique : hba1c;1
+80 % de toutes les ira organiques;1
+tension artérielle;1
+phénomène de sécrétion et de réabsorption;1
+signal 2;1
+prévention de la tubulopathie;1
+oedèmes et forces de starling;1
+2 août 2005;1
+imagerie rénale;1
+500 mg à 1;1
+origine extrarénale , rénale;1
+≤ 6 mm;1
+2 et 5 ans;1
+hta ≥ 180/110 mmhg;1
+3 facteurs de risque cardiovasculaire;1
+hyperosmolalité plasmatique efficace;1
+biopsie rénale , outre son intérêt diagnostique;1
+traitement des ira obstructives;1
+perte du greffon rénal;1
+traitements par digitalique ou anti-arythmiques;1
+urines diminuée;1
+syndrome d' apnées obstructives du sommeil;1
+cellules endothéliales et des podocytes;1
+traitements endo;1
+diurétiques épargnant;1
+facteur circulant;1
+signes neurologiques;1
+quantité la plus faible possible;1
+durées de survie;1
+100 meq;1
+contre-pression des tissus interstitiels;1
+données pharmacocinétiques connues chez l' insuffisant rénal;1
+fraction d' excrétion du sodium;1
+recueil urinaire par sondage aller;1
+comorbidités cardio;1
+ablation d' une sonde vésicale;1
+test invasif;1
+gain de 32 % en 10 ans;1
+diagnostic : biopsie rénale;1
+has;1
+résultat de l' ecbu;1
+130 mmol;1
+hypercalciurie sans cause retrouvée : hypercalciurie idiopathique;1
+périartérite;1
+kaliémie et la créatininémie;1
+absence d' anomalie échographique;1
+10 mmhg pam;1
+notamment après prise;1
+liaison aux protéines;1
+fibrose péri-artérielle souvent importante;1
+variations de transport du sodium;1
+thrombo;1
+hyperuricémie associée;1
+cisplatine;1
+bilan immunologique;1
+syndromes glomérulaires;1
+c3 g injectable ou fluoroquinolone;1
+diurèse résiduelle;1
+faible témoin;1
+formes de passage;1
+anomalies suivantes;1
+syndrome de jonction;1
+insuffisance rénale chronique au stade 4;1
+niveau d' hyperkaliémie et la sévérité;1
+apolipoprotéines;1
+32 ng / ml;1
+région iliaque et gènent;1
+augmentation rapide;1
+diététiques et leur suivi;1
+compte-rendu d' une biopsie rénale;1
+10 mm;1
+infections bactériennes chroniques , amylose aa;1
+digestive : diarrhée osmotique;1
+hyperoxalurie primitive;1
+mous , indolores;1
+acidoses respiratoires;1
+adjonction d' un diurétique d' action distale;1
+anévrysme cérébral;1
+niveau de pa;1
+hémodiafiltre;1
+survenue de certaines pathologies;1
+amphotéricine b3;1
+syndrome nephrotique;1
+hémodiafiltration;1
+marqueur biologique;1
+« microalbuminurie »;1
+crises douloureuses abdominales;1
+fréquence des accidents lithiasiques;1
+mesures préventives non médicamenteuses;1
+remaniements de la matrice extracellulaire;1
+ponction de l' opercule de la sonde;1
+complications de la corticothérapie;1
+hémorragies digestives;1
+filariose;1
+mode de transmission lié à l ‘;1
+métanéphrines;1
+acide ascorbique;1
+profil;1
+galénique pédiatrique;1
+sociétés;1
+principe et seuils de détection;1
+4 : inversion de l' onde;1
+reins de taille augmentée;1
+statut du donneur et du receveur;1
+diminue;1
+survie des receveurs;1
+angiotensine et système sympathique;1
+urines du matin , fraîchement émises;1
+paracelline;1
+4 mois de 15 mg / m2;1
+prudence;1
+présence de cylindres hématiques dans les urines;1
+maintenir dans la fourchette thérapeutique;1
+diffusion des molécules dissoutes;1
+néphropathies glomérulaires aiguës ou rapidement progressives;1
+hyperhydratation intracellulaire :   excès d' eau;1
+administration chronique de diurétiques;1
+1 ml / min / mois;1
+hypokaliémie chronique;1
+antithrombotiques;1
+nt ) correcte;1
+espérance de vie limitée;1
+sondage vésical;1
+hématurie macroscopique ou microscopique;1
+objectifs de traitement;1
+cours du diabète de type 2;1
+théories;1
+18 heures suivantes la natriu- rèse;1
+ca total;1
+agrégation plaquettaire diffuse;1
+expansion mésangiale sans nodule;1
+mécanismes de compensation;1
+traitement urologique des calculs urinaires en place;1
+inscription sur la liste de transplantation rénale;1
+administration de sels de calcium iv;1
+inhibiteurs du signal 1;1
+3 à 5 échanges par jour;1
+absence de dilatation des cavités;1
+diagnostic d' une hypernatrémie .   ;1
+stabilité estimer le dfg;1
+hyperminéralocorticisme et syndromes apparentés;1
+accidents hydroélectrolytiques;1
+tor ou bélatacept;1
+mutations de ce système de réabsorption;1
+analyse qualitative;1
+déplétion hydrosodée brutale;1
+manifestations;1
+brutal;1
+prescription prolongée;1
+tcp couplée;1
+syndrome hémolytique et urémique atypique;1
+hépatomégalie;1
+variations de la créatininémie;1
+vomissements répétés;1
+glomérulonéphrite rapidement progressive ,   lgm;1
+réapparition des mêmes symptômes après nouvelle administration;1
+correction d' une hypokaliémie associée;1
+10 - 20 ans;1
+orientation diagnostique devant la présence d' oedèmes;1
+augmentation de la volémie;1
+maladie cv ou rénale;1
+fièvre prolongée , exercice physique intense;1
+médicaments déjà pris par le patient;1
+diurétiques au cours de l' ira;1
+mécanismes de réabsorption;1
+métropole;1
+utilisation de produit de contraste iso;1
+hypothèse;1
+800 meq;1
+hypercalcémies aiguës sévères;1
+texte;1
+étude urodynamique;1
+hémangioblastomes;1
+idem stade 1 et 2;1
+causes :   primitives;1
+techniques endoscopiques;1
+nosuppression;1
+nécessité parfois d' une dialyse préalable;1
+correction;1
+soir;1
+compartiment extra cellulaire;1
+cardiologue;1
+effets sur la contractilité cardiaque donnant lieu;1
+asymétrie de la taille;1
+récupération de la fonction rénale;1
+receveurs de plus de 50 ans;1
+combinaison avec les thiazidiques;1
+critères de diagnostic échographique;1
+injection précoce d' uricase;1
+administration de calcitonine;1
+risque de complication et selon leur gravité;1
+kayexalate;1
+hyperoxalurie : régime pauvre en oxalate;1
+substances chargées;1
+dissémination bactérienne dans l' arbre urinaire;1
+dose adéquate;1
+ir stade terminal;1
+cancer du poumon;1
+geste;1
+exemple avec les produits de contraste iodés;1
+don d' organes;1
+grands types de phénomènes;1
+facteurs déclenchants;1
+agression rénale aiguë;1
+aspects biologiques , fonctionnels et relationnels;1
+conséquences cardiovasculaires de l' irc;1
+augmentation du trou anionique;1
+concentration sanguine;1
+indications des diurétiques de l' anse;1
+anorexie , nausées et vomissements;1
+mortalité cardio;1
+diurétique de l' anse auquel;1
+fièvre associée;1
+reste de ce chapitre;1
+recours à l' hémodialyse;1
+ecbu stérile dans la moitié;1
+mécanismes de transport;1
+déshydratation intracellulaire isolée;1
+importante;1
+hydroxylation en position 24;1
+hyperminéralocorticisme;1
+éléments de physiologie rénale17;1
+bilan d' eau;1
+réduction de l' épaisseur corticale;1
+complément d' information;1
+traitement de la pyélonéphrite aiguë simple;1
+stade 3b;1
+grosses protéines;1
+sueurs excessives;1
+transit post-opératoire;1
+60 % d' albumine;1
+prélèvement chez un donneur décédé;1
+clinicien;1
+différence;1
+traitement préventif;1
+n° 260;1
+30 ml;1
+hypovolémie vraie ou efficace;1
+insuffisance rénale chronique et maladies;1
+risque de correction rapide de la natrémie;1
+indications de l' hospitalisation;1
+atcd : antécédent;1
+tableau 5 résume les différentes localisations possibles;1
+longue durée d' action;1
+causes des hypercalcémies;1
+hyponatrémies de « dilution »;1
+tableau 2 : stratification classique;1
+taille du calcul;1
+2 % du potassium total;1
+enjeu économique important;1
+associations de produits néphrotoxiques;1
+approche multidisciplinaire;1
+prise en charge en dialyse;1
+mécanismes de l' insuffisance rénale;1
+ajustements thérapeutiques;1
+69 ans;1
+douleurs lombaires , fièvre , ± frissons;1
+n° 262;1
+aspect;1
+ira au cours des rhabdomyolyses;1
+laminine;1
+100 mmol;1
+estimation;1
+âgée;1
+colonisation urinaire;1
+fluide extracellulaire;1
+régime hypoprotidique;1
+hypovolémie relative et d' une stimulation;1
+calcitriol augmente l' absorption digestive de calcium;1
+dialysance faible;1
+complication particulière : les syndromes lymphoprolifératifs post-transplantation;1
+hyperuricurie : régime pauvre en purine;1
+visites au cabinet médical;1
+malabsorption , dénutrition;1
+ischémie;1
+conditions d' utilisation;1
+tableau brutal , en quelques hours;1
+lésions d' endartérite;1
+contrôle métabolique du diabète;1
+hhyperaldostéronisme primaire;1
+fonctions cognitives et expose;1
+27 mmol par litre;1
+ukv > 20 mmol/24;1
+item 260;1
+6 - 8;1
+grossesse , transplantation rénale;1
+k+ excrété;1
+jusqu' à 134 mmol / min;1
+protéinuries permanentes;1
+expansion;1
+traité;1
+néphroprotection;1
+osmoles;1
+insuffisance ventriculaire dte;1
+diagnostic d' hyperparathyroïdie primaire;1
+syndrome d' hyporéninisme;1
+ligne;1
+charge protéique;1
+dihydropyridines;1
+diabète chez l' enfant et l' adulte;1
+exemples;1
+déficit enzymatique congénital;1
+fièvre , douleurs lombaires et signes urinaires;1
+forte posologie de furosémide;1
+glomérulonéphrites rapidement progressives avec prolifération extra-capillaire;1
+prise de poids supplémentaire;1
+moniteur gravimétrique;1
+« troisième secteur;1
+conséquent;1
+origine d' une néphropathie interstitielle chronique;1
+insuffisance surrénale;1
+hypercalcémie d' origine parathyroïdienne;1
+volume plasmatique;1
+cellule musculaire squelettique;1
+vasculaires aigus;1
+absence d' élévation;1
+bacilles à gram négatif;1
+transfusions exceptionnelle;1
+caces;1
+arrêt cardiaque extra-hospitalier;1
+polycystine 2;1
+hémodialyse périodique ou dialyse péritonéale;1
+50 et 70 ans;1
+quantité d' eau à administrer;1
+anévrysme d' artère cérébrale;1
+traitement antibiotique plus prolongé;1
+calcidiol en calcitriol;1
+signes neurologiques , signes digestifs , myalgies;1
+spécificités particulières;1
+tableau rénal;1
+causes de syndromes néphrotiques secondaires;1
+conditions de mesure de la pa;1
+pertes extrarénales notamment digestives;1
+oedèmes après corticothérapie prolongée;1
+coarctation aortique;1
+évaluation psycho;1
+tableau 14;1
+question 2;1
+infiltrats bilatéraux;1
+signes de localisation;1
+1 - 3;1
+facteurs modulant la filtration glomérulaire;1
+volets;1
+utilisation prudente;1
+traitement de suppléance par dialyse;1
+objectifs de stock martial;1
+survie du greffon;1
+dialyseur;1
+irc + cause d' hypercalcémie surajoutée;1
+cn fébrile;1
+insuffisance rénale depuis > 3 mois;1
+nombre d' étiologies;1
+patients séropositifs pour l' ebv;1
+échanges plasmatiques;1
+échec de drainage par voie endoscopique;1
+tableau clinique typique;1
+intérêt de cette classification en stades;1
+infections nosocomiales;1
+n° 259;1
+présence d' une hyperglycémie prolongée;1
+thérapeutique bien conduite;1
+maladie coronaire , maladie cérébro;1
+flores polymicrobiennes;1
+système de « feed forward;1
+parenchymateuse;1
+arthralgies , myalgies , douleurs abdominales;1
+balance décisionnelle personnelle;1
+question 1;1
+affirmations suivantes , indiquez;1
+calculs urétéraux;1
+entrée du sodium filtré;1
+signes précédents;1
+reins : 100 à 200 mmol/24;1
+24 premières heures et 8 mmol;1
+petits reins bosselés à l' échographie;1
+déficit;1
+sèche;1
+entérocoques;1
+cellules excitables notamment musculaires;1
+réab- sorption tubulaire du sodium;1
+urine fraîchement émise;1
+effondrée de pth native;1
+apport d' environ 0;1
+sensation de soif;1
+classification keith et wagener;1
+protéinurie du syndrome néphrotique;1
+auto-anticorps anti;1
+cristaux;1
+diminution de la posologie;1
+déshydratation intracellulaire avec hypernatrémie;1
+comportement rénal;1
+régulation de l' activité la na+ k+-atpase;1
+2 500 mmol;1
+uvéite;1
+perte cutanées;1
+catabolisme cellulaire accru;1
+défaut d' hydroxylation en 1;1
+embolie;1
+cylindres , hématies , déformées;1
+polyuries osmotiques : diabète , mannitol;1
+troubles digestifs;1
+saignement;1
+albuminémie associée à un vasoconstricteur;1
+hémolyse mécanique et à une thrombopénie;1
+espace qt;1
+asymétrie de taille;1
+sulfonamide;1
+classes;1
+pcg = pression capillaire glomérulaire;1
+titration par voie iv des anti-hypertenseurs;1
+iraf 2;1
+père hypertendu;1
+anomalie morphologique;1
+bactéries rencontrées et le mode de contamination;1
+arrivée dans l' anse de henle;1
+immense majorité;1
+mise à jour des vaccinations;1
+evérolimus;1
+pth basse;1
+jeune femme sans antécédents;1
+sraa = système rénine;1
+glucagon;1
+agressions rénales aiguës sur un rein fragile;1
+5 : apparition de l' onde;1
+canal épithélial;1
+débit cardiaque;1
+absence de réponse au traitement diurétique;1
+homéostasie du potassium;1
+survenue d' infarctus rénaux;1
+indépendante;1
+récepteur intra-cellulaire spécifique;1
+lésions histologiques élémentaires glomérulaires;1
+diagnostics différentiels de la cn sur lithiase;1
+facteur de risque;1
+chapitre spécifique;1
+intolérances imprévisibles :   atteintes immuno;1
+perte de protéine;1
+vasculaires aiguës;1
+profil tensionnel;1
+mésangium glomérulaire;1
+paramètre physique;1
+ostéodystrophie héréditaire d' albright;1
+uricémie;1
+protection sociale;1
+régime normosodé;1
+artère interlobulaire;1
+col utérin;1
+facteur aggravant surajouté;1
+associations possibles d' anti;1
+insuffisance respiratoire chronique;1
+causes médicamenteuses et toxiques;1
+activité de cette enzyme;1
+diminution du débit cardiaque;1
+niveau de pression artérielle;1
+évérolimus;1
+causes des hec;1
+analyse par pcr;1
+± extramembraneux;1
+40 % de résistance;1
+encadré 3;1
+1/-kg;1
+risque de perte du greffon;1
+compartiment liquidien qui se forme souvent brutalement;1
+protéines sériques;1
+principes de choix;1
+ethnie;1
+forme idiopathique;1
+73 m2 de dfge;1
+diurétiques et urines diluées;1
+immunosuppression chez le patient transplanté;1
+extravasation de l' albumine;1
+femmes enceintes;1
+1er degré;1
+niveaux d' action;1
+évolution naturelle de la néphropathie;1
+prélèvements faits;1
+récepteur de l' angiotensine 2;1
+incidence sous-estimée;1
+capacités d' autorégulation;1
+évaluation du patient hypertendu;1
+négatifs;1
+échographie parathyroïdienne et la scintigraphie parathyroïdienne;1
+réserve d' absence d' hyperphosphatémie importante;1
+tableau clinique hétérogène , par pénétrance variable;1
+suivi thérapeutique médicamenteux;1
+bloquants non sélectifs;1
+double blocage par iec et ara2;1
+biologiquement , une acidose;1
+traitement proposé;1
+prévention des ira fonctionnelles médicamenteuses;1
+syndrome hta - hypokaliémie parfois sévère;1
+forme d' une cystite;1
+cause connue;1
+traitement curatif des calculs urinaires;1
+trouble de dilution;1
+consommation d' alcool excessive;1
+oedèmes déclives;1
+thiazidique en cas d' oedèmes réfractaires;1
+sarcoïdose , tuberculose;1
+285 ± 5 mosm / kg;1
+volume d' urine et la natriurèse/24 heures;1
+apport protidique;1
+antagonistes calciques étant en position intermédiaire;1
+candidats inscrits dans l' année;1
+calculs d' acide urique;1
+principal traitement est l' hyperdiurèse;1
+comportement rénal du potassium;1
+avc ischémique;1
+retentissement interstitiel;1
+seuil de détection;1
+arrêt préalable des ains et des diurétiques;1
+diurese;1
+inactivité physique;1
+prévention ou le traitement;1
+anomalies des reins;1
+antécédent de chirurgie urologique;1
+apparition d' oedèmes;1
+fgf23;1
+fonctions tubulaires :   polyurie;1
+épuration sur une période courte;1
+inhibiteurs de cox 2;1
+sarcoïdose ou autre granulomatose;1
+traitement de l' hypokaliémie;1
+épuration extrarénale itérative;1
+osmolalité plasmatique normale ou élevée;1
+pédiatriques souvent;1
+traitement de l' amylose al;1
+techniques de suppléance de l' irc;1
+lésions de nécrose fibrinoïde;1
+160 - 179 mmhg;1
+allergie;1
+surdosage;1
+médicaments anti-hypertenseurs;1
+3 : sous-décalage du segment st;1
+diurétiques de l' anse po ou iv;1
+complications iatrogéniques;1
+dépôts de complément;1
+cmhtcr;1
+antiviraux contenant du ténofovir;1
+130 mmhg et pa diastolique;1
+insuffisance rénale aiguë glomérulaire;1
+principalement;1
+surcharge hydrosodée;1
+forme typique est la gna post-streptococcique;1
+vascularites associées aux anca;1
+imagerie baisser la pa si > 220/120;1
+antibiothérapie à large spectre;1
+patients anuriques et l' élimination concomitante;1
+myalgies;1
+entrées;1
+hypocalcémie précoce et parfois profonde;1
+visualisation directe des artères rénales;1
+tableau 1 : accès à la transplantation;1
+shu de l' enfant;1
+relais;1
+baisse relativement faible du dfg;1
+excès de production d' oxalate;1
+règles suivantes;1
+suspicion d' hyperkaliémie;1
+débit de la protéinurie;1
+urgences hypertensives;1
+difficulté;1
+vieillissement;1
+cellules épithéliales tubulaires;1
+polykystose rénale chez l' adulte;1
+président du tribunal de grande instance;1
+ecg de repos;1
+insomnie;1
+lettre;1
+milieu intérieur;1
+degrés;1
+défaillance vitale d' un organe;1
+réalisation plus facile;1
+plateau;1
+nouveau;1
+repos transitoire;1
+poplité externe;1
+versant interne de la mbg;1
+lumière tubulaire via le canal rom;1
+causes du syndrome de microangiopathie thrombotique;1
+risque augmenté de diabète;1
+discussion diagnostique;1
+néphropathie à iga du purpura rhumatoïde;1
+nosocomiale en hémodialyse;1
+3b;1
+90 ml / min/1;1
+rétrograde;1
+néphrotoxicité des inhibiteurs de la calcineurine;1
+protéinase 3;1
+néphropathie vasculaire aiguë;1
+obtention d' une réponse natriurétique;1
+tableau biologique;1
+morphine en première intention;1
+recherche systématique d' une entité pathologique sous-jacente;1
+rhabdomyolyses;1
+80 ans;1
+jusqu' à l' accouchement;1
+relativement aux apports hydriques;1
+âge de 18 ans;1
+ordre de 0;1
+hypercholestérolémie;1
+rapport na+/k+ urinaire > 1;1
+pinéalome;1
+g/24 heures;1
+prophylaxie :   éviter l' immobilisation prolongée;1
+-33 mmhg;1
+traitement de suppléance adapté;1
+maladie rénovasculaire bilatérale;1
+cytologie;1
+causes d' ira avec acidose importante;1
+sondage « aller;1
+chiffre;1
+hypoparathyroïdie primitive;1
+phase de constitution des oedèmes;1
+couleur;1
+réversibilité des lésions le plus souvent;1
+complication fréquente;1
+pression intra-rénale;1
+syndrome cardio;1
+comparti-;1
+suppléance de la fonction rénale;1
+cercle;1
+c3 mésangiaux ± endocapillaires;1
+espace extracellulaire;1
+tibia;1
+vaisseaux iliaques et des membres inférieurs;1
+absence d' hypotension orthostatique;1
+bactériurie asymptomatique chez la femme enceinte;1
+-augmentation;1
+analogue de la somatostatine;1
+prise d' ains , iec , ara2;1
+dépistage d' anévrysme d' artère cérébrale;1
+cavités rénales;1
+atteintes extrarénales de la pkrad;1
+hypovolémie vraie : déshydratation extracellulaire;1
+siège;1
+baisse de la pression artérielle;1
+éventuels lésions rénales sur un parenchyme fragile;1
+mutation inactivatrice de ce transporteur;1
+gn avec croissants épithéliaux;1
+hématuries;1
+privilégier doses faibles et traitements courts;1
+signes orientant;1
+hémoconcentration;1
+insuffisance rénale : créatininémie;1
+syndrome des anti-phospholipides;1
+pertes sodées extrarénales;1
+poids supérieur;1
+infections bactériennes;1
+traitement et la surveillance des ira;1
+angio - irm de dépistage;1
+complications de la polykystose rénale;1
+aminoside seul iv;1
+mm3;1
+glomérule et filtration glomérulaire;1
+insuffisance rénale : aiguë ou chronique;1
+volume du secteur intracellulaire;1
+hyperhydradatation intracellulaire;1
+restriction sodée modérée;1
+association de plusieurs médicaments néphrotoxiques;1
+perfusions;1
+recherche d' une étiologie;1
+thromboses et embolies des artères rénales;1
+caractère aigu ou chronique;1
+« aquarétique »;1
+signes qui permettent d' aboutir au diagnostic;1
+nau > 30 mmol;1
+indications de la lec;1
+présence d' anticorps anti-mbg circulants;1
+inhibiteurs de la pompe à protons;1
+amyloses héréditaires;1
+prescription et surveillance des diurétiques;1
+hyponatrémies;1
+opercule de prélèvement de la sonde urinaire;1
+conséquences : catabolisme protéique musculaire excessif;1
+infection urinaire masculine;1
+données échographiques suivantes;1
+traitement d' urgence de l' hyperkaliémie;1
+myocardiopathies sévères;1
+mortalité de cause ischémique;1
+contraction du vec;1
+perte extrarénale de chlore;1
+croissant glomérulaire circonférentiel;1
+diagnostic étiologique et traitement;1
+réduction de la pression artérielle;1
+cirrhotique;1
+atteinte glomérulaire d' origine immunologique;1
+soluté salé;1
+récidivantes;1
+fatigue , épuisement;1
+natriurèse de pression;1
+tubule distal 65;1
+syndrome de fragilité;1
+inhibiteur de l' anhydrase carbonique;1
+rapport annuel;1
+ischémie rénale;1
+atteintes cardiaques;1
+signes neuromusculaires :   crampes , myalgies;1
+posologie du diurétique et nécessite des posologies;1
+signes neurologiques focaux;1
+poursuite du traitement et de la surveillance;1
+basiliximab;1
+chronique de l' adulte , has 2012;1
+causes métaboliques;1
+situation de déshydratation;1
+injectable + aminoside;1
+tableau 2 : causes de néphropathie;1
+cellules principales du tube collecteur cortical;1
+volume du secteur vasculaire;1
+traitement antihypertenseur mais des règles hygiéno;1
+prévention des hémorragies digestives;1
+4 glandes;1
+instauration un traitement minéralocorticoïde;1
+glomérulonéphriteaiguë post-infectieuse;1
+50 ans aux apparentés;1
+altération récente du débit de filtration glomérulaire;1
+tumeur rétro-orbitaire;1
+causes d' hypoprotidémie ou le mécanisme;1
+parathyroïdes restantes;1
+sondages vésicaux à demeure;1
+techniques de suppléance de la fonction rénale;1
+exposition toxique;1
+maladies systémiques vascularites;1
+acidose métabolique et hyperkaliémie;1
+interaction cmh / tcr;1
+000 ml/24;1
+prescriptions suivantes;1
+arrêt du traitement;1
+résultat de la pbr;1
+contrôle de la vue;1
+maladie cv documentée;1
+nitrites et / ou des leucocytes;1
+chlorure de potassium;1
+tumeurs solides;1
+antibiotiques conseillés;1
+stimulation ß2;1
+conditions standardisées;1
+signes cliniques de l' hypercalcémie;1
+mal;1
+diurétiques agissant au niveau;1
+oedèmes généralisés et surveillance;1
+angio - irm;1
+épisodes d' hématurie macroscopiques;1
+filtration des protéines plasmatiques;1
+réaction inflammatoire;1
+epargneurs du potassium;1
+centre d' hémodialyse avec présence médicale permanente;1
+contractilité cardiaque;1
+traitement ou l' éradication de leur cause;1
+techniques interventionnelles;1
+obstruction chronique;1
+avis spécialisé néphrologique;1
+supplémentation vitaminique;1
+30 mmol/24;1
+greffons rénaux;1
+milieu de composition spéciale;1
+apports en glucose;1
+comité donneurs vivants;1
+dosage de l' albuminurie;1
+ldl cholestérol;1
+réduction spontanée des apports protidiques;1
+réabsorption du ca++ à ce niveau;1
+hyalinose segmentaire et focale primitive;1
+examens biologiques;1
+microscopique;1
+donneur vivant ou décédé;1
+bulbe d' oignon »;1
+acidose métabolique aiguë;1
+modifications électro-cardiographiques d' apparition progressive;1
+moyens thérapeutiques;1
+cible de 6;1
+principalement d' albumine;1
+hec pure;1
+déshydratation extracellulaire pure;1
+grâce;1
+vasculaires et métaboliques;1
+hypovolémie associée;1
+ciclosporine , gemcitabine , clopidrogel , mitomycine;1
+ref = résistance artériolaire efférente;1
+prise en charge multidisciplinaire;1
+perte de greffon;1
+marasme;1
+concentration du médicament;1
+présence de ces anticorps définit le caractère;1
+troubles de l' équilibre acido;1
+lésion;1
+atteinte neurologique vésicale;1
+échodoppler;1
+topographie;1
+phéochromocytomes;1
+quantités transportées : quelques exemples;1
+inﬂammatoires stéroïdiens et non stéroïdiens;1
+examen en immunofluo- rescence;1
+glomérulonéphrite = gn;1
+erreurs diagnostiques par excès;1
+1 mg / kg / jour;1
+patient traité par dialyse;1
+présentations cliniques chez la femme;1
+importante natriurèse;1
+rein-2014;1
+causes des ira parenchymateuses;1
+situations d' hypoperfusion rénale;1
+fonction des organes;1
+al primitive;1
+doses de bumétanide;1
+forme d' h+ libre;1
+fuite passive et permanente de potassium;1
+rétention hydro;1
+48 - 72;1
+régression de l' hypercalcémie;1
+réabsorption de sodium par enac;1
+administration trop prolongée;1
+mycobactéries;1
+troubles des fonctions supérieures;1
+3e secteur de fluides .   ;1
+systèmes natriurétiques ou antinatriurétiques;1
+péri;1
+65 % du calcium filtré;1
+complément d' interrogatoire et d' examen clinique;1
+lésions artérielles accélérées : 50;1
+n° 263;1
+responsables d' un effet kaliurétique;1
+insuffisance rénale organique ou fonctionnelle préexistante;1
+microorganisme;1
+troubles hydroélectrolytiques suivants;1
+défaut rénal primaire d' excrétion d' eau;1
+zone;1
+composition corporelle;1
+familles pkd 2;1
+myéloperoxydase;1
+80 % d' albumine;1
+sites de la réabsorption du sodium;1
+fonction rénale altérée;1
+athérosclérose et artériosclérose;1
+hypocalcémie , hyperparathyroïdie secondaire;1
+phénomènes passifs;1
+antibioprophylaxie continue à base de fosfomycine;1
+infections à virus bk :   asymptomatiques;1
+3 ions sodium;1
+planification du traitement de suppléance;1
+grandes formes cliniques de mat;1
+janvier 2007;1
+amylasurie;1
+« troisième secteur »;1
+long des capillaires péritubulaires;1
+signes de retentissement d' origine ischémique;1
+sévérité de l' hta;1
+mention;1
+échographie à la recherche d' une lithiase;1
+valeurs cibles;1
+fièvre avec des urines infectées;1
+20 à 25 % du débit cardiaque;1
+études épidémiologiques;1
+sécrétion hypothalamique inappropriée d' adh;1
+dépendance de diverses influences hormonales;1
+méningite;1
+alcalose métabolique associée;1
+hta d' apparition plus tardive;1
+savoir prescrire;1
+6 mmol;1
+déshydratation sévère par exemple;1
+coronaropathie;1
+néphron est l' unité fonctionnelle du rein;1
+éosinophiles;1
+dispense;1
+transferts diffusifs selon les gradients de concentration;1
+préparation optimale;1
+cancer de la prostate;1
+pertes sodées;1
+alcalose hypokaliémique;1
+1 mois;1
+décret n° 2005;1
+familles pkd1;1
+épidémiologie de l' hta en france;1
+traitement de la néphropathie diabétique;1
+médicaments chez l' insuffisant rénal;1
+hyperkaliémie secondaire à l' hypoaldostéronisme - hyporéninénisme;1
+paramètres;1
+68 mmol;1
+excès d' eau libre;1
+gnrp pauci;1
+aliments riches en oxalate;1
+rein de taille diminuée;1
+cancer du rectum;1
+apport d' osmoles minimal dans les urines;1
+élévation des transaminases;1
+classes médicamenteuses recommandées;1
+péricardite;1
+avantages et inconvénients perçus par le patient;1
+« microalbuminurie » , protéinurie , oedèmes;1
+pression oncotique résultante;1
+contexte et diagnostic;1
+ph urinaire;1
+mesure ambulatoire de la pression artérielle;1
+carence d' apports;1
+critère parmi :   signes d' hypoperfusion;1
+tcp;1
+perfusion de soluté glucosé;1
+1 à 2;1
+risque élevé d' hyponatrémie;1
+intensité de la douleur;1
+signal 3 d' activation de la prolifération;1
+possibilités thérapeutiques;1
+1-a hydroxylase;1
+∆p;1
+système kinine;1
+causes de déshydratation extracellulaire;1
+ordre de 100 à 200;1
+réabsorption importante d' acide urique;1
+reclassement professionnel éventuel;1
+angiotensine à des étapes;1
+test rendant possible la trans-plantation rénale;1
+foie , quelques kystes de petite taille;1
+mécanisme incertain;1
+angiomyolipomes;1
+135/85 mmhg;1
+diarrhée amicrobienne;1
+dépendance de l' aldostérone;1
+corps;1
+récepteur de la phospholipase a2;1
+cription d' iec ou d' araii;1
+persistante;1
+majoritaire;1
+lésions vasculaires;1
+action de la parathormone sur l' os;1
+prise;1
+jusqu' à atteinte;1
+jour de l' administration des pci;1
+symptômes neuropathiques douloureux et hyperesthésiques;1
+gradient de sodium;1
+éducation du patient;1
+exposition;1
+acidose métabolique bloque l' entrée;1
+ampicilline , méthicilline;1
+mécanismes physiopathologiques;1
+efficacité inconstante des corticoïdes;1
+27 mmol;1
+syndrome nitu;1
+immunosuppresseurs en transplantation d' organe solide;1
+dosage quantitatif de la protéinurie;1
+défaut au diagnostic d' ira organique;1
+20 mmhg;1
+absence d' hta;1
+40 ans et parfois dans l' enfance;1
+matériel;1
+dissoudre in situ certains calculs;1
+complication cardiovasculaire;1
+micro-organismes;1
+hypercalcémies granulomateuses;1
+ventilation assistée avec peep;1
+prolifération endocapillaire;1
+causes non-infectieuses :   les immunosuppresseurs;1
+diurèse initiale responsable d' une hypovolémie;1
+répartition;1
+mutations;1
+prise en charge diététique;1
+espérance de vie;1
+toxicité tubulaire directe;1
+contrôle d' un diabète;1
+essais thérapeutiques;1
+cible de 140/90 mmhg;1
+contrôle glycémique;1
+cryoglobulinémie mixte;1
+situations exceptionnelles d' hypotension symptomatique;1
+hyponatrémie ou insuffisance rénale avancée;1
+pathologie inflammatoire : fibrose ou liposclérose rétropéritonéaleattention;1
+dissection aortique : chirurgie cardiovasculaire;1
+surcharge hydro;1
+hépatite chronique virale ou auto-immune;1
+cause identifiée ou liée à une hépatite;1
+point de vue;1
+urétéroscopie ou lec en cas de symptôme;1
+méthodes de référence ou gold;1
+urothélium des voies urinaires;1
+prévalence de l' irt traitée par dialyse;1
+calices;1
+incidence de l' insuffisance rénale aiguë augmente;1
+hyperlipidémie expose;1
+aspect radiologique;1
+2 épisodes de pyélonéphrite aiguë;1
+stratégies thérapeutiques en fonction de l' étiologie;1
+extra-capillaire;1
+temps d' ischémie froide : temps;1
+réabsorption de na dans le tcd;1
+68 kda;1
+rénine plasmatique basse;1
+parente du 1er degré;1
+accumulation de matrice extracellulaire glycosylée;1
+60 mosm / kg;1
+ionogramme sanguin avec mesure de la kaliémie;1
+perméabilité glomérulaire;1
+calculs non calciques;1
+co-transport nacl;1
+syndrome de gnrp;1
+transplantation à donneur vivant;1
+absence d' insuffisance rénale;1
+définition de l' hypertension artérielle;1
+déshydratation et hyponatrémie;1
+glandes;1
+myoglobinurie;1
+activité métabolique rénale;1
+antialdostérones type spironolactone [ aldactone ®;1
+concentrations résiduelles;1
+prise en charge de l' anémie;1
+prolongée à température ambiante;1
+cours de leucémies d' évolution rapide;1
+diagnostic de sa cause;1
+débit de perfusion;1
+incompatibilité hla avec le donneur;1
+extramembraneux;1
+expansion volémique excessive;1
+fréquence;1
+statines sous contrôle strict;1
+facteurs natriurétiques auriculaire et cérébral;1
+transport des substances dissoutes;1
+cours des syndromes néphrotiques chroniques;1
+éruption cutanée;1
+cation;1
+biologie;1
+enquête étiologique s' avère négative;1
+doses inadéquates;1
+néphroprotecteur »;1
+soluté diffuse;1
+versant;1
+partir du stade microalbuminurie;1
+consultation d' urologie;1
+néphrose lipoïdique;1
+maladie hépatique responsable d' une insuffisance hépatocellulaire;1
+léthargie;1
+gpa;1
+surveillance nécessaire;1
+théorie;1
+traitement médical préventif de la lithiase oxalo;1
+patients hypertendus ayant une insuffisance cardiaque;1
+type mixte le plus souvent;1
+principale source de donneurs d' organes solides;1
+angiotensine nécessite des précautions pour éviter;1
+activité physique réduite;1
+déshydratation extracellulaire associée;1
+crise de goutte;1
+nourrisson;1
+administration de calcitriol ou de vitamines;1
+mutation de novo;1
+psychiatre;1
+pompes nak;1
+niveau du risque cv est élevé;1
+lésions artérielles;1
+hyperprotidémie et hyperlipidémie;1
+glucosidase;1
+onde t pointue et symétrique;1
+osmolalité très basse;1
+facteur transcriptionnel nfat;1
+pression du doigt contre la face interne;1
+caractère arégénératif : taux de réticulocytes bas;1
+amont de l' obstacle;1
+antécédents familiaux d' accident cardiovasculaire précoce;1
+troubles de conscience;1
+plan biologique;1
+100 mg;1
+traitement symptomatique en urgence;1
+tableau 5 : examens utiles au diagnostic;1
+rapport 1000 x urée;1
+9 fois la borne supérieure;1
+pouvoir;1
+quantité d' albumine;1
+cours des syndromes de lyse tumorale;1
+20 à 30 % des patients;1
+pyélonéphrite aiguë chez la femme;1
+lorsqu' ils sont vus en microscope optique;1
+25 secondes;1
+diagnostic à écarter;1
+cavités dilatées;1
+persistance de la natriurèse;1
+bain de dialyse qui circule à contre-courant;1
+mécanismes des nécroses tubulaires ischémiques;1
+action mixte centrale et α-1-bloqueur périphérique;1
+hyperal-;1
+sel de magnésium;1
+poumon;1
+multinévrite , neuropathie végétative;1
+signes d' appels urologiques;1
+risque d' arrêt cardio;1
+déficit en sodium et en eau;1
+lymphocyte t du receveur;1
+objectifs plus ambitieux;1
+paramètres de surveillance;1
+tube proximal et l' anse de henle;1
+biais d' un transfert extracellulaire de potassium;1
+hypernatrémie aiguë symptomatique chez l' adulte;1
+osmolalité normale;1
+consommation excessive d' acide glycyrrhizique;1
+orientation diagnostique devant une insuffisance rénale chronique;1
+schémas thérapeutiques;1
+supplémentation potassique;1
+individus;1
+antinéoplasiques;1
+décès de cause cardio;1
+amylose al;1
+ldl;1
+tmp;1
+prise régulière du traitement immunosuppresseur;1
+amélioration de la prise en charge cardiovasculaire;1
+inverse;1
+augmentation de l' intervalle entre 2 administrations;1
+soluté de chlorure de sodium hypo;1
+volontiers;1
+individus «;1
+résultats non optimaux;1
+territoires déclives;1
+retentissement;1
+dépôts :   dépôts;1
+circonstances de survenue;1
+kaliurèse;1
+ensemble des autres facteurs de risque vasculaire;1
+symptomatologie fonctionnelle ou de carence martiale;1
+nerf vague;1
+maladie rénovasculaire ou bilatérale;1
+hypoexcitabilité myocardique;1
+fgf23 , hormone d' origine osseuse;1
+chaine;1
+hypophosphorémie;1
+cellules tubulaires;1
+constitution;1
+glucose par le tcp;1
+échographie de l' appareil urinaire;1
+n° 197;1
+1 à 12 mg;1
+hypercalcémie modérée à une pth normale;1
+condition;1
+dizaine de minutes et l' urine;1
+ana- lyse du contexte;1
+efficaces et moins invasives;1
+réabsorption de nacl dans le tcd;1
+défaut de synthèse rénale d' érythropoïétine;1
+lieu sur l' élévation;1
+jours de suite;1
+médicaments à élimination biliaire prédominante;1
+apports calciques;1
+perte de sel obligatoire;1
+paralysie menant alors à une défaillance respiratoire;1
+âge habituel de l' insuffisance rénale terminale;1
+qu' aucune formule d' estimation du dfg;1
+neuropathie urémique;1
+glomérulopathies chroniques;1
+taux d' hémoglobine;1
+modalités d' utilisation;1
+30 mg / g de -créatininurie;1
+tomodensitométrie spiralée;1
+instillation de produits;1
+hypokaliémie , une hyperkaliémie;1
+hypovolémie vraie : déshydratation extracellulaire par surdosage;1
+5 ‰ habitants pour les formes symptomatiques;1
+sondage urinaire;1
+énergétique : prise en charge diététique indispensable;1
+fonction;1
+lithiase calcique idiopathique;1
+infection à risque de complication;1
+résultats de la transplantation avec donneur vivant;1
+30 % de la mortalité globale;1
+artères de petit calibre;1
+inhibiteurs directs de la rénine;1
+restriction protidique modérée et adaptée au patient;1
+facteurs métaboliques comme l' hypercalciurie;1
+arbre vasculaire;1
+rare;1
+états de rétention sodée;1
+principales thérapeutiques;1
+unité spécialisée;1
+cystites aiguës récidivantes;1
+utilisation de produits iodés;1
+équilibre du bilan;1
+raison de la fréquence des faux positifs;1
+surveillance si asymptomatique;1
+protéinuries tubulaires;1
+précision du recueil;1
+drainage chirurgical ou en radiologie interventionnelle;1
+silencieux;1
+modifications pharmacocinétiques au cours de l' irc;1
+diagnostic positif :   examen clinique;1
+douleur lombaire unilatérale;1
+antibiothérapie systématique par fosfomycine;1
+orientations;1
+régime riche en sodium;1
+traitement du glaucome chronique;1
+déclin de la fonction rénale;1
+biopsie du rein;1
+hydroxyapatite;1
+rythme évolutif de l' insuffisance rénale chronique;1
+apports sodés élevés;1
+preuve d' une vie commune;1
+traitement redevient;1
+cd25 basiliximab;1
+150 µmol;1
+excès d' apport ou d' absorption digestive;1
+atteintes simultanées rénales et pulmonaires;1
+granulomatose avec polyangéite;1
+perfusions adaptées;1
+tuberculose , cancers , asthme;1
+26 mmhg;1
+filtre;1
+principal effet des pg;1
+néphropathies héréditaires;1
+qualité de vie;1
+maladies kystiques héréditaires à transmission liée;1
+eau totale;1
+cabinet médical;1
+parfois insuffisance rénale progressive;1
+« oap flash »;1
+localisation des dépôts;1
+agent infectieux;1
+seule l' hémostase primaire;1
+raf = résistance artériolaire;1
+chromosome 4;1
+risque de toxicité tubulaire;1
+soluté salé isotonique;1
+cône d' ombre postérieur;1
+possible;1
+progressions;1
+préférence le non dominant;1
+plan hémodynamique;1
+sujets non hypertendus;1
+posologie stable;1
+patients jeunes;1
+pression artérielle et de la créatininémie;1
+nécrose de la paroi des petits vaisseaux;1
+sévérité de l' insuffisance rénale;1
+réversibilité après traitement spécifique;1
+hydratation correcte du patient;1
+stade d' une maladie rénale chronique;1
+glomérules et les vaisseaux;1
+1ere hypothèse;1
+prise de furosémide;1
+débimétrie urinaire;1
+augmentation du volume du secteur interstitiel;1
+stade 2 de la maladie rénale chronique;1
+natriurèse = 120 mmol par 24;1
+fr / uploads / document / rapport;1
+radio osseuse , électrophorèse;1
+déplétion des lt;1
+phase aiguë;1
+exclure une origine obstructive à l' ira;1
+adénomes;1
+signes de vascularite;1
+albuminurie ≥ 30 mg/24;1
+situations de déshydratation intracellulaire;1
+albumine minoritaire;1
+sélective;1
+nombre d' inscrits au 1er janvier 2017;1
+fonctions exocrines et endocrines;1
+absence de manifestations extrarénales;1
+manière;1
+réponse atténuée aux vaccinations;1
+stade prédialytique;1
+absence de gravité :   traitement ambulatoire;1
+angio- scanner ou une angio;1
+2 grandes situations;1
+glomérules et l' interstitium;1
+injection;1
+incision urétérale;1
+retentissement de l' hta;1
+90 mmhg;1
+infection bactérienne récente;1
+angioten- sine , β;1
+thrombose in situ;1
+4 °;1
+polyuro;1
+intervalle entre les doses unitaires;1
+choix d' une attitude thérapeutique;1
+diarrhées aiguës ou chroniques;1
+conditions physiologiques;1
+diminution des apports potassiques alimentaires et intraveineux;1
+hypercortisolismes frustes;1
+foie : encéphalopathie hépatique ou bilirubinémie;1
+récepteurs sensibles au calcium;1
+étiologies des sécrétions inappropriées d' adh;1
+ascendante;1
+notamment chez les patients hospitalisés alités;1
+hématurie micro;1
+bandelette;1
+latence clinique;1
+conséquence tardive d' une hta ancienne;1
+fréquente polyurie avec nycturie;1
+excrétion du potassium;1
+indication , diurétiques;1
+aldostéronisme;1
+échographie ou la tomodensitométrie;1
+persistance de la pa ≥ 140/90 mmhg;1
+droit;1
+mauvaise observance du traitement;1
+prise de lithium;1
+7 à 15 mm;1
+débit transcapillaire de fluide;1
+mosm / kg d' eau;1
+azolés : kétoconazole , flu;1
+thromboses vasculaires et anomalies de la coagulation;1
+facteurs de pronostic;1
+calcul en cas d' émission;1
+signification du dfg;1
+chaines d' ig;1
+augmentation de synthèse;1
+réversibilité après lever d' obstacle;1
+vasoconstriction pré-glomérulaire;1
+quadrithérapie ou à leur place;1
+patient ayant un diabète connu;1
+épidémiologie de l' irc en france;1
+traitements bloquants;1
+trajet;1
+seuls les diurétiques de l' anse;1
+prolifération mésangiale;1
+lors de l' administration aiguë;1
+insuffisance rénale modérée;1
+négative;1
+complication cardiovasculaire ,   rappelant;1
+jour au lendemain;1
+craniopharyngiome;1
+contre-indications :   rein unique;1
+diagnostics plausibles;1
+protéinuries transitoires;1
+réflexe kaliurétique;1
+échographie rénale et vésicale;1
+protéinurie , ni d' hématurie significative;1
+manifestations de la lithiase urinaire compliquée;1
+lymphomes malins non-hodgkiniens;1
+hospitalisation voire le transfert en réanimation;1
+5 g / jour;1
+coeur pulmonaire chronique;1
+cité de réabsorption;1
+aigu cellulaire;1
+cavités rénales par voie lombaire;1
+récidive à l' arrêt;1
+réaction inﬂammatoire;1
+débits de dialysat et du sang;1
+présentation souvent atypique rendant le diagnostic difficile;1
+causes de lyse cellulaire;1
+médiocre;1
+comité donneurs;1
+maladie périodique;1
+diarrhée aiguë;1
+20 dernières années de techniques;1
+tremblement;1
+70 mmol;1
+300 mosm / kg;1
+réabsorption tubulaire proximale;1
+situations cliniques favorisant la déshydratation extracellulaire;1
+brutale;1
+syndrome »;1
+technique les plus longues;1
+insuffisance rénale progressive sans protéinurie ni hématurie;1
+forme hyperalgique ,   doute diagnostique;1
+vitesse d' administration;1
+disparition de l' onde;1
+terrain sur lequel survient l' ira;1
+apparition d' une virémie;1
+diminution des gammaglobulines;1
+récupération;1
+modalités;1
+baisse du pourcentage d' eau totale;1
+néphroangiosclérose évoluée;1
+contre-indication à ce geste diagnostique;1
+bases puriques;1
+paludisme , syphilis , bilharziose;1
+relation continue;1
+phosphorémie;1
+association iec;1
+antécédents d' insuffisance rénale aiguë;1
+père;1
+diminution du volume extracellulaire;1
+sténose d' artère rénale et néphroangiosclérose avancée;1
+vasculaires de l' irc;1
+patient et son entourage familial et médical;1
+survie rénale à 5 ans;1
+apparition d' effets secondaires;1
+produits de glycation simple;1
+proteus mirabilis;1
+euvolémie extracellulaire par siadh;1
+hyperkaliémie sévère et symptomatique;1
+démence ou cancer métastasé;1
+examen cytologique urinaire quantitatif et impose également;1
+30 mg;1
+excrétion sodium et eau;1
+poids idéal théorique;1
+agression de l' endothélium du greffon;1
+signes associés;1
+soluté salé isotonique ± remplissage vasculaire;1
+jeune homme;1
+ligne ou par application disponible via http;1
+dic;1
+durée de traitement est de 7 jours;1
+hyper-éosinophilie;1
+asp;1
+iatrogénie en néphrologie diagnostic et prévention;1
+analyse des calculs par spectrophotométrie à infra-rouge;1
+médicaments aux protéines;1
+15 - 25 % en 24;1
+déshydratation intracellulaire :   déficit total;1
+implantation ultérieure du greffon rénal;1
+association amoxicilline;1
+02demander dosage de calcémie ionisée;1
+sondage vésical ou cathétérisme vésical;1
+syndrome de liddle;1
+teneur en eau;1
+sjögren , thyroïdite;1
+obtention de l' antibiogramme à 48;1
+recherche en transplantation;1
+cystoscopie;1
+asp et l' échographie rénale;1
+signes pulmonaires;1
+autorité de santé 2012;1
+diagnostic différentiel ou enjeu thérapeutique;1
+nombre d' unités disponibles;1
+examen cytologique quantitatif;1
+néphropathies vasculaires évoluant sur un mode chronique;1
+chirurgie : pontage aorto;1
+50 ml / min;1
+hypertension pulmonaire primitive;1
+signes articulaires , digestifs;1
+pression systolique pendant 3 minutes;1
+ira obstructives;1
+tachycardie compensatrice réflexe;1
+définition strictement biologique qui associe;1
+structure de la paroi glomérulaire;1
+dépendante;1
+-- thyroïdectomie , chimiothérapie , corticothérapie;1
+homme de 70 kg;1
+anomalie de la paroi vasculaire;1
+flucytosine;1
+pancréatite aiguë , rhabdomyolyse;1
+iothalamate radioactif marqué à l' iode-125;1
+embols de cristaux de cholestérol;1
+administration d' érythropoïétine;1
+recherche de facteurs favorisant l' hyperkaliémie;1
+entrée de sodium;1
+malformation vasculaire;1
+signes électrocardiographiques présents;1
+per os;1
+acides : 1 mmol / kg;1
+céphalées;1
+expression clinique des hypocalcémies;1
+capillaires   glomérulaires;1
+pipéracilline;1
+agence;1
+mécanismes d' action;1
+information et préparation;1
+réalisation immédiate d' un ecg;1
+déshydratation;1
+n° 258;1
+équation du dfg;1
+faux négatifs;1
+immunosuppresseurs et stéroïdes dans les néphropathies glomérulaires;1
+visite;1
+diurétiques inhibant ce canal;1
+horsfall , favorisée par l' acidité urinaire;1
+causes d' hématurie;1
+risque de choc septique;1
+consensus international;1
+diagnostic de l' hypercalcémie;1
+signe biologique;1
+dyslipidémie;1
+équipe;1
+dpr = débit plasmatique rénal;1
+précaution;1
+rapport;1
+prise de réglisse;1
+145 mmol;1
+rétention de nacl et d' eau;1
+compensation horaire;1
+million d' habitants;1
+toxicité urémique , troubles électrolytiques;1
+alimentation;1
+artères rénales , un écho;1
+obstruction urinaire;1
+posologie de l' antibioprophylaxie continue;1
+cause iatrogène;1
+prolifération extra-capillaire pure;1
+tissu médullo - surrénalien;1
+causes à pth élevée;1
+valeurs physiologiques;1
+déclin annuel;1
+volume du foie et de ses kystes;1
+acido - cétose;1
+canaux calciques;1
+calculs urinaires en place;1
+fièvre ou hypothermie;1
+oxalose;1
+artères de petits calibres et des capillaires;1
+stade et son rythme évolutif;1
+signes de gravité et le pronostic;1
+dérivation des urines en urgence;1
+non-récupération;1
+recherche d' une néphropathie;1
+moyens;1
+toxicité sans séquelles;1
+confusion , coma;1
+situation fréquente;1
+arbre généalogique;1
+4 kystes dans chaque rein;1
+maladie variqueuse;1
+contexte d' hypoxie;1
+macrokystes;1
+eau non quantifiables;1
+perturbations;1
+recherche d' hématurie avec la bandelette;1
+post-diarrhéique;1
+raisonnement thérapeutique;1
+fr ou atteinte d' organe cible;1
+sulfamétoxazole ) poursuivi trois à quatre semaines;1
+augmentation de la réabsorption sodée proximale;1
+période pubertaire;1
+augmentation de la sécrétion tubulaire de créatinine;1
+somnolence;1
+causes d' obstacle;1
+faible durée du recueil;1
+calculs de plus de 6 mm;1
+système nerveux sympathique;1
+hypercorticisme;1
+antérieures;1
+traduction clinique;1
+anca , fluorescence périnucléaire;1
+encadré 1;1
+interprétation de la bu;1
+pauvre;1
+virémie;1
+parathyroïdectomie subtotale;1
+insuffisances rénales aiguës fonctionnelles;1
+pointues et symétriques;1
+étudier l' écologie microbienne;1
+6 g / kg / j-;1
+antécédents familiaux de néphropathie;1
+retentissement de l' irc;1
+staphylocoques;1
+adénome de conn ou hyperplasie bilatérale;1
+urographie;1
+épidémiologie et physiopathologie;1
+b7;1
+entérobactéries productrices;1
+néphropathie associée au vih;1
+fièvre , sans douleurs lombaires;1
+maladies inflammatoires;1
+définition selon la gravité;1
+bilan de l' eau;1
+estimation initiale;1
+20 % de résistance;1
+anémie , thrombopénie;1
+mesures le soir avant le coucher;1
+risque de développer une insuffisance rénale chronique;1
+traitement de l' hypercalciurie idiopathique;1
+impossibilité de maintenir la tête;1
+54 ans;1
+probabilité d' iu;1
+recherche systématique d' une hypotension orthostatique;1
+créatininémie à 120 µmol;1
+contraction;1
+hyperkaliémie est une complication grave potentiellement mortelle;1
+pyélonéphrite obstructive;1
+prise de biguanide;1
+circonstances suivantes;1
+phase;1
+principes;1
+idem stade 1 , 2 et 3;1
+caractère idiopathique ou primitif d' une glomérulopathie;1
+spirono;1
+diurétiques et du bloqueur du sra;1
+myélome , métastase osseuse;1
+douleurs ou hématurie microscopique ou leucocyturie;1
+nucléation : formation de cristaux;1
+malnutrition;1
+parfois présence de deux gros reins;1
+néphroangiosclérose maligne;1
+coronaropathie , artérite;1
+calcium ionisé;1
+absence de syndrome oedémateux;1
+sévérité du syndrome néphrotique;1
+carence d' apport en potassium;1
+indication à une antibioprophylaxie;1
+schéma identique;1
+évolution de la néphropathie;1
+compte d' autres éléments;1
+guérison spontanée;1
+autosomique dominante;1
+hec;1
+hta grade 3;1
+source d' hospitalisation prolongée et de surmortalité;1
+raisons;1
+population à risque par l' es-;1
+argument de fréquence;1
+120 mmol;1
+hyperhydratation;1
+bénéfique des diurétiques;1
+période menstruelle;1
+chirurgie ouverte;1
+enzyme de conversion;1
+70 mmhg;1
+terrains;1
+leptospiroses , fièvres hémorragiques virales;1
+dérivation;1
+groupe rhésus;1
+infections à germes encapsulés;1
+aztreonam;1
+nau;1
+présentation clinique et diagnostic;1
+hgpo à la recherche d' un diabète;1
+protéinurie permanente;1
+traversent la membrane basale;1
+stress et de la « tension nerveuse;1
+notamment en cas de chirurgie mini-invasive;1
+quantités transportées;1
+lymphomes ,   les sarcomes de kaposi;1
+morphine et ses dérivés;1
+donneurs vivants après la greffe;1
+progression de la néphropathie diabétique;1
+critères suivants;1
+cytopénie;1
+stade 1 de la maladie rénale chronique;1
+moyens : iec ou araii;1
+autonomisation des glandes parathyroïdiennes;1
+association de ces médicaments;1
+atteinte immuno;1
+urinaires au décours d' une poussée tensionnelle;1
+réservoir bactérien;1
+caillots ni douleurs , survenant;1
+précipitation;1
+facteurs de résistance;1
+bolus ou en continu;1
+signes cutanés : nodules , livedo;1
+homme de 55 ans;1
+cirrhose décompensée;1
+hypercalcitriolémie;1
+rapports sexuels;1
+immunosuppresseurs à marge thérapeutique étroite;1
+élévation de l' uricémie;1
+chambre urinaire;1
+type 1 : dépôts d' anticorps anti-mbg;1
+hyperfiltration;1
+rétention primaire de sodium;1
+substances dissoutes;1
+paralysie périodique familiale , thyrotoxicose;1
+analyse des urines;1
+considérations thérapeutiques particulières;1
+signes extra-rénaux et anticorps;1
+membres inférieurssignes hémodynamiques dans les formes sévères;1
+emblée un traitement anti-hta en monothérapie;1
+trithérapie incluant un diurétique;1
+rétention aiguë d' urine;1
+reins sont dans ce cas préservées;1
+cna;1
+chronique : fistule artério;1
+cn anurique;1
+patient sur 4;1
+à-dire;1
+limitation;1
+signes neuro-psychiques;1
+âgé ou fragile;1
+bain pauvre en potassium;1
+injectable + amikacine;1
+antihypertenseurs dont un diurétique;1
+association bétabloquant;1
+double hydroxylation;1
+diabète à sa phase initiale;1
+granulomatose avec polyangéïte;1
+hyperhydratation -extracellulaire;1
+néphropathie héréditaire;1
+concepts de vieillissement pathologique;1
+kyste infecté;1
+activité électrique;1
+facteurs de risque;1
+tissu interstitiel;1
+augmentation de l' élimination urinaire du calcium;1
+niveau de risque cardiovasculaire;1
+protéinuries pathologiques :   1;1
+microangiopathies thrombotiques;1
+oedèmes des membres inférieurs;1
+signes de gravité;1
+patients anuriques;1
+réalisation d' une électrophorèse des protéines plasmatiques;1
+aminoacidurie;1
+néphrite interstitielle aiguë;1
+cause de l' hypovolémie;1
+traitement et évolution clinique;1
+traitement d' entretien;1
+maladie cardiovasculaire ou rénale avérée;1
+leucocyturie sans bactérie détectée par l' ecbu;1
+cryptorchidie;1
+patients asymptomatiques;1
+donneurs en état de mort encéphalique;1
+diagnostic clinique;1
+89 ml / min;1
+artère rénal;1
+germes;1
+vitesse et les modalités du traitement;1
+présence d' un syndrome néphrotique;1
+néphrite tubulo;1
+mutation facteurs de transcription;1
+pancréas isolé;1
+syndrome infectieux récent;1
+sujets exposés;1
+diminution de la morbi;1
+coût de traitement;1
+hypocalciurie;1
+azathioprine;1
+fièvre > 38 °;1
+annexes : pharmacologie des anti-hypertenseurs;1
+vasodilatation rénale;1
+ascendante le plus souvent;1
+seconde cause d' insuffisance rénale terminale;1
+diagnostic de syndrome néphrotique idiopathique;1
+complications aiguës et leur traitement;1
+interaction avec la matrice extracellulaire;1
+n° 257;1
+hyperkaliémie de constitution brutale;1
+risque accru de thromboses veineuses;1
+lésions artérielles proximales souvent bilatérales;1
+prévention du syndrome de lyse;1
+déshydratation préexistante;1
+cancers cutanés;1
+syndrome néphrotique connu;1
+anti-inflammatoires non-stéroïdiens;1
+infections urinaires fébriles;1
+augmentation du risque de morbi;1
+séjour;1
+liquide gastrique;1
+besoin;1
+régulation de son niveau d' expression membranaire;1
+cystite aiguë à risque de complication;1
+généralités sur les principes;1
+niveau individuel;1
+déshydratation intracellulaire pure;1
+facteurs favorisants :   diabète;1
+diagnostic des calculs;1
+restriction hydrique pendant 12 à 18 heures;1
+hypertenseurs;1
+vasodilatatrices et hypotensives;1
+agressions immunologiques;1
+insuffisance cardiaque droite sévère ou la cirrhose;1
+tableau de nta;1
+hta génère;1
+moyenne;1
+survenue d' une diarrhée;1
+futurs donneurs;1
+99 mmhg;1
+modes de présentation;1
+implications économiques de santé publique;1
+hépatite b dès le stade 3b;1
+anomalies électrolytiques induites par l' irc terminale;1
+jusqu' aux muscles cervicaux;1
+grâce aux mécanismes d' autorégulation;1
+tcd;1
+conditions de l' équilibre;1
+présence d' anticorps anti-récepteur de l' acétylcholine;1
+site de l' agence de la biomédecine;1
+aide de l' osmolalité urinaire;1
+origine urologique devant une hématurie;1
+traitement empirique;1
+ht actuel/0;1
+infections systémiques;1
+cours de l' insuffisance rénale;1
+coagulation du sang;1
+type histologique oriente l' enquête étiologique;1
+syndromes de lyse tumorale;1
+patients non diabétiques;1
+ascite , hypertension portale;1
+complications qui sont des urgences théra- peutiques;1
+cause d' hyperkaliémie;1
+inversion;1
+bloc opératoire;1
+séances;1
+présence de chaînes légères;1
+pertes rénales :   traitement diurétique excessif;1
+perte rénale de potassium;1
+urgence médicale : anti-hypertenseur par voie intraveineuse;1
+principes du traitement de l' hypokaliémie;1
+leucocyturie et des nitrites en grande quantité;1
+réduction substantielle du risque cardiovasculaire;1
+professionnel de santé;1
+24 à 48 heures à l' arrêt;1
+médicaments suivants;1
+nécessité d' une hydratation;1
+composantes de l' hémodynamique glomérulaire;1
+tion de la gamma;1
+surface de filtration glomérulaire;1
+nlpc;1
+atpase dépendantes;1
+récepteur at1;1
+exception de la grossesse;1
+co-transport na - k-2cl;1
+installation plus rapide;1
+circonstances de découverte;1
+examen de radiologie;1
+élévation de la créatinine;1
+déficit en eau;1
+surface;1
+type d' atteinte rénale;1
+traitement antihypertenseur;1
+altération de la fonction rénale;1
+recueil urinaire sur sonde vésicale;1
+conséquence clinique;1
+facteurs de risque cardiovasculaire associés;1
+histologie « standard »;1
+diagnostics principaux;1
+homme jeune fumeur ou sujet âgé;1
+conséquences de l' administration des diurétiques;1
+lésions glomérulaires discrètes;1
+forme typique de l' enfant;1
+correction de toute hypoxie;1
+infection d' un shunt atrio;1
+coté où elle est la plus élevée;1
+ultrafiltrat glomérulaire;1
+traitement néphrotoxique;1
+spondylarthropathies , maladie périodique;1
+investigations urologiques;1
+hématuries d' origine urologique;1
+atteinte toxique;1
+inhibition du deuxième signal;1
+injections en bolus du traceur radioactif;1
+320 mosmol / kg;1
+clofibrate;1
+débit plasmatique;1
+tableau 1 : anomalies hydro;1
+2 catégories de donneurs décédés;1
+catécholamines urinaires;1
+importance de l' immunisation;1
+sexe féminin;1
+6 à 12 heures;1
+exercice physique très important- infarctus rénal;1
+monitoring pharmacologique;1
+valeurs obtenues par mesure automatisée;1
+lumière vasculaire;1
+myléome;1
+lec;1
+tuberculose urinaire;1
+hypercalcémie majeure;1
+équipes de transplantation;1
+sfndt;1
+14 j si autre atb de relai;1
+bénéfice du traitement anti-hypertenseur;1
+parois vasculaires;1
+pression de filtration chute;1
+signal;1
+imagerie tous les 5 ans;1
+hématogène;1
+pth q4;1
+causes d' hyperhydratation intracellulaire;1
+âge adulte;1
+maladies génétiques;1
+circuit extra-corporel;1
+néphropathie lupique de classe;1
+insuffisance rénale parvenant;1
+diminution de la protéinurie;1
+maladie osseuse rénale;1
+définitions de l' irc;1
+thyroïdectomie;1
+super-urgences;1
+hospitalisation ,   c3;1
+lorsqu' une bactérie dominante;1
+sudation importante;1
+calculs urétéraux de moins de 6 mm;1
+dépôts d' ig;1
+patientes;1
+positive;1
+doses d' autant plus importantes;1
+tests biologiques utiles au diagnostic;1
+progression de l' atteinte rénale;1
+kaliémie et sous traitement anti-hypertenseur;1
+segmentaires;1
+osmolarité;1
+urgence thérapeutique;1
+consommation d' héroïne , pamidronate;1
+infection d' un kyste;1
+élément de la démarche diagnostique;1
+anatomiquement;1
+indications et résultats;1
+adaptation secondaire à l' antibiogramme si besoin;1
+apports protéiques;1
+règles précédentes;1
+traitement préventif des atteintes rénales médicamenteuses;1
+inhibiteur du signal de co-stimulation;1
+calculs rénaux volumineux;1
+amphétamines;1
+hyperkaliémie avec hypoaldostéronisme;1
+maladie céphalées occipitales , acouphènes , phosphènes;1
+consommation d' alcool;1
+cours d' une nécrose tubulaire aiguë ischémique;1
+causes des ira obstructives;1
+antécédents familiaux;1
+passage intra-cellulaire de potassium;1
+ensemble des pays occidentaux;1
+faible poids moléculaire;1
+calculs radio-transparents sont de nature urique;1
+populations exposées;1
+irc les ains;1
+absence d' hématurie;1
+h2co3;1
+moyens non médicamenteux;1
+type de l' ira organique;1
+iodo;1
+jus d' orange;1
+active par voie transcellulaire;1
+destruction définitive et irréversible de l' encéphale;1
+coefficient d' ultrafiltration;1
+capacité de dilution;1
+octréotide ou lanréotide;1
+hypomagnésémie acidose métabolique;1
+dysfonctions rénales causées par des médicaments;1
+plan de soin;1
+présenté par coloration;1
+tableau 1 : particularités diagnostiques;1
+diagnostic de diabète insipide et prescrivez;1
+mortalité cardiovasculaire et risque rénal;1
+question 7;1
+brûlures , pancréatite;1
+tumeur prostatique ou vésicale;1
+adulte en contexte aigu;1
+anomalie de la voie alterne du complément;1
+cardiopathie urémique;1
+mère et le foetus;1
+59 ans;1
+déficit immunitaire héréditaire;1
+dernière étape;1
+protéinuries;1
+quinine , rifampicine;1
+rare chez l' enfant;1
+épargneur potassique;1
+5 cigarettes / jour;1
+discussions individuelles;1
+oedèmes pulmonaires «;1
+prise occulte de diurétiques de l' anse;1
+prescription de traitement diurétique;1
+littérature;1
+urgences thérapeutiques;1
+signes allergiques;1
+enquête;1
+facteurs associés pouvant contribuer au tableau;1
+conditions de recueil urinaire optimales;1
+petit nombre;1
+urines des 24 h;1
+classes de diurétiques;1
+onde;1
+cibles;1
+traitement des gem secondaires;1
+enquête diététique;1
+leucocyturie sans germes;1
+homme et troubles menstruels;1
+altérations structurales;1
+tumeur sécrétant la pth;1
+sarcoïdose , arrêt du lithium;1
+ira organique;1
+pédicelles;1
+aval du récepteur de la pth;1
+1 l / min;1
+recommandations has;1
+pressions de remplissage;1
+causes de ce tableau spécifique;1
+intolérance;1
+maximum;1
+type 3 : gn «;1
+systèmes natriurétiques;1
+insuffisance rénale et / ou une protéinurie;1
+hyperthermie;1
+méthodes de revascularisation;1
+phénomène mixte de convection du plasma;1
+risque d' insuffisance rénale fonctionnelle;1
+gn lupique;1
+hypocalcémie aiguë;1
+amphotéricine b : hypokaliémie et acidose;1
+taux bas ou «;1
+285 mosmol / kg;1
+osmolalité urinaire > 500 mosm / kg;1
+immuno;1
+médicaments dont les voies d' élimination;1
+activité α;1
+lenteur de la marche;1
+lec ou nlpc;1
+risque de dégradation de la fonction rénale;1
+pronostic de la néphropathie à iga;1
+aldosterone;1
+secteur;1
+élargissement du segment qrs figure 1;1
+surdosage en aminosides;1
+bactéries souvent résistantes;1
+vessie , urètre , prostate;1
+14 mmol;1
+syndromes néphrotiques primitifs et secondaires;1
+hyperkaliémie parfois sévère;1
+aspects éthiques des transplantations d' organes solides;1
+correction de l' hypocalcémie;1
+tazobactam ou c3;1
+conséquences sensibles en situation « normale;1
+gn avec prolifération endo ± extracapillaire;1
+polypnée , hyperventilation prolongée , hyperthermie;1
+courbe de poids;1
+épilepsie partielle complexe;1
+donneur idéal , absence d' ischémie froide;1
+signification rénale;1
+cortex rénal d' épaisseur conservée;1
+propositions suivantes concernant les néphropathies vasculaires;1
+hydroxylation;1
+phénomène de concentration;1
+lumière du capillaire;1
+incidence 3;1
+liste non exhaustive;1
+volume du secteur interstitiel;1
+uretère;1
+classes d' âge;1
+éléments de physiologie rénale 19;1
+confirmation : cytologie urinaire quantitative;1
+cibles générales;1
+acidose aiguë;1
+citrate , syndrome de lyse;1
+seuil;1
+éplérénone , plus récemment introduite;1
+contrôle de la volémie;1
+intoxication tabagique;1
+polycystine 1;1
+couplé;1
+hydroxylation rénale;1
+135 mmhg ou pad ≥ 85 mmhg;1
+intraveineuse;1
+alcalose;1
+oedème palpébral et péri-orbital;1
+impact important sur le microbiote intestinal;1
+lymphocytes t activés;1
+nom de néphropathies;1
+tableau 6 : diagnostic syndromique;1
+allergie sévère documentée à la pénicilline;1
+raison des anévrysmes artériels sacciformes intra-paren- chymateux;1
+indication à une biopsie rénale;1
+baisse de l' adh circulante;1
+maladie du collagène;1
+notamment dans la néphrose idiopathique;1
+résultats de l' antibiogramme;1
+réalisation d' une échographie rénale;1
+1 à 10 mg par jour;1
+mise en oeuvre;1
+résultat négatif;1
+balance hydrique;1
+capacités de dilution;1
+hta de l' adulte;1
+dialysance très faible ou nulle;1
+différence des diurétiques agissant;1
+hémodialyse intermittente;1
+migration lithiasique;1
+colonisation;1
+examen des selles;1
+recherche d' une lyse cellulaire;1
+sécrétion et de réabsorption;1
+prélèvement de reins de donneurs;1
+précoce de l' épuration extra-rénale;1
+ramifications;1
+débits;1
+insuffisance rénale rapidement progressive;1
+posologie basse;1
+toxines urémiques;1
+kaliémie < à 3 , 5 mmol;1
+60 % et 85;1
+thromboses vasculaires veineux surtout et artériels;1
+seule restriction hydrique;1
+120/70 mmhg;1
+situation d+/r-;1
+vasodilatation de l' artériole efférente glomérulaire;1
+performances de ces formules;1
+hématies;1
+n° 261;1
+insuffisance rénale légère;1
+mesure directe de l' osmolalité;1
+cortisol libre urinaire des 24 heures;1
+chroniques;1
+tableau 4 : prolifération cellulaire;1
+mesure soigneuse de la pression artérielle;1
+imagerie surrénalienne;1
+reins et des voies urinaires;1
+25 % des cas : rémission spontanée;1
+existence;1
+troubles du métabolisme phosphocalcique;1
+glomérulonéphrite extra-membraneuse ,   gnmp;1
+arbre généalogique complet et détaillé;1
+causes les plus fréquentes d' hec;1
+ectasie canaliculaire précalicielle ou maladie de cacchi;1
+pu = pression intra-tubulaire;1
+situations climatiques moyennes;1
+protéinurie clinique;1
+uvedose;1
+atpase dépendante sur la membrane basolatérale;1
+hypocalcémie est une anomalie métabolique peu fréquente;1
+h7 , salmonelles , shigelles;1
+activité et le sommeil;1
+bloquants , diurétiques thiazidiques;1
+osmolalité de ces compartiments;1
+arguments paracliniques;1
+contamination de l' appareil urinaire;1
+éléments de physiologie rénale13;1
+glandes salivaires accessoires;1
+créatininémie normale;1
+composés;1
+maladie évolutive et hypercalciurie résistante;1
+paralysie familiale;1
+collapsus ou état de choc;1
+appareil juxta - glomérulaire;1
+interaction;1
+mise en place d' une sonde endo;1
+encéphalite;1
+accès plus restreint;1
+signes histologiques de néphroangiosclérose maligne;1
+conséquences graves;1
+gnas 1;1
+≥ 40;1
+reconnaissance de l' alloantigène;1
+identifier les situations nécessitant une hospitalisation;1
+régulation de l' excrétion;1
+3 types de cellules glomérulaires;1
+carence en vitamine d fréquente;1
+tumeurs de la voie excrétrice supérieure;1
+sensibilité à l' epo;1
+interprétation d' un dosage de créatininémie;1
+140 - 159 mmhg;1
+leucocytes et / ou les nitrites;1
+autosomique dominante : tomodensitométrie rénale;1
+mécanismes généraux de la formation des oedèmes;1
+entérobactérie;1
+300 µmol;1
+hyponatrémie sévère;1
+temps consécutive à un état de choc;1
+atteinte d' organe;1
+évolution défavorable ou situation particulière;1
+hyperfonction;1
+acide sialique chargé négativement;1
+stades;1
+20 % x poids actuel;1
+troubles du métabolisme phospho;1
+40 à 80 mmol;1
+simple mesure de l' osmolarité urinaire;1
+fluide intracellulaire;1
+molécules de faible poids moléculaire;1
+18 mmol / l sur 48;1
+valeurs de créatininémie;1
+exploration;1
+myélinolyse centropontine;1
+citrate médicinal en cas d' échec;1
+traitement de l' hyperlipidémie;1
+mosm / kg;1
+risque de thrombose;1
+statines;1
+concentration plasmatique de la ciclosporine;1
+cause d' une insuffisance rénale chronique;1
+reflux de bas grade;1
+maladies primitives rénales;1
+patient dans sa prise en charge;1
+inhibiteurs de la pompe h+;1
+pression oncotique intratubulaire;1
+hyponatrémie hypertonique;1
+adénopathies;1
+fièvre d' origine centrale;1
+calculs urétéraux non visualisés par l' échographie;1
+examen cytologique quantitatif des urines;1
+nécessité d' un drainage;1
+convulsions;1
+intracellulaire mtor;1
+acidose métabolique aiguë à trou anionique normal;1
+systèmes régulateurs internes;1
+biologie :   élévation des ldh;1
+-- interstitiels de calcium;1
+leucocyturie sans bactériurie;1
+activité canaux sodiques;1
+activité de ce système génère;1
+antécédents répétés d' infections urinaires;1
+hémoptysies inconstantes;1
+phosphates malgré la baisse du dfg;1
+résidu post-mictionnel;1
+position assise ou couchée;1
+fer;1
+irc 13;1
+syndrome néphritique aigu d' une gna;1
+absorption ca++;1
+volume sanguin;1
+maladie de système;1
+bloqueurs sont des vasodilatateurs a-1 bloqueurs périphériques;1
+structures successives;1
+macrolides;1
+issue de cette démarche;1
+73 m²;1
+primo-infection transmise;1
+apport distal de na et d' h2o;1
+signes fonctionnels de complications cardiovasculaires;1
+insolubles et inabsorbables;1
+contexte clinique évocateur;1
+forme typique post-streptococcique : guérison sans séquelles;1
+préférence;1
+appellation corraliforme;1
+contrôle biologique annuel;1
+survenue de maladies cardio;1
+présence de caillots dans les urines;1
+prises ou des injections;1
+contexte d' insuffisance rénale;1
+insuffisance rénale et / ou protéinurie;1
+cause de la nic;1
+insuffisance rénale souvent oligo - anurique;1
+créatininémie x 2 en 7 jours;1
+tabagisme , dyslipidémies;1
+âgé de plus de 75 ans;1
+valeurs déjà élevées;1
+façons;1
+signes cliniques suivants;1
+écrasement soit par ischémie;1
+période;1
+analgésiques , ains , plomb , lithium;1
+annexe 2;1
+diuré-;1
+corticothérapie et immunosuppresseurs;1
+étude qualitative de la protéinurie , utile;1
+effets indésirables rénaux;1
+dépendance à l' alcool ou addiction;1
+démonstration d' amt;1
+repos;1
+trompeurs;1
+traitement anti-hypertenseur médicamenteux;1
+contribution de facteurs locaux;1
+prescription et surveillance;1
+protéinuries tubulaires isolées;1
+inflammation;1
+sel de calcium;1
+urinaires : pollakiurie , impériosités , dysurie;1
+événement fréquent;1
+sécrétion;1
+lésions de hsf;1
+furosémide et le bumétanide;1
+acyclovir , inhibiteurs des protéases;1
+particularités cliniques;1
+syndrome d' hématurie macroscopique récidivante;1
+femme jeune après rapport sexuel;1
+aldostérone et la noradrénaline;1
+complications médicamenteuses;1
+conséquences de l' irc évoluée;1
+restriction protidique;1
+nécessité d' un traitement anti-hypertenseur;1
+créatininémie élevée sans avoir d' insuffisance rénale;1
+intervention chirurgicale au contact de l' urine;1
+diagnostic de la nature;1
+cellule endothéliale;1
+néphropathies lupiques;1
+spécificités cliniques de l' hypocalcémie aiguë;1
+hyperhydratation e-;1
+artère rénale du greffon;1
+durée de l' antibiothérapie;1
+histologie et corrélations anatomo;1
+syndrome de bartter;1
+patient atteint de polykystose rénale autosomique dominante;1
+50 kg;1
+exceptions;1
+hyponatrémie associée à une hypoosmolalité plasmatique;1
+brûlures mictionnelles;1
+bloqueurs et des iec;1
+néphropathies ischémiques;1
+prévalence de l' hta;1
+immunodépression;1
+principales causes d' ira obstructives;1
+hyperuricémie et d' hyperuricurie;1
+canal luminal;1
+n° 326;1
+partir de l' eau de ville;1
+examens paracliniques;1
+rein de cryoglobulinémie;1
+régime peu salé + diurétique;1
+métabolisme de la vitamine;1
+infection intra-kystique;1
+cristaux de cholestérol;1
+lithiase rénale;1
+travers les membranes cellulaires;1
+analyse chimique simple du calcul;1
+biphosphonates;1
+durée d' utilisation chez un patient;1
+antibiothérapie initiale;1
+voire inversion de l' onde;1
+pouvoir de dilution;1
+traitement de choix : angioplastie transluminale;1
+vasodilatateur sur les artérioles rénales;1
+taux d' opposition au don d' organes;1
+reproductibilité de la mesure de la pa;1
+hta est dite volo;1
+diagnostic de pkrad;1
+gestion de la liste;1
+choix de l' antibiothérapie empirique;1
+facteur de risque de complication;1
+interstitielles chroniques;1
+baisse de la concentration des lg;1
+inhibiteurs calciques de type dihydropyridine;1
+recherche d' une néphropathie sous-jacente;1
+hypokaliémies;1
+lésion glomérulaire minime;1
+augmentation du risque cardiovasculaire;1
+traitement par l' hémodialyse;1
+2 cl-;1
+délétère sur le rein;1
+raison de leur faible poids moléculaire;1
+exception de l' insuffisance rénale chronique avancée;1
+objectifs thérapeutiques;1
+dernier;1
+pro-calciuriant;1
+maladie de von hippel;1
+constatations initiales;1
+éléments de réponse de l' adn;1
+traitement symptomatique de l' insuffisance rénale chronique;1
+patients d' une dysfonction endothéliale;1
+fibrose hépatique et hypertension portale;1
+migration calculeuse bilatérale simultanée;1
+traitement acidocétose diabétique;1
+repos 10min;1
+mobilisation des oedèmes;1
+tests hépatiques normaux;1
+bilan étiologique et le traitement;1
+2 bras;1
+anisotension;1
+minute;1
+lithiase d' oxalate de calcium;1
+médicaments potentiellement néphrotoxiques;1
+néphropathie initiale;1
+rétention hydro - sodée;1
+mutation du gène codant pour la protéine;1
+aminoside iv seul , voire c3;1
+origine de l' hypertension artérielle;1
+aspiration gastrique;1
+recommandations d' adaptation;1
+pression artérielle diastolique;1
+opacification;1
+trajet de ponction;1
+6 litres;1
+âge supérieur à 85 ans;1
+principes de la prévention;1
+hématurie microscopique ou macroscopique;1
+/j maximum 60 mg;1
+action de l' aldostérone;1
+urgente;1
+traitement curatif d' un calcul urinaire;1
+correction de l' hyponatrémie;1
+traitement des oedèmes généralisés;1
+protéinurie tubulaire;1
+hémolyse aiguë ou de choc;1
+néphrite interstitielle chronique , néphronophtise;1
+mois suivants l' interruption de cette contraception;1
+chaînes légères kappa et lambda;1
+pa systolique;1
+canal épithélial sodique;1
+symptomatologie et le diagnostic;1
+milieu;1
+facteurs génétiques et environnementaux;1
+éléments sémiologiques suivants;1
+affection glomérulaire connue , hypertension artérielle;1
+acidoses lactiques et des acidocétoses;1
+cystite gravidique;1
+complications associées à la néphropathie diabétique;1
+espace intracellulaire;1
+inflammation interstitielle;1
+hospitalisation dans la majorité;1
+rupture de pente de perte de dfg;1
+boule de neige »;1
+résultats de l' ecbu :   pipéracilline;1
+mode évolutif : aigu ou chronique;1
+traitement anti-hypertenseur;1
+10 g / l-;1
+compartiments capillaires et tubulaires;1
+effi- cacité de l' insuline;1
+hyperplasie parathyroïdienne;1
+prolifération de cellules épithéliales glomérulaires;1
+± signes extra-rénaux;1
+80 à 90;1
+fièvre et douleurs;1
+contrôle de ces échanges;1
+relation avec la dose;1
+progression rapide;1
+anticalcique;1
+récupération de l' ira;1
+don d' organe;1
+dépistage d' un anévrysme d' artère cérébrale;1
+présentatrice de l' antigène;1
+anémie régénérative;1
+pression hydrostatique intraglomérulaire;1
+résultat;1
+maladie goutteuse;1
+interstitielle;1
+stimulus volémique;1
+principaux médicaments responsables;1
+alcalose ii;1
+échec de ces approches;1
+dosage de la créatininémie;1
+cause possible d' insuffisance rénale chronique;1
+stade 4 : nodules de kimmestiel;1
+précautions habituelles;1
+3 kystes rénaux;1
+tableau 6 : causes des hyperoxaluries;1
+qualité du greffon;1
+absence de symptôme ou d' antécédent familial;1
+850 mmol par jour de potassium;1
+cellules du canal collecteur;1
+ntia 1 , 6;1
+diurétiques proximaux;1
+existence de lésions glomérulaires;1
+diagnostic de diabète insipide;1
+poids du patient;1
+anti-mbg;1
+traitements anti-acide prophylactiques;1
+pertes sodées rénales;1
+hta chez 75 % des patients;1
+nouvelle autorisation;1
+risque faible;1
+échantillon des urines du matin;1
+68 meq de sodium;1
+complications neurologiques graves;1
+formule suivante;1
+cholestérol total et hdl , triglycérides;1
+million d' habitants et par an;1
+cible < 140/90 mmhg;1
+gn aiguë post-infectieuse;1
+compartiment extra-cellulaire;1
+3 à 7 % en ville;1
+protéinurie de 24;1
+perfusion hyperosmolaire;1
+résultats d' un homme de 30 ans;1
+comorbidités : risque anesthésique trop élevé;1
+rebond;1
+membrane basale glomérulaire paraît épaissie;1
+démence évoluée;1
+autorégulation;1
+exposition aux métabolites du médicament;1
+3 anastomoses;1
+cellules parathyroïdiennes et sur les cellules rénales;1
+élévation modérée de la pa;1
+diminution de la puf par «;1
+hémodiafiltration continue;1
+quantité de nacl à administrer;1
+hydratation optimal;1
+âge d' un mois;1
+surrénales et dans 1/3;1
+forme secondaire par hypomagnésémie;1
+neutropénie , anémie;1
+ira fonctionnelle ) éliminées;1
+cryoglobulinémie et sérologie hépatite;1
+pbr par voie transjugulaire;1
+hta , syndrome urinaire pauvre;1
+cellules qui transportent le sodium;1
+n° 126;1
+asthme , les broncho;1
+types de traitement;1
+lithiases radio-transparentes sont de nature urique;1
+lésion histologique;1
+exhaustivité;1
+lithiase de calcium;1
+absence de souffrance viscérale;1
+1 - 25;1
+adulte suspect d' amylose si la biopsie;1
+3 jours de suite;1
+cardiopathie ischémique sous-jacente;1
+neuropathies , gastroparésie;1
+apports faibles en solutés;1
+habitudes et des possibilités locales;1
+-t -il un obstacle chronique;1
+signe commun;1
+rash cutané;1
+pharmacocinétique de nombreux médicaments;1
+hypokaliémie , acidose métabolique;1
+entités pathologiques;1
+symptômes urémiques;1
+orientation diagnostique devant une ira;1
+microalbuminurie pathologique;1
+zones où la pression hydrostatique capillaire;1
+bilan du potassium;1
+agression rénale aiguë surajoutée en particulier fonctionnelle;1
+simple surveillance;1
+cockcroft et gault;1
+glomérulonéphrite post-infectieuse;1
+stade 5 : sclérose glomérulaire et interstitielle;1
+apport de potassium lors du repas;1
+cours de l' insuffisance surrénale chronique substituée;1
+donneur;1
+4 kg;1
+candida albicans;1
+gène de la pth;1
+critères anamnestiques;1
+pertes hydro - sodées;1
+15 à 20 mm;1
+oedèmes de l' insuffisance rénale ou cardiaque;1
+chapitres respectifs;1
+suivi biologique;1
+types d' iu;1
+céphalosporines et aux quinolones;1
+facteurs nutritionnels;1
+néphrite -tubulo;1
+raf;1
+partie d' échange précédente;1
+facteurs de progression : protéinurie;1
+baisse de sécrétion tubulaire de potassium;1
+vascularite;1
+aldostérone pour maintenir le dfg;1
+cardiopathie ischémique;1
+insuffisance rénale au diagnostic;1
+attestent les données expérimentales et cliniques;1
+jusqu' à 20 ans;1
+chapitre entier;1
+association insuline;1
+variétés de thrombose veineuse;1
+catécholamines;1
+temps d' ischémie;1
+existence d' un choc septique initial;1
+prolifération des bactéries dans la vessie;1
+organes cibles :   hypertrophie ventriculaire gauche;1
+bonne valeur prédictive négative;1
+principaux mécanismes physiopathologiques impliqués;1
+modifications de l' hygiène de vie;1
+syndrome néphrotique intense;1
+baisse du débit urinaire;1
+prise de citrate de potassium;1
+acidose tubulaire rénale;1
+adénome;1
+allongement de l' intervalle d' administration;1
+types d' échanges;1
+myocarde à 51 ans;1
+atteint;1
+principales causes des ira;1
+apparition;1
+ml / min/1 , 73 m2;1
+présentation clinique :   doigts;1
+baisse isolée du dfg;1
+notamment chez les patients hypertendus;1
+identique aux pna graves;1
+pénicillines , amoxicilline;1
+-modifications;1
+protéines membranaires;1
+diagnostic de lithiase radio-transparente;1
+concentration des solutés le composant;1
+rythme cardiaque irrégulier;1
+alcalinisation plasmatique;1
+sulfamides;1
+maladies plus spécifiques;1
+déshydratation extracellulaire aiguë;1
+septicémie;1
+900 mmol;1
+déplétion chronique sévère en potassium;1
+libre accès à l' eau;1
+élimination rénale;1
+méthode;1
+risque d' hypercalcémie rebond;1
+2 , 4 mmol;1
+120 ml / min;1
+traitement médical de la lithiase calcique;1
+toux , dyspnée et détresse respiratoire;1
+calculs de struvite sont souvent coralliformes;1
+caillot;1
+300 mg / mmol de créatininurie;1
+« pilote de ligne »;1
+avis d' expert;1
+traitement et pronostic;1
+combinaison;1
+pth élevée;1
+dépistage de la microalbuminurie;1
+eau filtrée par le glomérule;1
+âge moyen de rupture : 41 ans;1
+sujets à risque élevé;1
+posologie journalière;1
+conséquences cardio;1
+« syndromes;1
+emboliques;1
+origine africaine;1
+particularités sémiologiques;1
+10 % des cas communautaires;1
+compartiment extracellulaire aux dépens;1
+capacités d' excrétion;1
+définition et épidémiologie;1
+syndrome néphrotique par glomérulopathie diabétique;1
+sténose artérielle rénale évaluée à 50;1
+causes de leucocyturie sans germes;1
+15 ans;1
+apparition d' une paralysie flasque hyperkaliémique;1
+éthylisme;1
+3 classes suivantes;1
+calcium , phosphates , parathormone;1
+hyperminéralocorticisme primitif;1
+travers;1
+voies trans- et paracellulaires;1
+présence d' une prolifération endo;1
+hypercoagulabilité;1
+nta ischémiques;1
+prise en charge des comorbidités;1
+forme peu sévère;1
+nva;1
+fixation;1
+raison du risque cv élevé;1
+formes les plus sévères;1
+ca dans le tube digestif;1
+hypothyroidie;1
+durée du traitement;1
+5 ‰;1
+stade 3 : expansion mésangiale;1
+absence de germes dans les urines;1
+sujets diabétiques et les personnes âgées;1
+signes de dec + dic;1
+formes anuriques;1
+présence d' une hypotension orthostatique;1
+39 ans;1
+onde sinusoïdale et asystolie;1
+échographie endo - rectale;1
+pratique devant toute ira;1
+cathétérisme sus-pubien;1
+fond d' oeil;1
+étiologie de la maladie rénale chronique;1
+contamination urinaire par des leucocytes vaginaux;1
+baisse importante de la filtration glomérulaire;1
+prostaglandines avec hyporéninisme;1
+fonction rénale et dosages sanguins;1
+malades leucémiques très hyperleucocytaires;1
+stock d' environ 3 750 mmol;1
+complications : thrombose des veines rénales;1
+diurèse et la température;1
+48 h d' un épisode infectieux orl;1
+épidémiologie de l' irct;1
+rapport avec une infection urinaire;1
+éléments d' orientation;1
+1 : ecg normal;1
+examen clinique complet;1
+calcidiol;1
+conditions climatiques sévères;1
+patients « macro- protéinuriques »;1
+gels d' aluminium;1
+immunosuppresseur autour de la puberté;1
+abdomen souple et des touchers pelviens normaux;1
+néphrite interstitielle aiguë médicamenteuse;1
+petit garçon;1
+mode de présentation;1
+lec utilise;1
+infections de l' appareil urinaire;1
+traitement d' une hyperhydratation extracellulaire;1
+augmentation du calcitriol;1
+accessibilité;1
+obstruction intra-tubulaire .   ;1
+accouchement;1
+stimuli de la sécrétion de rénine;1
+ii- diurétiques de l' anse;1
+fonction du siège de l' expansion hydrique;1
+glomérulonéphrite à dépôts mésangiaux d' iga;1
+tableau 1 : classement des néphropathies vasculaires;1
+malaise;1
+augmenté;1
+maladies kystiques héréditaires , néphronophtise;1
+fluide;1
+balance sodée négative;1
+contours des reins;1
+720 mmol;1
+bilan prégreffe;1
+traitements diurétiques;1
+néo-vessies iléales ou coliques;1
+fonction de la perception;1
+annexe 1;1
+dérivation urinaire en urgence;1
+absence d' hypertension artérielle;1
+patient atteint d' un syndrome métabolique;1
+triade symptomatique hautement spécifique;1
+tableau 5 : agents pathogènes;1
+patients inopérables;1
+mécanismes de la réponse;1
+risque de néphrectomie;1
+absence;1
+signes cliniques associés;1
+rare , diagnostic histologique;1
+like toxins »;1
+co2;1
+libre passage;1
+diurétiques d' action rapide , généralement nécessaires;1
+tubules rénaux;1
+bactéries à uréase;1
+tuberculose des voies urinaires;1
+comitialité;1
+5 % ≤;1
+sécrétion d' hormone antidiurétique;1
+qu' aux bloqueurs du système rénine angiotensine;1
+formules de calcul;1
+types de facteurs de risque;1
+constitution de l' urine primitive;1
+sonde jj pendant les premières semaines;1
+uricosurie;1
+corrélations anatomo - cliniques;1
+transmission de la maladie;1
+dosage pondéral de la protéinurie;1
+projet de sevrage;1
+hyperfiltration glomérulaire;1
+obstruction complète de la lumière tubulaire;1
+ains , iec , ara2;1
+hyalinose;1
+hta volodépendante;1
+manifestations cliniques de l' hyperkaliémie;1
+risque de rechute;1
+faible endurance;1
+moitié;1
+malnutrition et d' éthylisme;1
+simple gravité;1
+atteintes plus rares;1
+calciques , hyperkaliémie;1
+calcifications de la médullaire;1
+vasoconstricteur;1
+libération de potassium par les cellules musculaires;1
+± endocapillaire ± mésangiale;1
+principales indications des transplantations;1
+présence;1
+5 mmol;1
+hypertension artérielle maligne;1
+alcalose métabolique ou respiratoire;1
+femme de 20 à 55 ans;1
+° 265;1
+40 mmol / l;1
+donneurs décédés après arrêt cardiaque;1
+différences sur les antibiotiques utilisables;1
+activation sra;1
+25 000 meq;1
+perte d' eau;1
+50 % de tous les cancers;1
+microlithiases calicielles multiples;1
+régularisation du transit intestinal;1
+inefficacité du diurétique de l' anse;1
+modalités du traitement;1
+dose utilisée;1
+troubles de l' équilibre acide;1
+brûlures étendues , hémolyse massive;1
+hyperosmolarité qu' induit la restriction hydrique;1
+obtention d' une hémoglobinémie;1
+ordre alphabétique : amoxicilline;1
+prises d' anti - arythmique;1
+transplantations abo;1
+anticorps anti-nucléaires et anti-adn natifs : lupus;1
+traversée tubulaire;1
+anévrysme intracrânien asymptomatique;1
+calculs de struvite;1
+score ≥ 10;1
+partie du néphron;1
+spironolactone et l' éplérénone;1
+prise d' ains;1
+grands progrès avec l' avènement;1
+précipitation intra-vasculaire;1
+rôle pathogène;1
+analyse du sédiment urinaire;1
+ion potassium contre un ion sodium;1
+rétention hydrosodée liée à une insuffisance rénale;1
+patient avec leucocyturie significative;1
+nadroparine;1
+atteinte rénale la plus fréquente;1
+interface;1
+rappelons;1
+calcifications valvulaires et coronariennes;1
+notamment chez les diabétiques;1
+perméabilité de cette partie du tubule;1
+atteinte rénale de la pkrad;1
+récepteurs minéralocorticoïdes;1
+face à une kaliurèse basse;1
+impact de la corticothérapie;1
+sécrétion nette de protons h+;1
+hyperoxalurie primaire;1
+hyperkaliémie sévère;1
+immunosuppresseurs ciblant le lymphocyte;1
+mise en route du traitement;1
+protéinurie absente ou modérée;1
+antécédents de néphropathie aiguë;1
+résultats de l' ecbu;1
+surdosage de néphrotoxiques;1
+maladie thromboembolique veineuse chez l' adulte;1
+diminution de l' absorption intestinale du calcium;1
+uropathies obstructives ou malformatives;1
+2e hypothèse;1
+hypocalcémie vraie d' une pseudo hypocalcémie;1
+colonisation urinaire gravidique;1
+ascite;1
+hypertendu traité;1
+contraste;1
+dénutrition protéino;1
+hématocrite moyen de 40;1
+episclérite;1
+causes des oedèmes généralisés;1
+globe vésical;1
+hématome péri-rénal : douleur;1
+ponction du kyste infecté;1
+polyuro - polidipsie;1
+indications des transplantations;1
+jeune;1
+lgm;1
+surcharge;1
+phosphatase alcaline;1
+stades précédents;1
+15 jours;1
+bilharziose;1
+3e intention;1
+nia;1
+question 6;1
+tétanies voire convulsions;1
+acidose métabolique chronique;1
+principaux types d' ira;1
+cours des néphropathies interstitielles chroniques;1
+coeur : survie patient 55;1
+htm;1
+toxiques branche large;1
+bloqueurs du sra : iec - ara2;1
+hypertriglycéridémies extrêmes après avis spécialisé;1
+principaux organes;1
+toucher rectal;1
+cabinet médical et normale;1
+syndrome de cushing;1
+second temps;1
+syndrome néphrotique persiste;1
+gammapathie monoclonale;1

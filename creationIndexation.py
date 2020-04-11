@@ -9,16 +9,19 @@ from Corpus import Corpus
 import utils
 from TraitementSimple import TraitementSimple
 from TraitementNGrams import TraitementNGrams
-#from TraitementNGramsSpacy import TraitementNGramsSpacy
+from TraitementNGramsSpacy import TraitementNGramsSpacy
 from ParserCorpus import ParserCorpus
 
-nomfichier = "indexation5Grams_wikimedStem"
+nomfichier = "indexationSpacy7StemGroupmax_wikimed"
 fichierCorpus = "wikimed.txt"
+STEM=True
+GROUPMAX=True
 
 corpus = ParserCorpus.parse(fichierCorpus)
-trait = TraitementNGrams(1,5,'French')
+print('taille du corpus :',len(corpus.collection))
+trait = TraitementNGramsSpacy(1,7,'French',GROUPMAX)
 corpusTraite = utils.traiteCorpus(corpus,trait)
-ind = Indexation(corpusTraite,stem=True)
+ind = Indexation(corpusTraite,stem=STEM)
 
 with open(nomfichier, 'wb') as fichier:
     mon_pickler = pickle.Pickler(fichier)

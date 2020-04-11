@@ -26,6 +26,7 @@ class CValueStrategy(Strategy):
         
         dictTermeScore = dict()
         termesImb = self.calculTermesImbriques(docTraite)
+        
         for terme,ensTermes in termesImb.items():
             nbmot = len(terme)
             if(len(ensTermes)==0):
@@ -35,7 +36,7 @@ class CValueStrategy(Strategy):
                 for t in ensTermes:
                     somme += freq[t]
                 score = (freq[terme] - (1/len(ensTermes)) * somme )
-            score *=  math.log(nbmot+1)#+1 pour les single-word
+            score *=  math.log2(nbmot+1)#+1 pour les single-word
             #idf = self.indexation.getIDFTerme(terme)
             #score*=idf
             dictTermeScore[terme] = score

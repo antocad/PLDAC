@@ -8,6 +8,8 @@ from collections import Counter
 from TfIdfStrategy import TfIdfStrategy
 from CValueStrategy import CValueStrategy
 
+from nltk.stem import SnowballStemmer
+
 class CValueTfidfStrategy(Strategy):
     def __init__(self,indexationGeneraliste,formuletfifd,formuleAgregation,seuil=0):
         """
@@ -26,9 +28,10 @@ class CValueTfidfStrategy(Strategy):
         stratcvalue = CValueStrategy(self.indexation,self.seuil)
         cvalue = stratcvalue.execute(corpusTraite)
         #normalise cvalue
-        tot = sum(cvalue.values())
+        maxscore = max(cvalue.values())
+        minscore = min(cvalue.values())
         for terme in cvalue.keys():
-            cvalue[terme]/=tot
+            cvalue[terme] = (cvalue[terme]-minscore)/(maxscore-minscore)
 
         dictTermeScore = dict()
         for terme,scoretfidf in tfidf.items():

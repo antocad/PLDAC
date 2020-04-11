@@ -18,12 +18,18 @@ from TraitementNGramsSpacy import TraitementNGramsSpacy
 import Extractor
 from ParserItem import ParserItem
 from ParserCorpus import ParserCorpus
-from statistics import mean 
+from statistics import mean
+from collections import Counter
 
-nomfichierPickle = "indexation5Grams_wikimedStem"
-fichierExtration = "livrePretclean.txt"
-fichierres = 'res/reslivreCleanGroupmaxStemSeuil2.csv'
-trait = TraitementNGramsSpacy(1,5,'French')
+nomfichierPickle = "indexationSpacy7StemGroupmax_wikimed"
+fichierExtration = "livre2clean.txt"
+STEM=True
+SEUIL=0
+GROUPMAX=True
+fichierres = 'res/reslivre2cvaluestemgroupmax.csv'
+
+#traitement
+trait = TraitementNGramsSpacy(1,7,'French',GROUPMAX)
 
 #recup l'indexation
 with open(nomfichierPickle, 'rb') as fichier:
@@ -33,8 +39,16 @@ with open(nomfichierPickle, 'rb') as fichier:
 #recup le doc du quel on extrait les termes
 corpus = ParserItem.parse(fichierExtration)
 corpusTraite = utils.traiteCorpus(corpus,trait)
+"""doc = list(corpusTraite.collection.values())[0]
+freq = dict(Counter(doc.content))
+freq = sorted(list(freq.items()),key=lambda e:e[1],reverse=True)
+tmpres=''
+for t,occ in freq:
+    tmpres+= ' '.join(t)+';'+str(occ)+'\n'
+with open('freqlivrePretcleangm.txt','w',encoding='utf-8') as f:
+    f.write(tmpres)"""
 
-#strat = CValueStrategy(ind,seuil=5)
-strat = CValueTfidfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter),seuil=2)
-#strat = TfIdfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter)seuil=5)
-Extractor.Extractor.extract(corpusTraite,strat,-1,fichierres,stem=True)
+#strat = CValueStrategy(ind,seuil=SEUIL)
+strat = CValueTfidfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter),seuil=SEUIL)
+#strat = TfIdfStrategy(ind,  lambda tf,idf : (1+math.log(tf))*idf,  lambda iter : max(iter),seuil=SEUIL)
+Extractor.Extractor.extract(corpusTraite,strat,-1,fichierres,stem=STEM)

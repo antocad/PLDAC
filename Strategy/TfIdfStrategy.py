@@ -44,13 +44,15 @@ class TfIdfStrategy(Strategy):
         tfidfindexinv = inverseIndex(tfidfindex)
         for term,doc_tfidf in tfidfindexinv.items():
             dictTermeScore[term] = self.formuleAgregation(doc_tfidf.values())
+        
         return dictTermeScore
 
 def normaliseIndex(index):
     for doc,term_tfidf in index.items():
-        tot = sum(term_tfidf.values())
+        scoremax = max(term_tfidf.values())#par rapport au doc
+        scoremin = min(term_tfidf.values())#par rapport au doc
         for term in term_tfidf.keys():
-            index[doc][term]/=tot
+            index[doc][term] = (index[doc][term]-scoremin) / (scoremax-scoremin)
 
 def inverseIndex(index):
     res = dict()

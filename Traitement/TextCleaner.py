@@ -10,6 +10,8 @@ class TextCleaner():
         res = res.replace("\xad", "-").replace("−","-").replace("–","-")#les tirets 
         res = res.replace("’","'")#apostrophe
         res = res.replace('\x0c','').replace('■','')
+        res = res.replace(' -- ',' ')
+        res = re.sub('^ ?-{1,2} ?','',res,flags=re.MULTILINE)
         res = re.sub(r" +"," ",res)
         return res
         

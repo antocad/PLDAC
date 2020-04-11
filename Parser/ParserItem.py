@@ -14,7 +14,8 @@ class ParserItem(Parser):
 
         with open(path,'r',encoding='utf-8') as f :
             txt = f.read()
-        listedoc = re.split('^Items? .* \.',txt,flags=re.MULTILINE)
+        listedoc = [txt]
+        #re.split('^Items? .* \.',txt,flags=re.MULTILINE)
         for content in listedoc:
             corpus.addDocument(Document('', content))
         return corpus
