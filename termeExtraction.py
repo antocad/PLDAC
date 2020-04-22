@@ -20,17 +20,17 @@ from classeur.classeurOkapi import ClasseurOkapi
 PATH_CORPUSREF = 'ressources/corpus_ref.fr'
 
 def recupererIndexeurReference(config):
-    """Permet de récupérer l'indexeur du corpus de référence correspondant à 
+    """Permet de récupérer l'indexeur du corpus de référence correspondant à
     la configuration.
-    
-    Comme le traitement est long, si l'indexeur a déjà été créé il est chargé, 
+
+    Comme le traitement est long, si l'indexeur a déjà été créé alors il est chargé,
     sinon il est calculé puis enregistré pour les prochaines fois.
-    
+
     Parameters
     ----------
     config : Config
         objet de configuration
-        
+
     Returns
     -------
     Indexeur
@@ -39,34 +39,34 @@ def recupererIndexeurReference(config):
     pathInd = 'ressources/indRef_'+str(config.getMethodeExtraction().value)+ \
             '_'+str(config.getStem())+'_'+str(config.getLongueurMin())+'_'+\
             str(config.getLongueurMax())+'.pkl'
-    
+
     #si le fichier existe
     if(os.path.exists(pathInd)):
         return Indexeur.charger(pathInd)
-    #sinon on le créer
+    #sinon on le crée
     else:
-        #récupére le corpus de référence
+        #récupère le corpus de référence
         corpusRef = ParserArticle().parse(PATH_CORPUSREF)
-        
+
         #on crée l'extracteur correspondant au fichier de config
         extracteur = recupererExtracteur(config)
-        
+
         #on extrait les termes du corpus de référence
         corpusRef.extraction(extracteur)
-        #on créer l'indexation et on la sauvegarde pour ne pas recalculer la prochaine fois 
+        #on crée l'indexation et on la sauvegarde pour ne pas recalculer la prochaine fois
         indexation = Indexeur(corpusRef)
         indexation.sauvegarder(pathInd)
-        
+
         return indexation
-        
+
 def recupererExtracteur(config):
     """Permet de récupérer l'extracteur correspondant à la configuration
-    
+
     Parameters
     ----------
     config : Config
         objet de configuration
-        
+
     Returns
     -------
     Extracteur
@@ -75,21 +75,21 @@ def recupererExtracteur(config):
     #on crée l'extracteur correspondant au fichier de config
     if(config.getMethodeExtraction() == METHODES_EXTRACTION.POSTAG):
         return ExtracteurSpacy(config)
-    
+
     if(config.getMethodeExtraction() == METHODES_EXTRACTION.NGRAMMES):
         return ExtracteurNGrammes(config)
-        
+
 def recupererClasseur(config,indexCorpusRef):
     """Permet de récupérer le classeur correspondant à la configuration
-    
+
     Parameters
     ----------
     config : Config
         objet de configuration
-    
+
     indexCorpusRef: Indexeur
-        Certain classeur on besoin d'un corpus de référence
-        
+        Certains classeurs ont besoin d'un corpus de référence
+
     Returns
     -------
     Classeur
@@ -98,25 +98,25 @@ def recupererClasseur(config,indexCorpusRef):
     #on crée l'extracteur correspondant au fichier de config
     if(config.getMethodeScoring() == METHODES_SCORING.FREQUENCE):
         return ClasseurFrequence(config)
-    
+
     elif(config.getMethodeScoring() == METHODES_SCORING.TFIDF_STANDARD or\
        config.getMethodeScoring() == METHODES_SCORING.TFIDF_LOG):
         return ClasseurTFIDF(config,indexCorpusRef)
-    
+
     elif(config.getMethodeScoring() == METHODES_SCORING.CVALUE):
         return ClasseurCValue(config)
-    
+
     elif(config.getMethodeScoring() == METHODES_SCORING.OKAPI):
         return ClasseurOkapi(config,indexCorpusRef)
-    
+
 def ecrireCSV(lignes,csvpath):
-    """Ecris dans un fichier csv le classement des termes obtenu avant.
+    """Ecrit dans un fichier csv le classement des termes obtenus avant.
     Noms des champs du csv -> rang;terme;score.
-    
+
     Parameters
     ----------
     lignes : zip[list[int],list[tuple(str*)],list[float]]
-        Zip du rang, du termes, de son score. Ce qui va correspondre à une 
+        Zip du rang, du terme, de son score. Ce qui va correspondre à une
         ligne du csv rang;terme;score.
     """
     with open(csvpath,'w',encoding='utf-8',newline='') as fcsv:
@@ -125,44 +125,45 @@ def ecrireCSV(lignes,csvpath):
         for i,terme,score in lignes:
             strTerme = ' '.join(terme)
             csvWriter.writerow([str(i),strTerme,str(score)])
-    
+
 if __name__=='__main__':
     #on récupère le chemin d'où on appelle le script
     cheminAppel = os.getcwd()+'/'
     #Pour la suite on se place dans le repértoire qui contient le script
     os.chdir(os.path.abspath(os.path.dirname( __file__)))
-    
-    #récupération du fichier de config et initialise l'objet Config  
+
+    #récupération du fichier de config et initialise l'objet Config
     pathConfig = sys.argv[1]
     config = Config(cheminAppel+pathConfig)
-    
-    #on récupère l'indexation de référence 
-    indRef = recupererIndexeurReference(config) 
-    
-    #on récupère le corpus à traiter 
+
+    #on récupère l'indexation de référence
+    indRef = recupererIndexeurReference(config)
+
+    #on récupère le corpus à traiter
     pathCorpus = config.getCorpusPath()
     corpus = ParserSplit().parse(cheminAppel+pathCorpus)
-    
+
     #on extrait les termes du corpus
     extracteur = recupererExtracteur(config)
     corpus.extraction(extracteur)
 
     #on index le corpus à traiter
     indexCorpus = Indexeur(corpus)
-    
-    #on récupére le classeur pour classer les termes du corpus
+
+    #on récupère le classeur pour classer les termes du corpus
     classeur = recupererClasseur(config,indRef)
-    #on récupére les termes classés avec leur score
+
+    #on récupère les termes classés avec leur score
     listeTermesTrie = classeur.classer(indexCorpus)
-    
+
     #on découpe la liste des termes et scores
     listeTermes = [terme for terme,score in listeTermesTrie]
     listeScores = [score for terme,score in listeTermesTrie]
-    
-    #si stem = True alors on réécrit les stem en terme plus compréhensible 
+
+    #si stem = True alors on reconstruit les stems en des termes plus compréhensibles
     if(config.getStem()):
         listeTermes = extracteur.stemToTerme(listeTermes)
-    
+
     #on écrit dans un csv le résultat
     lignes = zip(list(range(1,len(listeTermes)+1)),listeTermes,listeScores)
     ecrireCSV(lignes,cheminAppel+config.getOutputPath())

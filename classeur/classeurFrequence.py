@@ -5,26 +5,26 @@ class ClasseurFrequence(Classeur):
     """Cette classe attribue comme score aux termes, leur fréquence selon l'agrégation
     dans la config.
 
-    ex : l'agrégation sum permet d'avoir la fréquence du termes dans tout le copus"""
+    ex : l'agrégation SUM permet d'avoir la fréquence du termes dans tout le corpus"""
     def __init__(self,config):
         """Constructeur de la classe ClasseurFrequence
-        
+
         Parameters
         ----------
         config : Config
             objet de configuration pour permettre de classer les termes en fonction
-            da le configuration        
+            da le configuration
         """
         super().__init__(config)
-        
+
     def noter(self,indexCorpus):
-        """Méthode qui attribue comme score aux termes, leur fréquence selon l'agrégation. 
-        
+        """Méthode qui attribue comme score aux termes, leur fréquence selon l'agrégation.
+
         Parameters
         ----------
         indexCorpus : Indexation
             L'index du corpus
-            
+
         Returns
         -------
         dict[tuple[str*],float]
