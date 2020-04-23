@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-from enum import Enum
 import re
+import copy
+from enum import Enum
 from distutils.util import strtobool
 
 METHODES_EXTRACTION = Enum('METHODES_EXTRACTION', 'POSTAG NGRAMMES')
@@ -234,3 +235,13 @@ class Config:
             chemin du fichier de sortie
         """
         return self.outputPath
+    
+    def copy(self):
+        """Renvoie une copie de cet objet
+        
+        Returns
+        -------
+        Config
+            Une copie de l'objet
+        """
+        return copy.copy(self)
