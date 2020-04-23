@@ -45,16 +45,16 @@ def recupererIndexeurReference(config):
     #sinon on le crée
     else:
         #on modifie la config pour que tout les chargements soit moins
-        #on prend toujours une config ou la longueur des termes est compris entre 1 et 100
+        #on prend toujours une config ou la longueur des termes est compris entre 1 et 8
         configRef = config.copy()
         configRef.longueurMin = 1
-        configRef.longueurMax = 100
+        configRef.longueurMax = 8
         
         #récupère le corpus de référence
         corpusRef = ParserArticle().parse(PATH_CORPUSREF)
 
         #on crée l'extracteur correspondant au fichier de config
-        extracteur = recupererExtracteur(config)
+        extracteur = recupererExtracteur(configRef)
 
         #on extrait les termes du corpus de référence
         corpusRef.extraction(extracteur)
