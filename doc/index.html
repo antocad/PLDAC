@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: Extraction de termes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+	<tr bgcolor="#7799ee">
+	<td valign=bottom>&nbsp;<br>
+	<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>PLDAC-Extraction de termes<br>extractionTerme.py</strong></big></big></font></td
+	><td align=right valign=bottom
+	><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br></font></td></tr>
+</table>
+    <p>
+			<tt>Programme&nbsp;pour&nbsp;l'extraction&nbsp;de&nbsp;termes.<br>
+				À&nbsp;appeler&nbsp;avec&nbsp;un&nbsp;fichier&nbsp;de&nbsp;configurations&nbsp;en&nbsp;argument (voir informations ci-dessous)<br>
+				<br>
+				<strong>python extractionTerme fichier_config.cfg</strong><br>
+			</tt>
+		</p>
+
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#59fde8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Required Librairies</strong></big></font></td></tr>
+<tr>
+		<td bgcolor="#59fde8"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td>
+		<td>&nbsp;</td>
+		<td width="100%">
+			<table width="100%" summary="list">
+				<tr>
+					<td width="50%" valign=top>spacy (need python 64 bits)<br></td>
+					<td width="50%" valign=top>nltk<br></td>
+				</tr>
+			</table>
+		</td>
+
+	</tr>
+
+</table>
+<br>
+
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Package Contents</strong></big></font></td></tr>
+<tr>
+		<td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td>
+		<td>&nbsp;</td>
+		<td width="100%">
+			<table width="100%" summary="list">
+				<tr>
+					<td width="14%" valign=top><a href="config.html">config</a><br></td>
+					<td width="14%" valign=top><a href="classeur.html">classeur</a><br></td>
+					<td width="14%" valign=top><a href="document.html">document</a><br></td>
+					<td width="14%" valign=top><a href="extracteur.html">extracteur</a><br></td>
+					<td width="14%" valign=top><a href="indexeur.html">indexeur</a><br></td>
+					<td width="14%" valign=top><a href="parserCorpus.html">parserCorpus</a><br></td>
+					<td width="14%" valign=top><a href="extractionTerme.html">extractionTerme (MAIN)</a><br></td>
+				</tr>
+			</table>
+		</td>
+
+	</tr>
+
+</table>
+<br>
+
+
+
+
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Options</strong></big></font></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>STEM</strong> : True, False <br>
+Si True, permet de réduire les termes à leur racine la plus neutre (sans féminin, pluriel, ...).<br>
+Cela permet de regrouper les termes d'une même racine et de les compter ensembles lors du traitement statistique.<br>
+ex: chevaux, cheval -> cheva<br>
+Si False, laisse les mots tels quels.<br><br></td></tr>
+
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>METHODEEXTRACTION</strong> : NGRAMMES, POSTAG<br>
+Si NGRAMMES, on va regarder tous les Ngrammes présents dans le document sans prêter attention au sens.<br>
+Cela permet de passer assurément sur tous les Ngrammes et donc même ceux de l'option POSTAG.<br>
+Si POSTAG, on va regarder tous les Ngrammes présents dans le document qui sont des racines de Ngrammes, c'est à dire qui ont du sens syntaxiquement parlant.<br>
+Utilisation de la bibliothèque spacy.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>LONGUEURMIN</strong> : int<br>
+Fixer la longueur minimale des termes (des Ngrammes) à analyser, en nombre de mots(/stem).<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>LONGUEURMAX</strong> : int<br>
+Fixer la longueur maximale des termes (des Ngrammes) à analyser, en nombre de mots(/stem).<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>SEUILNBOCCMIN</strong> : int<br>
+Fixer le seuil minimal des occurences des termes (des Ngrammes) à analyser.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>FORMULEAGREGATION</strong> : MAX, SUM, MEAN<br>
+Correspond à la façon dont les scores des termes sont agrégés entre eux pour chaque document.<br>
+<br>
+Si MAX, permet de calculer la fréquence maximale du termes dans tout le corpus.<br>
+Si SUM, permet de calculer la fréquence totale du termes dans tout le corpus.<br>
+Si MEAN, permet de calculer la fréquence moyenne du termes dans tout le corpus.<br><br></td></tr>
+
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>METHODESCORING</strong> : FREQUENCE, TFIDF_STANDARD, TFIDF_LOG, OKAPI, CVALUE<br>
+Cette option attribue un score aux termes.<br>
+Tous les scores sont normalisés par document puis regroupés selon l'agrégation choisie (option FORMULEAGREGATION).<br>
+<br>
+Si FREQUENCE, on va utiliser un simple comptage des occurences des termes.<br>
+Si TFIDF_STANDARD, on va utiliser la formule tf*idf.<br>
+Si TFIDF_LOG, on va utiliser la formule (1+log(tf))*idf.<br>
+Si OKAPI, on attribue le score okapi aux termes.<br>
+Si CVALUE, on attribue le score de la C-value aux termes. Ici, la méthode d'agrégation n'a pas d'influence. La C-value se calcule seulement
+	sur un document, donc ici on fusionne les documents avant le calcul.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>CVALUE</strong> : True, False<br>
+Fait la moyenne harmonique de la C-value et de la METHODESCORING<br>
+N'a de sens que si METHODESCORING = TFIDF_STANDARD | TFIDF_LOG | OKAPI<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>CORPUSPATH</strong> : str<br>
+Fixer le chemin d'accès au corpus dont on souhaite extraire les termes.<br>
+(peut être un dossier contenant des documents ou bien directement un document).<br>
+Si c'est un fichier qui contient tout le corpus, les documents dans le corpus doivent être séparés par une ligne contenant uniquement<br>
+la chaîne suivante : ###END###<br>
+S'il n'y a qu'un document on peut ne pas mettre la chaîne de fin.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>OUTPUTPATH</strong> : str<br>
+Fixer le nom (chemin d'accès) au fichier de sortie.<br><br></td></tr>
+
+</table>
+</body></html>

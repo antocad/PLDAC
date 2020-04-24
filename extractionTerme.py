@@ -49,7 +49,7 @@ def recupererIndexeurReference(config):
         configRef = config.copy()
         configRef.longueurMin = 1
         configRef.longueurMax = 8
-        
+
         #récupère le corpus de référence
         corpusRef = ParserArticle().parse(PATH_CORPUSREF)
 
