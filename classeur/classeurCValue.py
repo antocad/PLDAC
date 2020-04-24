@@ -96,5 +96,8 @@ class ClasseurCValue(Classeur):
         cValue = self.noter(indexCorpus)
         for terme,score in dictTermesScores.items():
             scoreCValue = cValue[terme]
-            dictTermeScoreFinale[terme] = (2*scoreCValue*score)/(scoreCValue+score)
+            if(scoreCValue+score == 0):
+                dictTermeScoreFinale[terme] = 0
+            else:
+                dictTermeScoreFinale[terme] = (2*scoreCValue*score)/(scoreCValue+score)
         return dictTermeScoreFinale
