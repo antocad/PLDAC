@@ -44,12 +44,17 @@ def recupererIndexeurReference(config):
         return Indexeur.charger(pathInd)
     #sinon on le crée
     else:
-        #on modifie la config pour que tout les chargements soit moins
-        #on prend toujours une config ou la longueur des termes est compris entre 1 et 8
+        #On modifie la config pour que tous les chargements soit moins long
+        #Pour l'indexeur du corpus de référence on prend toujours une config où la longueur 
+        #des termes est comprise entre 1 et 8.
+        #Comme ça, on ne créé pas un indexeur pour chaque configuration de longueur différente.
+        #Et ça ne change rien, si on demande les termes plus petit ils seront présent dans celui là.
+        #Si on demande plus grand ça ne changera pas ou peu l'idf car il est peu probable de 
+        #trouver les mêmes termes de longueur plus grande que 8 dans le corpus de référence.
         configRef = config.copy()
         configRef.longueurMin = 1
         configRef.longueurMax = 8
-
+        
         #récupère le corpus de référence
         corpusRef = ParserArticle().parse(PATH_CORPUSREF)
 
@@ -133,20 +138,20 @@ def ecrireCSV(lignes,csvpath):
 
 if __name__=='__main__':
     #on récupère le chemin d'où on appelle le script
-    cheminAppel = os.getcwd()+'/'
+    cheminAppel = os.getcwd()
     #Pour la suite on se place dans le repértoire qui contient le script
     os.chdir(os.path.abspath(os.path.dirname( __file__)))
 
     #récupération du fichier de config et initialise l'objet Config
     pathConfig = sys.argv[1]
-    config = Config(cheminAppel+pathConfig)
+    config = Config(os.path.join(cheminAppel,pathConfig))
 
     #on récupère l'indexation de référence
     indRef = recupererIndexeurReference(config)
 
     #on récupère le corpus à traiter
     pathCorpus = config.getCorpusPath()
-    corpus = ParserSplit().parse(cheminAppel+pathCorpus)
+    corpus = ParserSplit().parse(os.path.join(cheminAppel,pathCorpus))
 
     #on extrait les termes du corpus
     extracteur = recupererExtracteur(config)
@@ -171,4 +176,4 @@ if __name__=='__main__':
 
     #on écrit dans un csv le résultat
     lignes = zip(list(range(1,len(listeTermes)+1)),listeTermes,listeScores)
-    ecrireCSV(lignes,cheminAppel+config.getOutputPath())
+    ecrireCSV(lignes,os.path.join(cheminAppel,config.getOutputPath()))

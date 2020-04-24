@@ -44,7 +44,7 @@ class ClasseurTFIDF(Classeur):
         index = indexCorpus.getIndex()
 
         #on construit l'index mais avec comme valeur le tfidf depuis l'index du corpus
-        tfidfindex = dict()
+        tfidfIndex = dict()
         for doc,dictTermeFreq in index.items():
             #dict[tuples[str*],float] -> dictionnaire du score tfidf(en valeur) pour chaque terme(en clé) dans le doc
             tmp = dict()
@@ -52,18 +52,17 @@ class ClasseurTFIDF(Classeur):
                 idf = self.indexCorpusRef.getIDFTerme(term)
                 tfidf = self.formuleTFIDF(tf,idf)
                 tmp[term]=tfidf
-            tfidfindex[doc] = tmp
+            tfidfIndex[doc] = tmp
 
         #On normalise pour chaque document afin de préparer l'agrégation.
         #Pour comparer ce qui est comparable
-        normaliserIndex(tfidfindex)
+        normaliserIndex(tfidfIndex)
 
         #on calcule l'index inverse du tfidf à partir de l'index tfidf
-        tfidfindexinv = inverserIndex(tfidfindex)
+        tfidfIndexInv = inverserIndex(tfidfIndex)
 
         #Agrège les résultats
-        dictTermesTFIDF = {terme : self.formuleAgregation(dictDocTfidf.values())  \
-                 for terme,dictDocTfidf in tfidfindexinv.items()}
+        dictTermesTFIDF = self.agregerScore(indexCorpus.getCorpus().size(),tfidfIndexInv)
 
         #Fait une normalisation sur le score final avant de le retourner
         self.normaliserScoreClassement(dictTermesTFIDF)

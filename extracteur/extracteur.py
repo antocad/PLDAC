@@ -162,7 +162,7 @@ class Extracteur:
 
         return [terme for terme in listeTerme if terme in ensembleTermeSupSeuil]
 
-    def nettoyage(self, listeTermeTmp):
+    def nettoyerTerme(self, listeTermeTmp):
         """Nettoie une liste de termes temporaire.
 
         On retire les mots vides, la ponctuation en début et fin des termes de
@@ -195,10 +195,6 @@ class Extracteur:
                   termetmp[-1] in string.punctuation+string.whitespace)):
                 termetmp = termetmp[:-1]
 
-            #on tronque tous ce qu'il y a derrière une parenthèse
-            if('(' in termetmp):
-                termetmp =  termetmp[:termetmp.index('(')]
-
             #Si le terme est composé d'un mot de une lettre => invalide
             if(valide and len(termetmp)==1 and len(termetmp[0])==1):
                 valide = False
@@ -207,10 +203,15 @@ class Extracteur:
             if(valide and len(termetmp) == 1 and termetmp[0].isdigit()):
                 valide = False
 
-            #les points dans les termes n'ont pas de sens on invalide le terme
+            #Les points, les virgules, les parenthèses, ...
+            #dans les termes n'ont pas de sens on invalide le terme
+            caractereNonSens = '.,;()[]!?:"{}'
             t=' '.join([mot for mot in termetmp])
-            if(valide and '.' in t):
-                valide = False
+            if(valide):
+                for l in t:
+                    if(l in caractereNonSens):
+                        valide = False
+                        break
 
             #si le terme a été validé alors on l'ajoute à la liste des termes propres
             if(valide):
@@ -235,7 +236,7 @@ class Extracteur:
         """
         return [terme for terme in listeTerme if len(terme)>= self.config.getLongueurMin() and len(terme)<= self.config.getLongueurMax()]
 
-    def finalise(self,listeTermeTmp):
+    def finaliser(self,listeTermeTmp):
         """Prend une liste de termes temporaires et rend une liste des termes propres
         et conformes à la configuration.
 
@@ -249,7 +250,7 @@ class Extracteur:
         list[tuple[str*]]
             Liste de termes nettoyés et conformes à la configuration
         """
-        listeTermeFinale = self.nettoyage(listeTermeTmp)
+        listeTermeFinale = self.nettoyerTerme(listeTermeTmp)
 
         if(self.config.getStem()):
             listeTermeFinale = self.termeToStem(listeTermeFinale)

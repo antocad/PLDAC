@@ -2,9 +2,9 @@
 from statistics import mean
 from config.config import FORMULES_AGREGATION
 
-FONCTION_AGREGATION = {FORMULES_AGREGATION.MAX : lambda iter : max(iter), \
-                       FORMULES_AGREGATION.SUM : lambda iter : sum(iter), \
-                       FORMULES_AGREGATION.MEAN : lambda iter : mean(iter)}
+FONCTION_AGREGATION = {FORMULES_AGREGATION.MAX : max, \
+                       FORMULES_AGREGATION.SUM : sum, \
+                       FORMULES_AGREGATION.MEAN : mean}
 
 class Classeur:
     """Cette classe permet d'attribuer un score aux termes d'un corpus"""
@@ -75,3 +75,29 @@ class Classeur:
         scoremin = min(dictTermesScores.values())
         for terme in dictTermesScores.keys():
             dictTermesScores[terme] = (dictTermesScores[terme]-scoremin) / (scoremax-scoremin)
+            
+    def agregerScore(self,nbdoc,indexInvScore):
+        """Renvoie un dictionnaire de scores pour les termes du dictionnaire passé en argument, 
+        agréger selon la config.
+        
+        Parameters
+        ----------
+        nbdoc : int 
+            nombre de document dans le corpus. Important pour la moyenne.
+            
+        indexInvScore : dict[tuple[str*],dict[int,float]] 
+            Score d'un terme dans les documents
+            
+        Returns
+        -------
+        dict[tuple[str*],float]
+            Dictionnaire de score agrégé pour un terme
+        """
+        if(self.config.getFormuleAgregation() == FORMULES_AGREGATION.MEAN):
+            #on ajoute autant de zéros qu'il y a de document où le terme n'apparait pas
+            return {terme : self.formuleAgregation(list(dictDocScore.values())+[0]*(nbdoc-len(dictDocScore)))  \
+                 for terme,dictDocScore in indexInvScore.items()}
+                 
+        return {terme : self.formuleAgregation(dictDocScore.values())  \
+                 for terme,dictDocScore in indexInvScore.items()}
+        

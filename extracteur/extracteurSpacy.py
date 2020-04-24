@@ -45,7 +45,7 @@ class ExtracteurSpacy(Extracteur):
             #Le texte est trop grand, spacy nous met en garde et peut lever allocationError.
             #Une solution pourrait être de le couper en plusieurs blocs qu'on analyserait
             #bloc par bloc de taille plus raisonnable.
-            self.nlp.max_length=len(txt)
+            self.nlp.max_length = len(txt)
 
         txtTag = self.nlp(txt)
 
@@ -66,6 +66,15 @@ class ExtracteurSpacy(Extracteur):
             for n in nomsSousTerme:
                 if n in noms:
                     noms.remove(n)
+        
+        #on forme la liste des termes
+        listeTerme = [tuple([mot.text for mot in nom.subtree]) for nom in noms]
+        
+        #On tronque tout ce qu'il y a derrière une parenthèse
+        for iterme in range(0,len(listeTerme)):
+            termetmp = listeTerme[iterme]
+            if('(' in termetmp):
+                listeTerme[iterme] = termetmp[:termetmp.index('(')]
 
         #on compose nos termes finaux qu'on renvoie
-        return self.finalise([tuple([mot.text for mot in nom.subtree]) for nom in noms])
+        return self.finaliser(listeTerme)

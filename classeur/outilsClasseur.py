@@ -12,11 +12,16 @@ def normaliserIndex(index):
     index : dict[int,dict[tuple[str*],float]]
         Dictionnaire du score tfidf pour un terme par document
     """
+    
     for iddoc,dictTermesTfidf in index.items():
         scoremax = max(dictTermesTfidf.values())
         scoremin = min(dictTermesTfidf.values())
         for terme in dictTermesTfidf.keys():
-            index[iddoc][terme] = (index[iddoc][terme]-scoremin) / (scoremax-scoremin)
+            if(scoremax-scoremin == 0):
+                #cas particulier où tous les termes on le même score. on lui donne docn le score max càd 1
+                index[iddoc][terme] = 1
+            else:
+                index[iddoc][terme] = (index[iddoc][terme]-scoremin) / (scoremax-scoremin)
 
 def inverserIndex(index):
     """Renvoie l'index inverse de l'index passé en argument.

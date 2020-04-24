@@ -47,7 +47,7 @@ class ExtracteurNGrammes(Extracteur):
         for n in range(self.config.getLongueurMin(),self.config.getLongueurMax()):
             termes += self.nGrammes(txtSplit, n)
 
-        return self.finalise(termes)
+        return self.finaliser(termes)
 
     def nGrammes(self,listeMots,n):
         """On récupére les ngrammes à partir d'une liste de mot.

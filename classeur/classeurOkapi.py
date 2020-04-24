@@ -27,7 +27,7 @@ class ClasseurOkapi(Classeur):
     def noter(self,indexCorpus):
         """Méthode qui attribue un score aux termes.
         Le score correspond à okapi selon le choix fait dans le fichier de
-        config, normalisé par document puis pris selon l'agrégation choisie
+        config, normaliser par document puis pris selon l'agrégation choisie
         dans la config.
         """
         index = indexCorpus.getIndex()
@@ -53,8 +53,7 @@ class ClasseurOkapi(Classeur):
         okapiIndexInv = inverserIndex(okapiIndex)
 
         #Agrège les résultats
-        dictTermesOkapi = {terme : self.formuleAgregation(dictDocTfidf.values())  \
-                 for terme,dictDocTfidf in okapiIndexInv.items()}
+        dictTermesOkapi = self.agregerScore(indexCorpus.getCorpus().size(),okapiIndexInv)
 
         #Fait une normalisation sur le score final avant de le retourner
         self.normaliserScoreClassement(dictTermesOkapi)
