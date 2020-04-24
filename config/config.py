@@ -5,7 +5,7 @@ from enum import Enum
 from distutils.util import strtobool
 
 METHODES_EXTRACTION = Enum('METHODES_EXTRACTION', 'POSTAG NGRAMMES')
-METHODES_SCORING = Enum('METHODES_SCORING', 'FREQUENCE TFIDF_STANDARD TFIDF_LOG OKAPI CVALUE')
+METHODES_SCORING = Enum('METHODES_SCORING', 'FREQUENCE TFIDF_STANDARD TFIDF_LOG OKAPI')
 FORMULES_AGREGATION = Enum('FORMULES_AGREGATION', 'MAX SUM MEAN')
 
 PARAMS_OBLIGATOIRE = ['STEM','METHODEEXTRACTION','LONGUEURMIN','LONGUEURMAX',
@@ -235,10 +235,10 @@ class Config:
             chemin du fichier de sortie
         """
         return self.outputPath
-    
+
     def copy(self):
         """Renvoie une copie de cet objet
-        
+
         Returns
         -------
         Config

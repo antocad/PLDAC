@@ -16,7 +16,8 @@
 			<tt>Programme&nbsp;pour&nbsp;l'extraction&nbsp;de&nbsp;termes.<br>
 				À&nbsp;appeler&nbsp;avec&nbsp;un&nbsp;fichier&nbsp;de&nbsp;configurations&nbsp;en&nbsp;argument (voir informations ci-dessous)<br>
 				<br>
-				<strong>python extractionTerme fichier_config.cfg</strong><br>
+				Commande pour lancer le script:
+				<strong>python extractionTerme.py fichier_config.cfg</strong><br>
 			</tt>
 		</p>
 
@@ -63,15 +64,9 @@
 				</tr>
 			</table>
 		</td>
-
 	</tr>
-
 </table>
 <br>
-
-
-
-
 
 <table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
 <tr bgcolor="#eeaa77">
@@ -79,69 +74,85 @@
 <font color="#ffffff" face="helvetica, arial"><big><strong>Options</strong></big></font></td></tr>
 
 <tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>STEM</strong> : True, False <br>
-Si True, permet de réduire les termes à leur racine la plus neutre (sans féminin, pluriel, ...).<br>
-Cela permet de regrouper les termes d'une même racine et de les compter ensembles lors du traitement statistique.<br>
-ex: chevaux, cheval -> cheva<br>
-Si False, laisse les mots tels quels.<br><br></td></tr>
-
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>METHODEEXTRACTION</strong> : NGRAMMES, POSTAG<br>
-Si NGRAMMES, on va regarder tous les Ngrammes présents dans le document sans prêter attention au sens.<br>
-Cela permet de passer assurément sur tous les Ngrammes et donc même ceux de l'option POSTAG.<br>
-Si POSTAG, on va regarder tous les Ngrammes présents dans le document qui sont des racines de Ngrammes, c'est à dire qui ont du sens syntaxiquement parlant.<br>
-Utilisation de la bibliothèque spacy.<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>LONGUEURMIN</strong> : int<br>
-Fixer la longueur minimale des termes (des Ngrammes) à analyser, en nombre de mots(/stem).<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>LONGUEURMAX</strong> : int<br>
-Fixer la longueur maximale des termes (des Ngrammes) à analyser, en nombre de mots(/stem).<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>SEUILNBOCCMIN</strong> : int<br>
-Fixer le seuil minimal des occurences des termes (des Ngrammes) à analyser.<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>FORMULEAGREGATION</strong> : MAX, SUM, MEAN<br>
-Correspond à la façon dont les scores des termes sont agrégés entre eux pour chaque document.<br>
-<br>
-Si MAX, permet de calculer la fréquence maximale du termes dans tout le corpus.<br>
-Si SUM, permet de calculer la fréquence totale du termes dans tout le corpus.<br>
-Si MEAN, permet de calculer la fréquence moyenne du termes dans tout le corpus.<br><br></td></tr>
-
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>METHODESCORING</strong> : FREQUENCE, TFIDF_STANDARD, TFIDF_LOG, OKAPI, CVALUE<br>
-Cette option attribue un score aux termes.<br>
-Tous les scores sont normalisés par document puis regroupés selon l'agrégation choisie (option FORMULEAGREGATION).<br>
-<br>
-Si FREQUENCE, on va utiliser un simple comptage des occurences des termes.<br>
-Si TFIDF_STANDARD, on va utiliser la formule tf*idf.<br>
-Si TFIDF_LOG, on va utiliser la formule (1+log(tf))*idf.<br>
-Si OKAPI, on attribue le score okapi aux termes.<br>
-Si CVALUE, on attribue le score de la C-value aux termes. Ici, la méthode d'agrégation n'a pas d'influence. La C-value se calcule seulement
-	sur un document, donc ici on fusionne les documents avant le calcul.<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
-<td width="100%"><strong>CVALUE</strong> : True, False<br>
-Fait la moyenne harmonique de la C-value et de la METHODESCORING<br>
-N'a de sens que si METHODESCORING = TFIDF_STANDARD | TFIDF_LOG | OKAPI<br><br></td></tr>
-
-<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
 <td width="100%"><strong>CORPUSPATH</strong> : str<br>
 Fixer le chemin d'accès au corpus dont on souhaite extraire les termes.<br>
-(peut être un dossier contenant des documents ou bien directement un document).<br>
+Le chemin peut être absolu ou relatif par rapport à l'endroit où la commande est executée.<br>
 Si c'est un fichier qui contient tout le corpus, les documents dans le corpus doivent être séparés par une ligne contenant uniquement<br>
-la chaîne suivante : ###END###<br>
+la chaîne suivante : ##END##<br>
 S'il n'y a qu'un document on peut ne pas mettre la chaîne de fin.<br><br></td></tr>
 
 <tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
 <td width="100%"><strong>OUTPUTPATH</strong> : str<br>
-Fixer le nom (chemin d'accès) au fichier de sortie.<br><br></td></tr>
+Fixer le nom (chemin d'accès) au fichier de sortie.<br>
+Le chemin peut être absolu ou relatif par rapport à l'endroit où la commande est executée.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>STEM</strong> : True, False <br>
+Si True, permet de réduire les termes à leur racine la plus neutre (sans féminin, pluriel, ...).<br>
+Cela permet de regrouper les termes d'une même racine et de les compter ensembles lors du traitement statistique.<br>
+ex: chevaux, cheval -> cheva<br>
+Lors de la construction du fichier de résultat, les stems sont reconstruits en leur origine la plus fréquente.<br>
+ex:  cheva: {chevaux: 10, cheval:32} -> cheval<br>
+Globalement, il faut utiliser cette option, à moins que le genre et/ou le nombre soient importants<br>
+Si False, laisse les mots tels quels.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>METHODEEXTRACTION</strong> : NGRAMMES, POSTAG<br>
+Si NGRAMMES, on va regarder tous les Ngrammes présents dans le document.<br>
+Un Ngramme est extrait seulement s'il est entouré de mots vides (stopwords) ou de ponctuation.<br>
+Cela correspond à une façon 'naïve' d'extraire les termes, cette option est adaptée dans les cas où les documents ne sont pas biens construits (les phrases ne sont pas bien structurées en français).<br>
+<br>
+Si POSTAG, on va regarder tous les Ngrammes présents dans le document qui sont des racines de Ngrammes, c'est à dire qui ont du sens syntaxiquement parlant car ils forment des groupes nominaux.<br>
+Cette option est à privilégier lorsque les documents sont biens construits (les phrases sont bien structurées en français).<br>
+Utilisation de la bibliothèque spacy.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>LONGUEURMIN</strong> : int<br>
+Fixer la longueur minimale des termes (des Ngrammes) à analyser, en nombre de mots réels.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>LONGUEURMAX</strong> : int<br>
+Fixer la longueur maximale des termes (des Ngrammes) à analyser, en nombre de mots réels.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>SEUILNBOCCMIN</strong> : int<br>
+Fixer le seuil minimal des occurences des termes (des Ngrammes) à analyser.<br>
+Si = 0, tous les termes sont pris en compte.<br>
+Conseil d'utilisation: si il y beaucoup de termes extraits, cela pourrait être utile pour réduire la liste.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>FORMULEAGREGATION</strong> : MAX, SUM, MEAN<br>
+Correspond à la façon dont les scores des termes par document sont agrégés entre eux pour tout le corpus.<br>
+Ce paramètre est utile seulement si le coprus possède plus d'un document.<br>
+<br>
+Si MAX, un terme aura un score élevé s'il a un score élevé dans au moins un document. (on attribue à un terme son score le plus élevé parmi tous les documents).<br>
+Si SUM, plus un terme aura un score élevé dans de nombreux documents, plus il aura un score élevé.<br>
+Si MEAN, on regarde l'importance du terme dans tous les documents, donc son score est pénalisé s'il y a des documents où il n'apparaît pas.<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>METHODESCORING</strong> : FREQUENCE, TFIDF_STANDARD, TFIDF_LOG, OKAPI<br>
+Cette option attribue un score aux termes.<br>
+Tous les scores sont normalisés par document puis regroupés selon l'agrégation choisie (option FORMULEAGREGATION).<br>
+<br>
+Si FREQUENCE, on va utiliser un simple comptage des occurences des termes.<br>
+<br>
+Le score du TFIDF augmente avec la fréquence du terme et diminue si le terme est présent dans beaucoup de documents du corpus de référence.<br>
+Si TFIDF_STANDARD, on va utiliser la formule tf*idf.<br>
+Si TFIDF_LOG, on va utiliser la formule (1+log(tf))*idf.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;On utilise le log par rapport au standard lorsqu'on veut que la fréquence des termes aie moins d'importance<br>
+<br>
+Si OKAPI, on attribue le score okapi aux termes. le score okapi prend en compte la longueur du document par rapport à la longueur moyenne,<br>
+plus le document est grand, plus le score du terme diminue.<br>
+Le score Okapi augmente avec la fréquence du terme et diminue si le terme est présent dans beaucoup de documents du corpus de référence.<br>
+Ce score a du sens s'il y a plusieurs documents dans le corpus (et non un seul).<br>
+<br><br></td></tr>
+
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>CVALUE</strong> : True, False<br>
+La C-Value pénalise les termes qui sont inclus dans d'autres termes (ex: si on retrouve un unigramme dans un bigramme, le score de l'unigramme baisse)<br>
+Si True, on fait la moyenne harmonique du score C-Value et du score de la METHODESCORING (ci-dessus)<br>
+N'a de sens que si METHODESCORING = TFIDF_STANDARD | TFIDF_LOG | OKAPI<br>
+Le but de cette option sera de faire remonter les termes non-imbriqués.<br></td></tr>
 
 </table>
 </body></html>

@@ -4,8 +4,7 @@ from classeur.classeur import Classeur
 class ClasseurFrequence(Classeur):
     """Cette classe attribue comme score aux termes, leur fréquence selon l'agrégation
     dans la config.
-
-    ex : l'agrégation SUM permet d'avoir la fréquence du termes dans tout le corpus"""
+    """
     def __init__(self,config):
         """Constructeur de la classe ClasseurFrequence
 

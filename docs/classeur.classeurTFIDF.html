@@ -75,6 +75,22 @@ choisie&nbsp;dans&nbsp;la&nbsp;config.</tt></dd></dl>
 
 <hr>
 Methods inherited from <a href="classeur.classeur.html#Classeur">classeur.classeur.Classeur</a>:<br>
+<dl><dt><a name="ClasseurTFIDF-agregerScore"><strong>agregerScore</strong></a>(self, nbdoc, indexInvScore)</dt><dd><tt>Renvoie&nbsp;un&nbsp;dictionnaire&nbsp;de&nbsp;scores&nbsp;pour&nbsp;les&nbsp;termes&nbsp;du&nbsp;dictionnaire&nbsp;passé&nbsp;en&nbsp;argument,&nbsp;<br>
+agréger&nbsp;selon&nbsp;la&nbsp;config.<br>
+&nbsp;<br>
+Parameters<br>
+----------<br>
+nbdoc&nbsp;:&nbsp;int&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;nombre&nbsp;de&nbsp;document&nbsp;dans&nbsp;le&nbsp;corpus.&nbsp;Important&nbsp;pour&nbsp;la&nbsp;moyenne.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+indexInvScore&nbsp;:&nbsp;dict[tuple[str*],dict[int,float]]&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Score&nbsp;d'un&nbsp;terme&nbsp;dans&nbsp;les&nbsp;documents<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Returns<br>
+-------<br>
+dict[tuple[str*],float]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dictionnaire&nbsp;de&nbsp;score&nbsp;agrégé&nbsp;pour&nbsp;un&nbsp;terme</tt></dd></dl>
+
 <dl><dt><a name="ClasseurTFIDF-classer"><strong>classer</strong></a>(self, indexCorpus)</dt><dd><tt>Attribue&nbsp;un&nbsp;score&nbsp;aux&nbsp;termes&nbsp;du&nbsp;corpus&nbsp;puis&nbsp;les&nbsp;trie&nbsp;en&nbsp;fonction&nbsp;du<br>
 score,&nbsp;puis&nbsp;par&nbsp;ordre&nbsp;alphabétique&nbsp;si&nbsp;égalité&nbsp;sur&nbsp;le&nbsp;score<br>
 &nbsp;<br>

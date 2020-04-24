@@ -27,7 +27,7 @@ class ClasseurOkapi(Classeur):
     def noter(self,indexCorpus):
         """Méthode qui attribue un score aux termes.
         Le score correspond à okapi selon le choix fait dans le fichier de
-        config, normaliser par document puis pris selon l'agrégation choisie
+        config, normalisé par document puis pris selon l'agrégation choisie
         dans la config.
         """
         index = indexCorpus.getIndex()

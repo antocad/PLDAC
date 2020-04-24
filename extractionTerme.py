@@ -45,16 +45,16 @@ def recupererIndexeurReference(config):
     #sinon on le crée
     else:
         #On modifie la config pour que tous les chargements soit moins long
-        #Pour l'indexeur du corpus de référence on prend toujours une config où la longueur 
+        #Pour l'indexeur du corpus de référence on prend toujours une config où la longueur
         #des termes est comprise entre 1 et 8.
         #Comme ça, on ne créé pas un indexeur pour chaque configuration de longueur différente.
         #Et ça ne change rien, si on demande les termes plus petit ils seront présent dans celui là.
-        #Si on demande plus grand ça ne changera pas ou peu l'idf car il est peu probable de 
+        #Si on demande plus grand ça ne changera pas ou peu l'idf car il est peu probable de
         #trouver les mêmes termes de longueur plus grande que 8 dans le corpus de référence.
         configRef = config.copy()
         configRef.longueurMin = 1
         configRef.longueurMax = 8
-        
+
         #récupère le corpus de référence
         corpusRef = ParserArticle().parse(PATH_CORPUSREF)
 
@@ -112,9 +112,6 @@ def recupererClasseur(config,indexCorpusRef):
     elif(config.getMethodeScoring() == METHODES_SCORING.TFIDF_STANDARD or\
        config.getMethodeScoring() == METHODES_SCORING.TFIDF_LOG):
         return ClasseurTFIDF(config,indexCorpusRef)
-
-    elif(config.getMethodeScoring() == METHODES_SCORING.CVALUE):
-        return ClasseurCValue(config)
 
     elif(config.getMethodeScoring() == METHODES_SCORING.OKAPI):
         return ClasseurOkapi(config,indexCorpusRef)
