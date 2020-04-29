@@ -77,6 +77,11 @@ class ExtracteurNGrammes(Extracteur):
                listeMots[i+n] not in self.motsVides ):
                 #le terme n'est pas valide
                 continue
+            if(termePotentiel[0] in self.motsVides or termePotentiel[-1] in self.motsVides):
+                #si le terme commence ou termine par un mot vide, il n'est pas valide
+                #car les mots vides avant et après sont retiré et donc il ne sera
+                #plus un terme de longueur n passé en argument
+                continue
 
             listeTermes.append(tuple(termePotentiel))
 

@@ -182,10 +182,8 @@ class Extracteur:
         """
         listeTermePropre = []
         for terme in listeTermeTmp:
-            #si le terme est valide, c'est-à-dire qu'il sera gardé car il est bien formé
-            valide = True
-
             termetmp = terme
+            
             #on retire les mots vides et la ponctuation en début de terme
             while(len(termetmp)>0 and (termetmp[0] in self.motsVides \
                   or termetmp[0] in string.punctuation+string.whitespace)):
@@ -194,28 +192,34 @@ class Extracteur:
             while(len(termetmp)>0 and (termetmp[-1] in self.motsVides or \
                   termetmp[-1] in string.punctuation+string.whitespace)):
                 termetmp = termetmp[:-1]
-
+            
+            #si le terme est vide on invalide 
+            if(len(termetmp) <= 0):
+                continue
+            
             #Si le terme est composé d'un mot de une lettre => invalide
-            if(valide and len(termetmp)==1 and len(termetmp[0])==1):
-                valide = False
+            if(len(termetmp) == 1 and len(termetmp[0])==1):
+                continue
 
             #Si le terme est composé d'un mot et que c'est un nombre => invalide
-            if(valide and len(termetmp) == 1 and termetmp[0].isdigit()):
-                valide = False
+            if(len(termetmp) == 1 and termetmp[0].isdigit()):
+                continue
 
             #Les points, les virgules, les parenthèses, ...
             #dans les termes n'ont pas de sens on invalide le terme
+            valide = True
             caractereNonSens = '.,;()[]!?:"{}'
             t=' '.join([mot for mot in termetmp])
-            if(valide):
-                for l in t:
-                    if(l in caractereNonSens):
-                        valide = False
-                        break
-
-            #si le terme a été validé alors on l'ajoute à la liste des termes propres
-            if(valide):
-                listeTermePropre.append(termetmp)
+            for l in t:
+                if(l in caractereNonSens):
+                    valide = False
+                    break
+            if(not valide):
+                continue
+                
+            #si on est arrivé à cette ligne c'est que le terme a été validé
+            #alors on l'ajoute à la liste des termes propres
+            listeTermePropre.append(termetmp)
 
         return listeTermePropre
 
